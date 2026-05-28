@@ -6,7 +6,8 @@ Everything you need to **pitch** (5 min), **demo** (5 min), and **handle Q&A** (
 
 | Order | Document | Purpose |
 |-------|----------|---------|
-| 0 | **[demo/NON_TECHNICAL_PLAYBOOK.md](demo/NON_TECHNICAL_PLAYBOOK.md)** | **Start here if you're not from engineering** — what to say word-for-word |
+| 0 | **[demo/LIVE_TELEPROMPTER.md](demo/LIVE_TELEPROMPTER.md)** | **Start here for live interview** — every click + what to say, start to finish |
+| 0b | [demo/NON_TECHNICAL_PLAYBOOK.md](demo/NON_TECHNICAL_PLAYBOOK.md) | Deeper dialogue + jargon glossary |
 | 1 | [demo/CHECKLIST.md](demo/CHECKLIST.md) | Prep timeline |
 | 2 | [demo/PITCH_OUTLINE.md](demo/PITCH_OUTLINE.md) | Word-for-word 5-min pitch |
 | 3 | [slides/PITCH_SLIDES.md](slides/PITCH_SLIDES.md) | 3-slide deck content |
