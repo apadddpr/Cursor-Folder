@@ -56,4 +56,8 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 - https://trust.cursor.com
 - Cursor blog & webinar recordings
 
+## Share with Claude (or another AI)
+
+See [demo/HOW_TO_SHARE_WITH_CLAUDE.md](demo/HOW_TO_SHARE_WITH_CLAUDE.md). Quick: run `./scripts/bundle-for-claude.sh` and upload the zip to a Claude Project.
+
 Good luck in your interview.
