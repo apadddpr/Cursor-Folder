@@ -1,0 +1,26 @@
+---
+description: Responsive platform engineering standards (demo)
+globs: services/**/*
+alwaysApply: false
+---
+
+# Responsive Platform — Engineering Rules
+
+You are working on Responsive's Strategic Response Management (SRM) platform.
+
+## Security & compliance (non-negotiable)
+- Every **create, update, or delete** on questionnaires or responses MUST call `recordAuditEvent()` from `services/auditLogger.ts`.
+- Audit events require: `orgId`, `actorId` (from `req.auth`), `action`, `resourceType`, `resourceId`, and relevant `metadata`.
+- Action naming: `questionnaire.created`, `questionnaire.status_changed`, `response.created`.
+- Never add routes under `/v1/internal/*` without `requireAuth` unless explicitly approved by Security (ticket required).
+
+## Multi-tenancy
+- All data access MUST scope by `req.auth.orgId`. Never return another org's records.
+
+## API conventions
+- Use Zod for request validation; return `{ error, details? }` on 400.
+- Success payloads: `{ data: T }`.
+- Prefer minimal diffs; match existing Express router patterns in `src/routes/`.
+
+## Testing
+- Add or update Vitest tests when changing `auditLogger` or store logic.
