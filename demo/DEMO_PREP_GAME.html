@@ -61,7 +61,9 @@
       font: inherit;
     }
     .mode-card:hover { border-color: var(--accent); background: var(--surface2); }
-    .mode-card h3 { font-size: 1rem; margin-bottom: 0.25rem; }
+    .mode-card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+    .mode-card h3 { font-size: 1rem; margin-bottom: 0.25rem; display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; }
+    .mode-card .start-hint { font-size: 0.75rem; font-weight: 500; color: var(--accent); }
     .mode-card p { font-size: 0.85rem; color: var(--muted); }
     .mode-card .badge {
       display: inline-block;
@@ -197,28 +199,28 @@
     <!-- HOME -->
     <section class="screen active" id="screenHome">
       <div class="card-grid">
-        <button class="mode-card" data-mode="quiz">
-          <h3>Knowledge Quiz</h3>
+        <button type="button" class="mode-card" data-mode="quiz">
+          <h3>Knowledge Quiz <span class="start-hint">Start →</span></h3>
           <p>Pitch, demo rules, architecture, competitive Q&A, and “what not to do.”</p>
           <span class="badge">~45 questions · pick topics</span>
         </button>
-        <button class="mode-card" data-mode="simulator">
-          <h3>Demo Step Simulator</h3>
+        <button type="button" class="mode-card" data-mode="simulator">
+          <h3>Demo Step Simulator <span class="start-hint">Start →</span></h3>
           <p>Walk the 17 live-demo clicks in order — LEFT, CENTER, RIGHT, keyboard.</p>
           <span class="badge">From DEMO_CLICK_ONLY.md</span>
         </button>
-        <button class="mode-card" data-mode="shortcuts">
-          <h3>Mac Shortcut Drill</h3>
+        <button type="button" class="mode-card" data-mode="shortcuts">
+          <h3>Mac Shortcut Drill <span class="start-hint">Start →</span></h3>
           <p>Match Cursor 3 shortcuts to actions (Shift+Cmd+L, Cmd+., etc.).</p>
           <span class="badge">From CURSOR_3_MAC_GUIDE.md</span>
         </button>
-        <button class="mode-card" data-mode="prompts">
-          <h3>Agent Prompt Recall</h3>
+        <button type="button" class="mode-card" data-mode="prompts">
+          <h3>Agent Prompt Recall <span class="start-hint">Start →</span></h3>
           <p>Fill in the blanks on PROMPT 1 & 2 — the hero demo moments.</p>
           <span class="badge">JIRA-4827 · SEC-1192</span>
         </button>
-        <button class="mode-card" data-mode="boss">
-          <h3>Final Boss Round</h3>
+        <button type="button" class="mode-card" data-mode="boss">
+          <h3>Final Boss Round <span class="start-hint">Start →</span></h3>
           <p>Mixed hard questions + simulator steps — pass at 80% to “demo ready.”</p>
           <span class="badge">Best score tracked</span>
         </button>
@@ -545,7 +547,7 @@
             html += `<input data-blank="${i}" placeholder="${escapeHtml(item.hints[i])}" style="width:120px;margin:0 4px;padding:4px 8px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text)" />`;
           }
         });
-        html += "</div><div id="feedback"></div>";
+        html += '</div><div id="feedback"></div>';
         html += '<div class="btn-row"><button class="btn-primary" id="checkPrompt">Check</button></div>';
         body.innerHTML = html;
         document.getElementById("checkPrompt").onclick = () => checkPrompt(item);
@@ -660,18 +662,40 @@
       showScreen("screenResults");
     }
 
-    // Events
-    document.querySelectorAll(".mode-card").forEach((card) => {
-      card.addEventListener("click", () => {
-        const mode = card.dataset.mode;
-        if (mode === "quiz") {
+    function bindEvents() {
+      document.querySelectorAll(".mode-card").forEach((card) => {
+        card.addEventListener("click", () => {
+          const mode = card.dataset.mode;
+          if (mode === "quiz") {
+            setupCategoryPicks();
+            showScreen("screenQuizSetup");
+          } else {
+            startSession(mode);
+          }
+        });
+      });
+
+      document.querySelectorAll("[data-back]").forEach((b) => {
+        b.addEventListener("click", () => showScreen("screenHome"));
+      });
+
+      document.getElementById("nextBtn").addEventListener("click", () => {
+        if (session.index >= session.items.length - 1) finishSession();
+        else {
+          session.index++;
+          renderPlay();
+        }
+      });
+
+      document.getElementById("retryBtn").addEventListener("click", () => {
+        if (session.mode === "quiz") {
           setupCategoryPicks();
           showScreen("screenQuizSetup");
         } else {
-          startSession(mode);
+          startSession(session.mode, session.categories ? { categories: session.categories } : {});
         }
       });
-    });
+    }
 
     function setupCategoryPicks() {
       const el = document.getElementById("categoryPicks");
@@ -703,29 +727,18 @@
       };
     }
 
-    document.querySelectorAll("[data-back]").forEach((b) => {
-      b.addEventListener("click", () => showScreen("screenHome"));
-    });
+    function init() {
+      bindEvents();
+      renderStats();
+      setupCategoryPicks();
+    }
 
-    document.getElementById("nextBtn").addEventListener("click", () => {
-      if (session.index >= session.items.length - 1) finishSession();
-      else {
-        session.index++;
-        renderPlay();
-      }
-    });
-
-    document.getElementById("retryBtn").addEventListener("click", () => {
-      if (session.mode === "quiz") {
-        setupCategoryPicks();
-        showScreen("screenQuizSetup");
-      } else {
-        startSession(session.mode, session.categories ? { categories: session.categories } : {});
-      }
-    });
-
-    renderStats();
-    setupCategoryPicks();
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
   </script>
+  <noscript><p style="text-align:center;padding:2rem;color:#ff6b7a">JavaScript is required for this game. Open the file in Chrome or Safari with JS enabled.</p></noscript>
 </body>
 </html>
