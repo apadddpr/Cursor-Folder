@@ -9,7 +9,92 @@
 
 **You do not use cursor.com/agents for this session.**
 
-**Mac + Cursor 3?** Shortcuts changed. Use **`demo/CURSOR_3_MAC_GUIDE.md`** — prefer **`Cmd+Shift+P`** (Command Palette) or clicks if `Cmd+I` / `Cmd+L` feel wrong.
+**Mac + Cursor 3?** Use the **CLICK-BY-CLICK** section below — your Mac uses **`Shift + Cmd + L`** for New Agent (shown on your welcome screen).
+
+---
+
+# SETUP — Do you need anything special to run the prompts?
+
+**No deploy. No npm. No server.** Agent edits files on your Mac like a developer would.
+
+### One-time (already done if you see `demo/` in the sidebar)
+
+| Step | Action |
+|------|--------|
+| 1 | Cursor desktop installed |
+| 2 | **File → Open Folder** → `Cursor-Folder` |
+| 3 | Copy **Prompt 1** and **Prompt 2** (below) into Apple Notes |
+
+### Optional (skip for interview)
+
+```bash
+cd ~/Cursor-Folder/services/questionnaire-api
+npm install
+```
+
+Only needed if you want to say “tests pass.” **Agent works without this.**
+
+### Before the call (2 minutes)
+
+| Step | Action |
+|------|--------|
+| 1 | Open Cursor → `Cursor-Folder` |
+| 2 | **Shift + Cmd + L** once — confirm right panel says “New Agent” / has a text box |
+| 3 | Paste **Prompt 1** in Notes (ready to copy) |
+| 4 | Open 3 files (click in left sidebar): `docs/ARCHITECTURE.md`, `questionnaires.ts`, `responsive-platform.mdc` |
+
+**That’s all the setup.** Prompts run in the **right-hand Agent panel** — not Terminal, not GitHub, not cursor.com.
+
+### Prompts (copy to Notes now)
+
+**PROMPT 1:**
+```text
+Implement JIRA-4827: wire SOC2 audit logging for all questionnaire and response mutations.
+
+Requirements:
+- Use recordAuditEvent from src/services/auditLogger.ts
+- Follow .cursor/rules/responsive-platform.mdc
+- Cover: POST /v1/questionnaires, PATCH .../status, POST .../responses
+- Add vitest tests proving audit events are created
+- Do not change the internal export route yet
+
+After editing, summarize what changed for a PR description.
+```
+
+**PROMPT 2:**
+```text
+Fix SEC-1192: secure GET /v1/internal/export/:questionnaireId per responsive-platform rules.
+Require auth and org scoping.
+```
+
+---
+
+# CLICK-BY-CLICK — Demo only (Cursor 3 Mac)
+
+Use this during the **5-minute live demo**. Words to say are in **Part 2** below — this is **what your fingers do**.
+
+| Step | You do | You see |
+|------|--------|---------|
+| **1** | Share screen → **Cursor** window (not browser) | File tree on left |
+| **2** | **Click** `docs` → `ARCHITECTURE.md` | File opens in center |
+| **3** | **Scroll** to “Known gaps” | Two bullet gaps |
+| **4** | **Click** `services` → `questionnaire-api` → `src` → `routes` → `questionnaires.ts` | Code with TODO line |
+| **5** | **Click** `.cursor` → `rules` → `responsive-platform.mdc` | Rules file |
+| **6** | **Click** inside the **right panel** text box (“Plan, Build…”) OR press **`Shift + Cmd + L`** | Cursor blinking in Agent input |
+| **7** | Press **`Cmd + .`** (period) → if menu appears, pick **Ask** | Ask mode (if option exists; if not, skip to step 8) |
+| **8** | **Paste** onboarding question (in Part 2 below) → press **Return** | AI types an answer |
+| **9** | Press **`Cmd + .`** → pick **Agent** (or press **Shift + Tab** in the input box) | Agent mode |
+| **10** | **Paste PROMPT 1** from Notes → press **Return** | “Working…” / file names scrolling |
+| **11** | **Keep talking** (script in Part 2) while it runs | Wait 30–90 sec |
+| **12** | When done, **click** files listed in the Agent reply / diff | Green/red changes |
+| **13** | **Paste PROMPT 2** → **Return** | Second diff |
+| **14** | **Stop** — say recap (Part 2 “Demo close”) | Done |
+
+**If Agent panel is missing:** `Shift + Cmd + L` OR top-right **Agents** icon OR `Cmd + Shift + P` → type `Toggle Sidepanel` → Enter.
+
+**If nothing happens after Return:** Click in the text box again; make sure you’re not in the center editor—prompt goes in the **right panel**.
+
+**You never type in Terminal for the demo.**
 
 ---
 
@@ -17,8 +102,8 @@
 
 1. Slides open, full screen ready (don’t share yet)
 2. Cursor open with tabs: `docs/ARCHITECTURE.md`, `questionnaires.ts`, `.cursor/rules/responsive-platform.mdc`
-3. Notes app with both Agent prompts
-4. Font size 16+ in Cursor
+3. Notes app with both Agent prompts (copied above)
+4. Font size 16+ in Cursor (**Settings** → Font Size → 16)
 
 ---
 
