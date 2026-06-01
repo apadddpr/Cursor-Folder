@@ -9,6 +9,8 @@
 
 **You do not use cursor.com/agents for this session.**
 
+**Mac + Cursor 3?** Shortcuts changed. Use **`demo/CURSOR_3_MAC_GUIDE.md`** — prefer **`Cmd+Shift+P`** (Command Palette) or clicks if `Cmd+I` / `Cmd+L` feel wrong.
+
 ---
 
 # BEFORE YOU START (not spoken)
@@ -150,7 +152,7 @@
 
 ## [06:15] — Onboarding beat (Ask — easy, human)
 
-**[Open Chat — `Cmd + L` on Mac, or Chat panel in sidebar. NOT Agent yet.]**
+**[Open AI sidepanel: `Cmd + E` or `Cmd + I`, OR click New Agent in sidebar. Cursor 3: press `Cmd + .` → choose Ask mode.]**
 
 **[Optional: click `src/middleware/auth.ts` in sidebar first]**
 
@@ -172,9 +174,9 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 ## [07:00] — Agent intro (transition to shipping)
 
-**[Open Agent / Composer — `Cmd + I`]**
+**[Cursor 3: `Cmd + .` → Agent mode. Or Shift+Tab in the input. Same sidepanel as Ask.]**
 
-> “Learning is one mode. **Shipping** is another. I’m going to open Cursor’s Agent—the same workflow your engineers use for multi-file tasks—and I’m going to describe an **outcome**, not write code line by line.”
+> “Learning is one mode. **Shipping** is another. I’m switching to **Agent** mode—the same workflow your engineers use for multi-file tasks—and I’m going to describe an **outcome**, not write code line by line.”
 
 ---
 
@@ -313,7 +315,7 @@ Require auth and org scoping.
 | Agent stuck | “Same as any tool—I’ll nudge the prompt.” Re-paste PROMPT 1. |
 | Agent wrong | “That’s why we review diffs—I’d reject this hunk and iterate.” |
 | Technical question | “I’ll get you an exact answer from our SE team; strategically…” |
-| Can’t find Chat vs Agent | Chat = `Cmd+L`, Agent = `Cmd+I` |
+| Can’t find Chat vs Agent | `Cmd+.` → Ask or Agent; or `Cmd+Shift+P` → Mode Menu. See `CURSOR_3_MAC_GUIDE.md` |
 | Running over time | Skip SEC-1192; keep recap |
 
 ---
