@@ -8,11 +8,15 @@ You only need **one script** and **one shortcut card**.
 
 ### → [`demo/MASTER_TALK_TRACK.md`](demo/MASTER_TALK_TRACK.md)
 
-**Use for:** entire interview — 5 min pitch + 5 min demo + closing lines  
+**Use for:** every word you say (pitch + demo + close).
+
+### → [`demo/DEMO_CLICK_ONLY.md`](demo/DEMO_CLICK_ONLY.md) ← **PRINT THIS**
+
+**Use for:** exactly where to click (LEFT vs RIGHT). Practice hands-first so you don’t deviate.
 
 **This replaces:** `DEMO_SCRIPT.md`, `LIVE_TELEPROMPTER.md`, and `PITCH_OUTLINE.md` for the live session.
 
-Open it on your phone or second monitor. Read it word-for-word while practicing.
+**Interview day:** Phone = MASTER (words). Desk = DEMO_CLICK_ONLY (clicks).
 
 ---
 
