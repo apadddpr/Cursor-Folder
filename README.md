@@ -6,7 +6,8 @@ Everything you need to **pitch** (5 min), **demo** (5 min), and **handle Q&A** (
 
 | Order | Document | Purpose |
 |-------|----------|---------|
-| 0 | **[demo/LIVE_TELEPROMPTER.md](demo/LIVE_TELEPROMPTER.md)** | **Start here for live interview** — every click + what to say, start to finish |
+| 0 | **[demo/MASTER_TALK_TRACK.md](demo/MASTER_TALK_TRACK.md)** | **FULL SCRIPT** — pitch + slides + demo word-for-word (~15 min) |
+| 0a | [demo/LIVE_TELEPROMPTER.md](demo/LIVE_TELEPROMPTER.md) | Clicks/setup reference (use with Master Talk Track) |
 | 0b | [demo/NON_TECHNICAL_PLAYBOOK.md](demo/NON_TECHNICAL_PLAYBOOK.md) | Deeper dialogue + jargon glossary |
 | 1 | [demo/CHECKLIST.md](demo/CHECKLIST.md) | Prep timeline |
 | 2 | [demo/PITCH_OUTLINE.md](demo/PITCH_OUTLINE.md) | Word-for-word 5-min pitch |
