@@ -30,23 +30,31 @@
 
 ## [00:00] — Camera only (no slide yet)
 
-**[Webcam on. Slides ready but not shared yet.]**
-
-### Optional — rapport + agenda (your style)
+**[Webcam on. Slides ready but not shared yet. This is ONE script — rapport + contract + reconnect + agenda.]**
 
 > “Hey Joe — how’ve you been?”  
-> *[chat]*  
-> “Good — I was on PTO for a wedding and some birthdays in San Diego, so I can’t complain. Good to be back in the swing of things.”  
 >  
-> “We’ve got about **twenty minutes** — I want to be respectful of your time. No one else joining from your side, right? Perfect.”  
+> *[Let him answer. Brief back-and-forth.]*  
 >  
-> “Quick plan: I’ll refresh who Cursor is and why it matters for Responsive — about **five minutes**. Then I’ll **share my screen** and show a couple live examples from what we discussed last time. You’ll know by the end if it’s worth a deeper look or not — and either answer is fine. **Sound good?**”
+> “Good — I was on PTO for a wedding and a couple birthdays in San Diego, so I can’t complain. Feels good to be back in the swing of things.”  
+>  
+> “I know we’re slated for about **twenty minutes** — I want to be conscious of your time. We’re not expecting anyone else on your end, right? **Perfect.**”  
+>  
+> “So you know what we’ll cover: When we talked a few weeks ago, you mentioned a few things that were top of mind — **shipping compliance-heavy work without slowing releases**, **ramping engineers across your US and India teams**, and **using AI in a way that doesn’t bypass security and review**. I built today around those.”  
+>  
+> “Here’s the plan: I’ll do a **quick refresher** — who Cursor is, why this moment matters for Responsive — about **five minutes**, mostly slides. Then I’ll **share my screen** and show those themes **live** in a small example that looks like the kind of work your platform team does — not a generic demo. We’ll leave a few minutes at the end for your questions.”  
+>  
+> “By the end you’ll have a clear sense of whether this is worth exploring further — or not, and that’s completely fine. **Does that sound like a good plan?**”  
+>  
+> *[Pause for yes.]*  
+>  
+> “Great — I’ll start with the big picture, then we’ll get into the product.”
 
-### If you skip rapport (shorter)
+**[Click Share Screen → Google Slides or `slides/pitch-deck.html` → Slide 1]**
 
-> “Thanks for the time. About five minutes of context on Cursor and Responsive, then five in the product, then your questions. Jump in anytime.”
+### Shorter version (if you're running long)
 
-**[Now click Share Screen → Google Slides → Slide 1]**
+> “Joe — good to see you. We’ve got **twenty minutes**, just us — perfect. Last time you flagged **compliance work**, **ramp**, and **governed AI** — today is slides for five, then I’ll show those **live** in Cursor. **Good plan?**” *[yes → Slide 1]*
 
 ---
 
