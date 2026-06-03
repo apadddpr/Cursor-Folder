@@ -9,73 +9,138 @@
 
 **Jargon rule:** If you use a technical term, you get **one plain-English line** right after.
 
----
-
-# PART 1 — PITCH (~5 min)
-
-## [00:00] — Hello
-
-**[Camera]**
-
-> “Thanks for making time. I’m going to keep the first five minutes high level—why Cursor matters for Responsive—and then I’d love to show you the product for five minutes so this isn’t just slides.
->
-> Jump in anytime. I’ll save the deeper security and competitor stuff for the end.”
+**Slides:** Build from `slides/PITCH_SLIDES.md`. **Part 1 below = what you say while each slide is on screen.**
 
 ---
 
-## [00:30] — Slide 1
+## How to use slides (read once)
 
-> “Here’s how I think about where software development is going.
->
-> For a long time, ‘AI for developers’ meant help on one line at a time—autocomplete. That’s still useful, but teams are moving toward something bigger: **handing off a whole task**—’fix this ticket,’ ‘wire up logging everywhere it’s missing,’ ‘add tests’—and then reviewing the result like you would a pull request.
->
-> At the same time, every technical leader I talk to—especially in enterprise software—is clear: you can’t choose between **moving faster** and **staying safe**. You need both.
->
-> That’s very familiar for Responsive. Your customers expect you to help them answer security questionnaires and RFPs **quickly** and **accurately**. Your engineering team feels the same pressure internally—ship AI-powered product work without creating compliance or security debt.
->
-> So the real question isn’t ‘can AI write code?’ It’s: **can you give every engineer—and every office—the same smart, governed way to use AI?** Without fifty random ChatGPT tabs and no standards.”
+| Do | Don't |
+|----|--------|
+| **Share slides** for Part 1 only (~5 min) | Read every bullet word-for-word |
+| **Glance or point** at a bullet, then **explain in your own words** | Turn your back and read the screen |
+| **Advance** when you finish that slide's script | Put paragraphs of text on slides |
+| **Switch share to Cursor** after Slide 3 | Stay on slides during the demo |
 
----
-
-## [02:00] — Slide 2
-
-> “That’s where Cursor fits. And I want to be clear about what it is.
->
-> Cursor isn’t a plugin slapped onto another editor. It’s an **AI-native IDE**—the editor, the understanding of your codebase, and the agent work are built together.
->
-> Four things matter for a company like yours.
->
-> **One—agents that see the whole project.** Not just the file you have open. So when work touches several files—which compliance work always does—the tool isn’t flying blind.
->
-> **Two—Rules.** You write your standards once—always log changes for audits, always keep Customer A’s data separate from Customer B’s—and those rules apply whether a human is coding or the agent is helping. That’s how you scale AI without scaling mess.
->
-> **Three—you’re not locked to one AI model.** You can use different models for different jobs as the market changes.
->
-> **Four—enterprise trust.** Things like Privacy Mode, SSO, and your Trust Center documentation—because your buyers ask you the same questions you’d ask us.
->
-> People often compare us to Copilot or terminal tools like Claude Code. Happy to go deeper later. At a high level: Copilot is great help inside a file. Claude Code is strong if your team lives in the terminal. **Cursor is the full workspace**—where everyday work, review, and multi-file agent tasks happen in one place, the way most developers already work.”
+**Relationship:** Slide bullets = **headlines**. This talk track = **what you actually say**. They cover the same ideas; the talk track is longer and more conversational.
 
 ---
 
-## [03:45] — Slide 3
+# PART 1 — PITCH WITH SLIDES (~5 min)
 
-> “If I imagine success at Responsive in the first ninety days, it looks like this.
->
-> **Faster delivery** on the annoying work—the tickets that touch lots of files, like audit logging or auth fixes.
->
-> **Safer AI adoption**—because Rules and your existing review process still apply. Cursor helps produce a **draft**. Your team still approves it, CI still runs, security still signs off.
->
-> **Better life for engineers**—less copy-paste across files, more time on hard problems.
->
-> **And faster ramp**—especially with teams in different locations. A new hire can ask real questions against the real codebase on day three, not week three.
->
-> I wouldn’t roll it out to everyone on day one. I’d start with a **pilot**—maybe a platform team and one product team, thirty days—and measure: How long do PRs take when a ticket touches three or more files? How do developers feel? Then expand with data.
->
-> Let me show you what that feels like in the product.”
+## [00:00] — Camera only (no slide yet)
 
-**[Switch screen share to Cursor]**
+**[Webcam on. Slides ready but not shared yet.]**
 
-> “Can you see my Cursor window okay?”
+### Optional — rapport + agenda (your style)
+
+> “Hey Joe — how’ve you been?”  
+> *[chat]*  
+> “Good — I was on PTO for a wedding and some birthdays in San Diego, so I can’t complain. Good to be back in the swing of things.”  
+>  
+> “We’ve got about **twenty minutes** — I want to be respectful of your time. No one else joining from your side, right? Perfect.”  
+>  
+> “Quick plan: I’ll refresh who Cursor is and why it matters for Responsive — about **five minutes**. Then I’ll **share my screen** and show a couple live examples from what we discussed last time. You’ll know by the end if it’s worth a deeper look or not — and either answer is fine. **Sound good?**”
+
+### If you skip rapport (shorter)
+
+> “Thanks for the time. About five minutes of context on Cursor and Responsive, then five in the product, then your questions. Jump in anytime.”
+
+**[Now click Share Screen → Google Slides → Slide 1]**
+
+---
+
+## [00:30] — SLIDE 1 on screen
+
+**On slide they see:**
+- Title: *Development is moving from line-by-line help to whole tasks*
+- Multi-file work · codebase + standards · speed and safety
+
+**[Gesture at title or first bullet — don't read it aloud]**
+
+> “Here’s the shift I’m seeing.
+>
+> **First bullet —** teams aren’t just getting help on one line anymore. They’re handing off **whole tasks** — fix this ticket, wire up logging in every place it’s missing, add tests — then **review** the result like any other PR.
+>
+> **Second —** what matters is whether the tool understands **your codebase and your standards**, not which AI model is fashionable this quarter.
+>
+> **Third —** every leader I talk to wants **speed and safety together**. Not a tradeoff.”
+
+**[Pause. Look at camera.]**
+
+> “That’s especially true for Responsive. Your customers want security questionnaires and RFPs answered **fast** and **right**. Your engineering org feels the same pressure — ship AI product work without creating compliance debt.
+>
+> So the question isn’t ‘can AI write code?’ It’s: **can everyone use AI the same governed way** — Portland, Coimbatore, all of it — without fifty random ChatGPT workflows?”
+
+**[Click → Slide 2]**
+
+---
+
+## [02:00] — SLIDE 2 on screen
+
+**On slide they see:**
+- Title: *Cursor — AI-native IDE for enterprise teams*
+- Whole-project agents · Rules · Review before merge · Enterprise trust
+
+**[Point to each row as you explain — don't read the table word-for-word]**
+
+> “That’s where **Cursor** fits. Not a plugin on someone else’s editor — an **AI-native IDE** built as one product.
+>
+> **Whole-project agents** — I’ll show this in a minute — when work spans multiple files, the tool isn’t stuck on one tab.
+>
+> **Rules** — you write standards once: audit logging, customer data boundaries. Every developer and every agent session follows them. **You’ll see this live.**
+>
+> **Review before merge** — Cursor produces a **draft**. Your PR process, CI, and security review don’t go away.
+>
+> **Enterprise trust** — Privacy Mode, SSO, Trust Center — the same kind of questions your customers ask you.”
+
+**[Optional one line — don't linger]**
+
+> “People compare us to Copilot or Claude Code — happy to unpack in Q&A. Short version: Copilot is great in-file; Claude Code is great in the terminal; **Cursor is the full workspace** where most of your org already lives.”
+
+**[Click → Slide 3]**
+
+---
+
+## [03:45] — SLIDE 3 on screen
+
+**On slide they see:**
+- Faster ramp · Governed AI · Compliance work · Security + review · Pilot
+- **Next: live demo**
+
+**[Walk down the bullets — point, then explain each in plain English]**
+
+> “What success looks like at Responsive in the first ninety days:
+>
+> **Faster ramp** — a new engineer asks real questions against the **real repo** on day three, not week three. **I’ll demo that.**
+>
+> **Governed AI** — Rules so every team plays by the same book. **I’ll show the Rules file.**
+>
+> **Faster compliance work** — tickets that touch lots of files, like wiring audit logs everywhere. **I’ll run that as a live agent task.**
+>
+> **Security stays in the loop** — something like locking down an endpoint that was too open — still human review. **Second live example.**
+>
+> **Pilot** — I’d start small: one platform team, one product squad, thirty days, measure PR time on multi-file tickets.”
+
+**[Point to “Next: live demo” on slide]**
+
+> “Everything on this slide — I’m about to show you in Cursor, not tell you about.”
+
+**[Stop sharing slides. Share → Cursor desktop]**
+
+> “Can you see my Cursor window?”
+
+---
+
+## Slide ↔ demo cheat sheet (keep next to you)
+
+| Slide 3 bullet | Demo moment |
+|----------------|-------------|
+| Faster ramp | Ask: new engineer / tenant isolation |
+| Governed AI | Open `.cursor/rules` |
+| Compliance work | Agent + Prompt 1 (JIRA-4827) |
+| Security + review | Agent + Prompt 2 (SEC-1192) |
+| Review before merge | Say while Agent diff is visible (Slide 2 bullet) |
 
 ---
 

@@ -8,7 +8,7 @@ You only need **one script** and **one shortcut card**.
 
 ### → [`demo/MASTER_TALK_TRACK_CONVERSATIONAL.md`](demo/MASTER_TALK_TRACK_CONVERSATIONAL.md) ← **recommended**
 
-**Use for:** every word you say — natural, professional, less jargon.
+**Use for:** every word you say — **Part 1 = slide-by-slide dialogue** · Part 2 = demo · build slides from `slides/PITCH_SLIDES.md`
 
 ### → [`demo/MASTER_TALK_TRACK.md`](demo/MASTER_TALK_TRACK.md)
 
