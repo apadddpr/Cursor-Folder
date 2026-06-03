@@ -1,6 +1,6 @@
 # Demo Click Card — Left / Right / Say One Line
 
-**Print this page.** Keep `MASTER_TALK_TRACK.md` for full sentences.
+**Print this page.** Keep `MASTER_TALK_TRACK_CONVERSATIONAL.md` for full sentences.
 
 **Rule:** If you get lost, click **LEFT sidebar → demo → MASTER_TALK_TRACK** to reorient. Say: *"Let me pull up the compliance ticket example."*
 
@@ -53,7 +53,7 @@ Done. Close everything else. Leave these 3 tabs/files ready.
 
 | Step | WHERE | CLICK / DO | SAY (short) |
 |------|-------|------------|-------------|
-| **7** | RIGHT | Click inside text box at bottom ("Plan, Build…") | "New engineer, day three." |
+| **7** | RIGHT | Click inside text box ("Plan, Build…") | "Ramp first—then we'll fix the ticket." |
 | **8** | KEYBOARD | **Cmd + .** → tap **Ask** if menu shows (if no menu, skip) | — |
 | **9** | RIGHT | Paste onboarding text below → press **Return** | "Same codebase for learning and shipping." |
 | **10** | RIGHT | Wait. Skim answer. Don't read it all. | "Grounded in your repo, not generic web." |
