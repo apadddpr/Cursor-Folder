@@ -52,10 +52,6 @@
 
 **[Click Share Screen → Google Slides or `slides/pitch-deck.html` → Slide 1]**
 
-### Shorter version (if you're running long)
-
-> “Joe — good to see you. We’ve got **twenty minutes**, just us — perfect. Last time you flagged **compliance work**, **ramp**, and **governed AI** — today is slides for five, then I’ll show those **live** in Cursor. **Good plan?**” *[yes → Slide 1]*
-
 ---
 
 ## [00:30] — SLIDE 1 on screen
