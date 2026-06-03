@@ -154,37 +154,39 @@
 
 ---
 
-## [05:00] — The problem
+## [05:00] — The problem (why: set the scene before code)
 
 **[`Cmd+P` → ARCHITECTURE → scroll to Known gaps]**
 
 > “This isn’t your production repo—it’s a small example modeled on your world: software that supports **security questionnaires** and compliance workflows.
 >
-> Picture a ticket on the board—call it JIRA-4827. Every time someone creates or updates a questionnaire, the system needs to **record that in an audit log**. Your enterprise customers and your SOC2 program expect that. No exceptions.
->
-> The logging helper already exists in the project. It’s just **not hooked up everywhere yet**. In real life, a developer opens several files, copies the same pattern over and over, adds tests, opens a PR, gets review. It’s not hard—it’s **easy to miss a spot**, and it eats half a day. At your scale, that adds up.”
+> The doc calls out **known gaps** on purpose—think of this as the kind of compliance-heavy surface your platform team owns.”
 
 **[`Cmd+P` → questionnaires.ts → point at TODO]**
 
-> “There’s a TODO here—I won’t make you read the code. The point is: this is the kind of ticket that spans multiple files.”
+> “Here’s the ticket—call it JIRA-4827. Every create or update needs an **audit log**. Your customers and SOC2 expect it.
+>
+> The helper exists; it’s just **not wired everywhere**. That’s a half-day, multi-file, easy-to-miss-a-spot kind of job. There’s the TODO—I won’t make you read TypeScript. You get the idea.”
 
 ---
 
-## [05:45] — Rules
+## [05:45] — Rules (why: governance before any AI runs)
 
 **[`Cmd+P` → responsive-platform]**
 
-> “Before we let AI touch anything, I want to show **Rules**.
+> “Before we let AI change a line of code, **Rules**.
 >
-> This is where Responsive would write the non-negotiables: always log changes, always respect customer boundaries, don’t add insecure shortcuts.
+> This is where Responsive writes the non-negotiables: always log changes, always respect customer boundaries, don’t add insecure shortcuts.
 >
-> Think of it as your engineering playbook—**the same rules for every person and every AI session**. That’s how you move fast without everyone doing their own thing in ChatGPT.”
+> Same playbook for **every developer and every agent session**—that’s the ‘AI without skipping security review’ piece you cared about.”
 
 ---
 
-## [06:15] — Onboarding (Ask)
+## [06:15] — Onboarding (Ask) (why: ramp *before* we fix the ticket—not a random pivot)
 
 **[Right panel → paste onboarding question → Return]**
+
+> “You also mentioned **ramp**—especially across US and India. I’m going to show that **before** we close JIRA-4827 on purpose: same tool, **learn** first, then **ship**.”
 
 ```text
 I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation works in this questionnaire API and where we could accidentally expose one customer's data to another.
@@ -202,11 +204,11 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 ---
 
-## [07:00] — Switch to shipping
+## [07:00] — Switch to shipping (why: now we close the ticket you saw)
 
 **[`Cmd + .` → Agent, or Shift+Tab]**
 
-> “Learning is one mode. **Shipping** is another. I’m switching to **Agent** mode—I’ll describe what I want done, not type every line myself.”
+> “Same tool—now **Agent** mode. I’ll describe the outcome for that compliance ticket and let it work across files. You review the diff like any other PR.”
 
 ---
 
