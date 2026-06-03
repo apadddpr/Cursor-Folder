@@ -9,6 +9,8 @@
 
 **Jargon rule:** If you use a technical term, you get **one plain-English line** right after.
 
+**Sound human:** Don’t say “first bullet,” “grounded in your code,” or “the helper exists.” Say what a person would say to a CTO at lunch.
+
 **Slides:** Build from `slides/PITCH_SLIDES.md`. **Part 1 below = what you say while each slide is on screen.**
 
 ---
@@ -64,11 +66,11 @@
 
 > “Here’s the shift I’m seeing.
 >
-> **First bullet —** teams aren’t just getting help on one line anymore. They’re handing off **whole tasks** — fix this ticket, wire up logging in every place it’s missing, add tests — then **review** the result like any other PR.
+> Engineers used to get help one line at a time. Now they’re handing off a **whole assignment**—‘fix this ticket, add logging everywhere it’s missing, add tests’—and then **reviewing the result** like any other pull request.
 >
-> **Second —** what matters is whether the tool understands **your codebase and your standards**, not which AI model is fashionable this quarter.
+> What matters is whether the tool knows **your** product and **your** rules—not which AI model had hype last month.
 >
-> **Third —** every leader I talk to wants **speed and safety together**. Not a tradeoff.”
+> And every leader I talk to wants **speed and safety**—not one or the other.”
 
 **[Pause. Look at camera.]**
 
@@ -96,7 +98,7 @@
 >
 > **Review before merge** — Cursor produces a **draft**. Your PR process, CI, and security review don’t go away.
 >
-> **Enterprise trust** — Privacy Mode, SSO, Trust Center — the same kind of questions your customers ask you.”
+> On the enterprise side—privacy controls, single sign-on, security documentation—the same trust questions your buyers ask Responsive, your security team asks us.”
 
 **[Optional one line — don't linger]**
 
@@ -114,17 +116,17 @@
 
 **[Walk down the bullets — point, then explain each in plain English]**
 
-> “What success looks like at Responsive in the first ninety days:
+> “What I’d want you to see in the first ninety days—I'll tie each one to the demo:
 >
-> **Faster ramp** — a new engineer asks real questions against the **real repo** on day three, not week three. **I’ll demo that.**
+> **Ramp:** Someone new can ask how your product actually works on day three—not wait until week three to feel oriented. I’ll show that in Ask mode.
 >
-> **Governed AI** — Rules so every team plays by the same book. **I’ll show the Rules file.**
+> **Governed AI:** Your standards live in one place; the AI has to follow them. I’ll open the Rules file.
 >
-> **Faster compliance work** — tickets that touch lots of files, like wiring audit logs everywhere. **I’ll run that as a live agent task.**
+> **Compliance work:** The annoying tickets that touch five files—like audit logging everywhere. I’ll run one live.
 >
-> **Security stays in the loop** — something like locking down an endpoint that was too open — still human review. **Second live example.**
+> **Security:** Something like ‘this export shouldn’t be public’—fix it the same way, still reviewed by a human. Second live example.
 >
-> **Pilot** — I’d start small: one platform team, one product squad, thirty days, measure PR time on multi-file tickets.”
+> **Pilot:** Small group, real tickets, thirty days—then decide if you expand.”
 
 **[Point to “Next: live demo” on slide]**
 
@@ -172,15 +174,15 @@
 
 **[Steps 1–2: tab **ARCHITECTURE.md** or `Cmd+P` → ARCHITECTURE → scroll to Known gaps]**
 
-> “This isn’t your production repo—it’s a small example modeled on your world: software that supports **security questionnaires** and compliance workflows.
+> “I built a **small sample app** for today—it’s not Responsive’s code, and I don’t have access to your real repo. It’s the kind of thing your team might own: software that helps with **security questionnaires** and compliance.
 >
-> The doc calls out **known gaps** on purpose—think of this as the kind of compliance-heavy surface your platform team owns.”
+> I left gaps on purpose so we can fix them live. The doc lists them here under **known gaps**.”
 
 **[Steps 3–4: tab **questionnaires.ts** or `Cmd+P` → questionnaires → point at TODO]**
 
-> “Here’s the ticket—call it JIRA-4827. Every create or update needs an **audit log**. Your customers and SOC2 expect it.
+> “Here’s the ticket—JIRA-4827. Whenever someone creates or updates a questionnaire, you need an **audit trail**—who changed what, when. Your enterprise customers and SOC2 care about that.
 >
-> The helper exists; it’s just **not wired everywhere**. That’s a half-day, multi-file, easy-to-miss-a-spot kind of job. There’s the TODO—I won’t make you read TypeScript. You get the idea.”
+> The project already has code to write those audit events. It’s just **not hooked up on every route yet**—easy to miss one file. That’s the TODO. I won’t make you read TypeScript—you get the picture.”
 
 ---
 
@@ -208,13 +210,13 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 **[While it thinks:]**
 
-> “Quick sidebar on **ramp time**. Same tool, same codebase—a new engineer in Portland or Coimbatore can ask ‘how do we keep customers’ data separate?’ and get an answer grounded in **your** code—not a generic blog post.
+> “While that runs—this is the ramp piece. Same tool they’ll use to ship code. A new hire in Portland or Coimbatore can ask, ‘How do we make sure Customer A never sees Customer B’s data?’ and get an answer from **this** codebase—not from guessing after three weeks of digging through internal docs.
 >
-> They’re not replacing a senior engineer. They’re showing up to pairing sessions having already done the homework.”
+> It doesn’t replace a senior engineer. It means they show up to the first pairing session with better questions.”
 
 **[Step 10: When answer shows — skim, don’t read it all]**
 
-> “And when they’re ready to contribute, they’re already in the tool they use to ship.”
+> “You can see it pulled specifics from the project—even called out risky spots. That’s the onboarding use case. Next I’ll switch to Agent and actually implement the ticket.”
 
 **[Optional buy-in — one beat, then move on:]**
 
