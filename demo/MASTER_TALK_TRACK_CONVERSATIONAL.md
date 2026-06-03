@@ -210,6 +210,12 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 > “Same tool—now **Agent** mode. I’ll describe the outcome for that compliance ticket and let it work across files. You review the diff like any other PR.”
 
+**[Point at model name in the agent panel — e.g. Composer 2.5 Fast — then:]**
+
+> “Real quick—since it’s visible here—I just want to highlight that I’m using **our own model, Composer 2.5**. One of the things teams love most about Cursor is they’re **not locked into just our model**. They can use any model they like—whether that’s **Opus 4.8**, **Chat 5.5**, whatever you’ve standardized on.
+>
+> I will call out, though—and you’ll see the speed of the agent here in a sec—**Composer 2.5 is benchmarking with those top models at about one-tenth of the cost**. Obviously, as teams think about their AI spend budget, that’s gonna be something I imagine you factor in heavily—but I just wanted to call that out before I run the agent.”
+
 ---
 
 ## [07:15] — Ticket #1 (paste PROMPT 1)
