@@ -6,9 +6,13 @@ You only need **one script** and **one shortcut card**.
 
 ## THE script (read this out loud)
 
+### → [`demo/MASTER_TALK_TRACK_CONVERSATIONAL.md`](demo/MASTER_TALK_TRACK_CONVERSATIONAL.md) ← **recommended**
+
+**Use for:** every word you say — natural, professional, less jargon.
+
 ### → [`demo/MASTER_TALK_TRACK.md`](demo/MASTER_TALK_TRACK.md)
 
-**Use for:** every word you say (pitch + demo + close).
+Original version (more formal / technical). Use if you prefer denser language.
 
 ### → [`demo/DEMO_CLICK_ONLY.md`](demo/DEMO_CLICK_ONLY.md) ← **PRINT THIS**
 
