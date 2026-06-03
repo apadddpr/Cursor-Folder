@@ -72,7 +72,9 @@
 
 ---
 
-## LIVE DEMO — 17 steps (do in order)
+## LIVE DEMO — 20 steps (do in order)
+
+**Maps to `MASTER_TALK_TRACK_CONVERSATIONAL.md` Part 2 — same order.**
 
 ### SHOW FILES (steps 1–6: LEFT opens file, then CENTER)
 
@@ -92,7 +94,7 @@
 | **7** | RIGHT | Click inside text box ("Plan, Build…") | "Ramp first—then we'll fix the ticket." |
 | **8** | KEYBOARD | **Cmd + .** → tap **Ask** if menu shows (if no menu, skip) | — |
 | **9** | RIGHT | Paste onboarding text below → press **Return** | "Same codebase for learning and shipping." |
-| **10** | RIGHT | Wait. Skim answer. Don't read it all. | "Grounded in your repo, not generic web." |
+| **10** | RIGHT | Wait. Skim answer. Don't read it all. | "Grounded in your repo, not generic web." + optional buy-in (talk track) |
 
 **Onboarding paste:**
 ```text
@@ -103,15 +105,18 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 | Step | WHERE | CLICK / DO | SAY (short) |
 |------|-------|------------|-------------|
-| **11** | KEYBOARD | **Cmd + .** → tap **Agent** OR press **Shift+Tab** in the box | "Now shipping—not just learning." |
-| **12** | RIGHT | Paste **PROMPT 1** from Notes → **Return** | "I describe the outcome. Watch multiple files, Rules, then a diff." |
-| **13** | RIGHT | Wait 30–90 sec. Keep talking (see below). | Repeat while waiting ↓ |
-| **14** | RIGHT | When done, click any **file names** in the reply | "Tech lead review—minutes not hours." |
-| **15** | RIGHT | Paste **PROMPT 2** → **Return** | "Security fix—same workflow." |
-| **16** | RIGHT | Wait. Glance at changes. | "Velocity and risk together." |
-| **17** | CAMERA | Stop clicking. Look at camera. | "Recap: learn faster, ship faster, same PR process. Q&A?" |
+| **11** | KEYBOARD | **Cmd + .** → **Agent** (or **Shift+Tab** in the box) | "Now shipping—not just learning." |
+| **12** | RIGHT | **Point** at model label (**Composer 2.5 Fast**) — don't change it | Composer + not locked to one model (full words in talk track) |
+| **13** | RIGHT | Paste **PROMPT 1** from Notes → **Return** | "I describe the outcome. Watch multiple files, Rules, then a diff." |
+| **14** | RIGHT | Wait 30–90 sec. Keep talking (see below). | Repeat while waiting ↓ |
+| **15** | RIGHT | When done, click **Review** (or **Review changes**) on the agent reply | "Tech lead review—minutes not hours." |
+| **16** | CENTER / diff | Scroll or glance the diff — point at green/red if visible | "Before-and-after—like PR review. Nothing merges from here." |
+| **17** | RIGHT | Paste **PROMPT 2** → **Return** | "Security fix—same workflow." |
+| **18** | RIGHT | Wait. When done, click **Review** again if shown | "Velocity and risk together." |
+| **19** | CENTER / diff | Quick glance at security-related changes | Optional buy-in line (talk track) |
+| **20** | CAMERA | Stop clicking. Look at camera. | Pilot close + Q&A (talk track) |
 
-### While step 12–13 runs, repeat these 3 lines:
+### While steps 13–14 run, repeat these 3 lines:
 
 1. "Multiple files—not just one tab."
 2. "Rules already applied."
@@ -130,7 +135,8 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 | Opened wrong file | **Cmd+P** → type filename → Return, or LEFT sidebar → click correct file |
 | Only one tab / file replaced last one | **Normal.** Open the next file when that step says to (steps 1, 3, 5) |
 | Blank center | Normal. Use LEFT + RIGHT only |
-| Panic | Read step **17** recap anyway — you already showed Rules + files |
+| No **Review** button | Click a **changed file name** in the agent reply — opens the diff in the editor |
+| Panic | Read talk track **pilot close** anyway — you already showed Rules + files |
 
 ---
 
@@ -160,11 +166,11 @@ Require auth and org scoping.
 
 ## Practice method (30 min)
 
-1. **Run steps 1–17 with zero talking** — just clicks. Twice.
-2. **Run steps 1–17 saying only the short SAY column** — once.
+1. **Run steps 1–20 with zero talking** — just clicks. Twice.
+2. **Run steps 1–20 saying only the short SAY column** — once.
 3. **Full words from MASTER_TALK_TRACK Part 2** — once.
 
-You will not deviate if your **hands** know the 17 steps.
+You will not deviate if your **hands** know the 20 steps — especially **Review** after each agent run.
 
 ---
 

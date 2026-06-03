@@ -144,25 +144,39 @@
 | Governed AI | Open `.cursor/rules` |
 | Compliance work | Agent + Prompt 1 (JIRA-4827) |
 | Security + review | Agent + Prompt 2 (SEC-1192) |
-| Review before merge | Say while Agent diff is visible (Slide 2 bullet) |
+| Review before merge | Click **Review** after Prompt 1 — talk while diff is visible |
 
 ---
 
 # PART 2 — LIVE DEMO (~5 min)
 
-*Clicks: `DEMO_CLICK_ONLY.md` or `Cmd+P` to open files.*
+*Hands: follow **`DEMO_CLICK_ONLY.md` steps 1–20**. Words: this file.*
+
+### Talk track ↔ clicks (same order)
+
+| Talk section | Click steps | What you do on screen |
+|--------------|-------------|------------------------|
+| Problem (architecture + TODO) | **1–4** | Tab or tree → **ARCHITECTURE** → scroll **Known gaps** → tab **questionnaires.ts** → point **TODO** |
+| Rules | **5–6** | Tab **responsive-platform.mdc** → slow scroll |
+| Ask / ramp | **7–10** | RIGHT panel → **Cmd+.** **Ask** → paste onboarding → Return → skim answer |
+| Agent + Composer | **11–12** | **Cmd+.** **Agent** → point **Composer 2.5** → say model callout |
+| JIRA-4827 | **13–16** | Paste **Prompt 1** → wait → click **Review** → talk over diff |
+| SEC-1192 | **17–19** | Paste **Prompt 2** → wait → **Review** → glance / buy-in line |
+| Close + pilot | **20** | Camera — pilot script (no clicks) |
+
+**Open files:** preloaded **tabs** (click tab) or **`Cmd+P`** — same story either way.
 
 ---
 
 ## [05:00] — The problem (why: set the scene before code)
 
-**[`Cmd+P` → ARCHITECTURE → scroll to Known gaps]**
+**[Steps 1–2: tab **ARCHITECTURE.md** or `Cmd+P` → ARCHITECTURE → scroll to Known gaps]**
 
 > “This isn’t your production repo—it’s a small example modeled on your world: software that supports **security questionnaires** and compliance workflows.
 >
 > The doc calls out **known gaps** on purpose—think of this as the kind of compliance-heavy surface your platform team owns.”
 
-**[`Cmd+P` → questionnaires.ts → point at TODO]**
+**[Steps 3–4: tab **questionnaires.ts** or `Cmd+P` → questionnaires → point at TODO]**
 
 > “Here’s the ticket—call it JIRA-4827. Every create or update needs an **audit log**. Your customers and SOC2 expect it.
 >
@@ -172,7 +186,7 @@
 
 ## [05:45] — Rules (why: governance before any AI runs)
 
-**[`Cmd+P` → responsive-platform]**
+**[Steps 5–6: tab **responsive-platform.mdc** or `Cmd+P` → responsive-platform → slow scroll]**
 
 > “Before we let AI change a line of code, **Rules**.
 >
@@ -184,7 +198,7 @@
 
 ## [06:15] — Onboarding (Ask) (why: ramp *before* we fix the ticket—not a random pivot)
 
-**[Right panel → paste onboarding question → Return]**
+**[Steps 7–9: RIGHT panel → `Cmd + .` → **Ask** → paste onboarding → Return]**
 
 > “You also mentioned **ramp**—especially across US and India. I’m going to show that **before** we close JIRA-4827 on purpose: same tool, **learn** first, then **ship**.”
 
@@ -198,19 +212,25 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 >
 > They’re not replacing a senior engineer. They’re showing up to pairing sessions having already done the homework.”
 
-**[When answer shows:]**
+**[Step 10: When answer shows — skim, don’t read it all]**
 
 > “And when they’re ready to contribute, they’re already in the tool they use to ship.”
+
+**[Optional buy-in — one beat, then move on:]**
+
+> “For someone in week one in Coimbatore or Beaverton—would this beat digging through Confluence and Slack?”
+
+*[If yes: “That’s the ramp story.” If he expands, nod once and continue.]*
 
 ---
 
 ## [07:00] — Switch to shipping (why: now we close the ticket you saw)
 
-**[`Cmd + .` → Agent, or Shift+Tab]**
+**[Step 11: `Cmd + .` → **Agent**, or Shift+Tab]**
 
 > “Same tool—now **Agent** mode. I’ll describe the outcome for that compliance ticket and let it work across files. You review the diff like any other PR.”
 
-**[Point at model name in the agent panel — e.g. Composer 2.5 Fast — then:]**
+**[Step 12: Point at model name in the agent panel — e.g. Composer 2.5 Fast — then:]**
 
 > “Real quick—since it’s visible here—I just want to highlight that I’m using **our own model, Composer 2.5**. One of the things teams love most about Cursor is they’re **not locked into just our model**. They can use any model they like—whether that’s **Opus 4.8**, **Chat 5.5**, whatever you’ve standardized on.
 >
@@ -220,9 +240,9 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 ## [07:15] — Ticket #1 (paste PROMPT 1)
 
-**[Paste from Notes → Return]**
+**[Step 13: Paste from Notes → Return]**
 
-**[While it runs — loop these:]**
+**[Steps 14 — While it runs — loop these:]**
 
 > “Three things to watch.
 >
@@ -232,7 +252,7 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 >
 > **Three**—when it’s done, I get a **before-and-after view**, like code review. Nothing goes live from here. Your team still opens a PR, tests still run, someone still approves. We’re speeding up the **first draft**, not removing the gate.”
 
-**[When diff shows:]**
+**[Steps 15–16: When agent finishes → click **Review** (or **Review changes**) in the RIGHT panel. Diff opens — glance in CENTER or diff view.]**
 
 > “As a tech lead, I’d scan this in a few minutes: logging added where it was missing, tests included. Work that might take an hour or more of careful editing becomes a **review job**.
 >
@@ -242,23 +262,29 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 ## [08:45] — Ticket #2 (paste PROMPT 2)
 
-**[Paste → Return]**
+**[Step 17: Paste → Return]**
 
-**[While it runs:]**
+**[Step 18 — While it runs:]**
 
 > “Second example—a security review found an export that didn’t check who’s logged in. Same flow: describe the fix, Rules apply, human reviews the change.
 >
 > That’s how I talk about **speed and safety together**—you’re not picking one.”
 
-**[When done:]**
+**[Steps 19: When done → click **Review** again if shown. Glance diff.]**
 
 > “Login check added, customer scoping added. Still goes through your normal security review.”
+
+**[Optional buy-in — one beat:]**
+
+> “Catching an unauthenticated export in the same workflow—does that feel closer to how you want **security and velocity** together?”
+
+*[If yes: “Same workflow—you’re not picking one.” Then close.]*
 
 ---
 
 ## [09:30] — Close + pilot ask
 
-**[Camera if you can. Deliver this as your final close—then pause for Joe.]**
+**[Step 20: Camera if you can. Deliver this as your final close—then pause for Joe.]**
 
 > “Joe, just to recap what we walked through: ramping with Ask, Rules before the AI changes anything, and Agents working on real compliance work, with you still reviewing before merge.
 >
@@ -296,7 +322,7 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 # KEEP THE SAME STRUCTURE?
 
-**Yes.** Slides → 3 files → Ask → Agent → Agent → recap.
+**Yes.** Slides → files (1–6) → Ask (7–10) → Agent + Composer (11–12) → Prompt 1 + **Review** (13–16) → Prompt 2 + **Review** (17–19) → pilot close (20).
 
 **Change the words** to sound like you. This script is a strong draft—adjust phrases so they feel natural in your mouth when you rehearse.
 
