@@ -22,6 +22,10 @@ Original version (more formal / technical). Use if you prefer denser language.
 
 **Interview day:** Phone = MASTER (words). Desk = DEMO_CLICK_ONLY (clicks).
 
+### → [`demo/DEMO_PREP_GAME.html`](demo/DEMO_PREP_GAME.html) ← **PRACTICE GAME**
+
+**Use for:** quiz, 17-step click simulator, Mac shortcuts, and Agent prompt recall. Open in any browser (double-click the file).
+
 ---
 
 ## THE Mac shortcuts (glance only)
