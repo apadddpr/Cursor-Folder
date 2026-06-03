@@ -40,9 +40,9 @@
 >  
 > “I know we’re slated for about **twenty minutes** — I want to be conscious of your time. We’re not expecting anyone else on your end, right? **Perfect.**”  
 >  
-> “So you know what we’ll cover: When we talked a few weeks ago, you mentioned a few things that were top of mind — **shipping compliance-heavy work without slowing releases**, **ramping engineers across your US and India teams**, and **using AI in a way that doesn’t bypass security and review**. I built today around those.”  
+> “Quick context on today: last time we spoke, three things came up — **compliance work slowing teams down**, **getting people ramped in the US and India**, and **using AI without skipping security review**. So I shaped the live piece around that.”  
 >  
-> “Here’s the plan: I’ll do a **quick refresher** — who Cursor is, why this moment matters for Responsive — about **five minutes**, mostly slides. Then I’ll **share my screen** and show those themes **live** in a small example that looks like the kind of work your platform team does — not a generic demo. We’ll leave a few minutes at the end for your questions.”  
+> “Plan is simple: **five minutes** — quick refresher on Cursor and why it matters for Responsive. Then I’ll **share my screen** and show those three ideas live — small example, not a canned demo. Few minutes at the end for your questions.”  
 >  
 > “By the end you’ll have a clear sense of whether this is worth exploring further — or not, and that’s completely fine. **Does that sound like a good plan?**”  
 >  
