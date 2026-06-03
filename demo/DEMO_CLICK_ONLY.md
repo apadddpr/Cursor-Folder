@@ -24,9 +24,20 @@
 
 ## Before the call (5 min)
 
-**Important:** Clicking a file in the **LEFT** sidebar usually **replaces** the file in the **CENTER**. One file visible at a time is fine.
+**Two ways to open files — both OK:**
 
-**Prep labels are P1–P5 — not the same numbers as the live demo.** Live **steps 2, 4, and 6** are not missing; they happen in the **CENTER** (scroll / point) while the file from step 1, 3, or 5 stays open:
+| Method | When to use |
+|--------|-------------|
+| **Three tabs preloaded (left → right)** | **Best for live demo** — click tabs in order, no tree hunting |
+| **One tab at a time** | Single-click in sidebar replaces the center tab — also fine; use **Cmd+P** to jump |
+
+**If you have three tabs:** open them in this order (left to right):
+
+1. `ARCHITECTURE.md` → 2. `questionnaires.ts` → 3. `responsive-platform.mdc`
+
+**How to pin tabs:** **Double-click** each file in the LEFT sidebar (or open with **Cmd+P** and keep the tab). During the demo, **click the tab** instead of the tree for steps 1, 3, 5.
+
+**Prep labels are P1–P5 — not the same numbers as the live demo.** Live **steps 2, 4, and 6** are not missing; they happen in the **CENTER** (scroll / point) on whichever tab is active:
 
 | Live step | What you do |
 |-----------|-------------|
@@ -47,11 +58,17 @@
 | P4 | **services** → **questionnaire-api** → **src** → **routes** → **questionnaires.ts** | Optional: find **TODO(JIRA-4827)** (practice live **step 4**) | — |
 | P5 | **.cursor** → **rules** → **responsive-platform.mdc** | Optional: slow scroll (practice live **step 6**) | — |
 
-**Done when:** RIGHT panel open, both prompts in Notes, and you know the three LEFT paths. **CENTER** may show only the last file you opened — that's OK.
+**Done when:** RIGHT panel open, both prompts in Notes, and either (a) **three tabs** in order above, or (b) you know the three LEFT paths.
 
-**Faster during the demo:** **Cmd+P**, type `ARCH` or `question` or `responsive`, press **Return** — same files, no hunting in the tree.
+**During live steps 1–6 with preloaded tabs:**
 
-**Optional (only if you want tabs pinned):** **Double-click** a file in the LEFT sidebar to open it in its own tab; repeat for all three. Not required.
+| Live step | Do this |
+|-----------|---------|
+| **1–2** | Click tab **ARCHITECTURE.md** → scroll to **Known gaps** |
+| **3–4** | Click tab **questionnaires.ts** → point at **TODO(JIRA-4827)** |
+| **5–6** | Click tab **responsive-platform.mdc** → slow scroll |
+
+**Tab shortcuts (optional):** **Ctrl+Tab** / **Ctrl+Shift+Tab** cycle tabs; or click the tab with the mouse.
 
 ---
 
@@ -61,11 +78,11 @@
 
 | Step | WHERE | CLICK / DO | SAY (short) |
 |------|-------|------------|-------------|
-| **1** | LEFT | **docs** → **ARCHITECTURE.md** | "Small example inspired by security questionnaires." |
+| **1** | LEFT or **tab 1** | Open **ARCHITECTURE.md** (tree or first tab) | "Small example inspired by security questionnaires." |
 | **2** | CENTER | Scroll with mouse wheel until you see **Known gaps** | "Ticket 4827—audit logging missing in places." |
-| **3** | LEFT | **services** → **questionnaire-api** → **src** → **routes** → **questionnaires.ts** | "Engineers see a TODO like this." |
+| **3** | LEFT or **tab 2** | Open **questionnaires.ts** | "Engineers see a TODO like this." |
 | **4** | CENTER | Point mouse at line with **TODO(JIRA-4827)** — don't read code | "Cross-file compliance work." |
-| **5** | LEFT | **.cursor** → **rules** → **responsive-platform.mdc** | "Rules—your standards for every dev and every agent." |
+| **5** | LEFT or **tab 3** | Open **responsive-platform.mdc** | "Rules—your standards for every dev and every agent." |
 | **6** | CENTER | Scroll slowly (anywhere) | "Before AI writes anything." |
 
 ### ONBOARDING (RIGHT panel)
