@@ -24,17 +24,30 @@
 
 ## Before the call (5 min)
 
-**Important:** In Cursor, clicking a file in the **LEFT** sidebar usually **replaces** the file in the **CENTER**. You do **not** need three tabs open at once. During the demo you open **one file at a time** (steps 1, 3, 5). That is correct.
+**Important:** Clicking a file in the **LEFT** sidebar usually **replaces** the file in the **CENTER**. One file visible at a time is fine.
 
-| # | LEFT sidebar | RIGHT panel |
-|---|--------------|-------------|
-| P1 | Click **Cursor-Folder** at top (already open) | Press **Shift+Cmd+L** — Agent box on the right |
-| P2 | — | Copy **Prompt 1** + **Prompt 2** from bottom of this page into **Notes** (Mac Notes or a scratch doc) |
-| P3 | Click **docs** → **ARCHITECTURE.md** — glance at it, then move on | — |
-| P4 | Click **services** → **questionnaire-api** → **src** → **routes** → **questionnaires.ts** | — |
-| P5 | Click **.cursor** → **rules** → **responsive-platform.mdc** | — |
+**Prep labels are P1–P5 — not the same numbers as the live demo.** Live **steps 2, 4, and 6** are not missing; they happen in the **CENTER** (scroll / point) while the file from step 1, 3, or 5 stays open:
 
-**Done when:** RIGHT panel is open, both prompts are in Notes, and you have clicked each of the **3 paths** once so you know where they live in the tree. **CENTER** can show only the **last** file you clicked (rules file is fine).
+| Live step | What you do |
+|-----------|-------------|
+| **1** | LEFT → open **ARCHITECTURE.md** |
+| **2** | CENTER → scroll to **Known gaps** |
+| **3** | LEFT → open **questionnaires.ts** |
+| **4** | CENTER → point at **TODO(JIRA-4827)** |
+| **5** | LEFT → open **responsive-platform.mdc** |
+| **6** | CENTER → scroll rules file slowly |
+
+### Before the call (setup only)
+
+| # | LEFT sidebar | CENTER | RIGHT panel |
+|---|--------------|--------|-------------|
+| P1 | Click **Cursor-Folder** at top (already open) | — | **Shift+Cmd+L** — Agent box on the right |
+| P2 | — | — | Copy **Prompt 1** + **Prompt 2** (bottom of this page) into **Notes** |
+| P3 | **docs** → **ARCHITECTURE.md** | Optional: scroll once to **Known gaps** (practice live **step 2**) | — |
+| P4 | **services** → **questionnaire-api** → **src** → **routes** → **questionnaires.ts** | Optional: find **TODO(JIRA-4827)** (practice live **step 4**) | — |
+| P5 | **.cursor** → **rules** → **responsive-platform.mdc** | Optional: slow scroll (practice live **step 6**) | — |
+
+**Done when:** RIGHT panel open, both prompts in Notes, and you know the three LEFT paths. **CENTER** may show only the last file you opened — that's OK.
 
 **Faster during the demo:** **Cmd+P**, type `ARCH` or `question` or `responsive`, press **Return** — same files, no hunting in the tree.
 
@@ -42,9 +55,9 @@
 
 ---
 
-## LIVE DEMO — 14 steps (do in order)
+## LIVE DEMO — 17 steps (do in order)
 
-### SHOW FILES (clicks on LEFT only)
+### SHOW FILES (steps 1–6: LEFT opens file, then CENTER)
 
 | Step | WHERE | CLICK / DO | SAY (short) |
 |------|-------|------------|-------------|
