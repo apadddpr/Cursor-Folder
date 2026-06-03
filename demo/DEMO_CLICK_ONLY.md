@@ -24,15 +24,21 @@
 
 ## Before the call (5 min)
 
+**Important:** In Cursor, clicking a file in the **LEFT** sidebar usually **replaces** the file in the **CENTER**. You do **not** need three tabs open at once. During the demo you open **one file at a time** (steps 1, 3, 5). That is correct.
+
 | # | LEFT sidebar | RIGHT panel |
 |---|--------------|-------------|
-| P1 | Click **Cursor-Folder** at top (already open) | Press **Shift+Cmd+L** — box appears on right |
-| P2 | — | Copy **Prompt 1** from bottom of this page into **Notes** |
-| P3 | Click **docs** → **ARCHITECTURE.md** | — |
+| P1 | Click **Cursor-Folder** at top (already open) | Press **Shift+Cmd+L** — Agent box on the right |
+| P2 | — | Copy **Prompt 1** + **Prompt 2** from bottom of this page into **Notes** (Mac Notes or a scratch doc) |
+| P3 | Click **docs** → **ARCHITECTURE.md** — glance at it, then move on | — |
 | P4 | Click **services** → **questionnaire-api** → **src** → **routes** → **questionnaires.ts** | — |
 | P5 | Click **.cursor** → **rules** → **responsive-platform.mdc** | — |
 
-Done. Close everything else. Leave these 3 tabs/files ready.
+**Done when:** RIGHT panel is open, both prompts are in Notes, and you have clicked each of the **3 paths** once so you know where they live in the tree. **CENTER** can show only the **last** file you clicked (rules file is fine).
+
+**Faster during the demo:** **Cmd+P**, type `ARCH` or `question` or `responsive`, press **Return** — same files, no hunting in the tree.
+
+**Optional (only if you want tabs pinned):** **Double-click** a file in the LEFT sidebar to open it in its own tab; repeat for all three. Not required.
 
 ---
 
@@ -91,7 +97,8 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 | Pasted in wrong place | Click RIGHT box, **Cmd+A**, paste again |
 | Agent asks "Proceed?" | Type **yes** → Return |
 | Agent stuck 2+ min | Say "I'll nudge it" → paste PROMPT 1 again |
-| Opened wrong file | LEFT sidebar → click correct file |
+| Opened wrong file | **Cmd+P** → type filename → Return, or LEFT sidebar → click correct file |
+| Only one tab / file replaced last one | **Normal.** Open the next file when that step says to (steps 1, 3, 5) |
 | Blank center | Normal. Use LEFT + RIGHT only |
 | Panic | Read step **17** recap anyway — you already showed Rules + files |
 
