@@ -1,32 +1,22 @@
 # Cursor AE Case Study — Responsive CTO Demo
 
-## Start here (one file)
+## Start here
 
-**[`START_HERE.md`](START_HERE.md)** → points to the single script you use on interview day.
+**[START_HERE.md](START_HERE.md)** — the only guide you need.
 
-### Your script (only one)
+## Prep files (`demo/` folder)
 
-**[`demo/MASTER_TALK_TRACK.md`](demo/MASTER_TALK_TRACK.md)** — full pitch + demo dialogue, start to finish.
+| File | Purpose |
+|------|---------|
+| `MASTER_TALK_TRACK_CONVERSATIONAL.md` | Full script (say) |
+| `DEMO_CLICK_ONLY.md` | Clicks (do) |
+| `QA_PREP.md` | Q&A |
+| `PRACTICE_SAFELY.md` | Reset practice folder |
 
-### Also use
+## Demo code
 
-| File | When |
-|------|------|
-| [`demo/CURSOR_3_MAC_GUIDE.md`](demo/CURSOR_3_MAC_GUIDE.md) | Mac Cursor 3 shortcuts |
-| [`demo/QA_PREP.md`](demo/QA_PREP.md) | Q&A prep |
-| [`slides/PITCH_SLIDES.md`](slides/PITCH_SLIDES.md) | Build 3 slides once |
+`services/questionnaire-api/` — Agent edits this during the live demo. Reset with `./scripts/reset-demo.sh`.
 
-Other files in `demo/` are backups—see `START_HERE.md`.
+## Slides
 
----
-
-## Open in Cursor desktop
-
-```bash
-cd ~/Cursor-Folder
-git pull
-```
-
-**File → Open Folder** → `Cursor-Folder` → share this window on Zoom for the demo.
-
-No deploy. No cursor.com/agents for the live demo.
+Use your **Google Slides**. Backup: `slides/pitch-deck.html`.
