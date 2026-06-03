@@ -1,6 +1,17 @@
 # Cursor × Responsive — 3-Slide Deck
 
-Copy into **Google Slides** or **Keynote**. These match **`MASTER_TALK_TRACK_CONVERSATIONAL.md`** and your live demo.
+## Ready-made deck (no Claude / no Google required)
+
+**Open in your browser:** `slides/pitch-deck.html`
+
+1. In Finder: `Cursor-Folder` → `slides` → double-click **`pitch-deck.html`**
+2. Press **F** for fullscreen
+3. **→** or **Space** or **click** to advance slides
+4. On Zoom: **Share screen** → that browser window for the pitch, then switch to Cursor for demo
+
+## Or build in Google Slides
+
+Copy the bullets below into **Google Slides** or **Keynote**. These match **`MASTER_TALK_TRACK_CONVERSATIONAL.md`** and your live demo.
 
 **Do slides need to match the demo word-for-word?**  
 **No.** Slides = headlines. Demo = proof. They should **tee up** the same story, not repeat every click.

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cursor × Responsive — Pitch</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #0a0a0a;
+      color: #fafafa;
+      overflow: hidden;
+      height: 100vh;
+    }
+    .deck { height: 100vh; width: 100vw; position: relative; }
+    .slide {
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      padding: 4rem 6rem;
+      height: 100vh;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .slide.active { display: flex; }
+    .slide h1 {
+      font-size: 2.4rem;
+      font-weight: 600;
+      line-height: 1.25;
+      margin-bottom: 2.5rem;
+      letter-spacing: -0.02em;
+    }
+    .slide h2 {
+      font-size: 1rem;
+      font-weight: 500;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 1rem;
+    }
+    ul { list-style: none; }
+    li {
+      font-size: 1.45rem;
+      line-height: 1.5;
+      margin-bottom: 1.25rem;
+      padding-left: 1.5rem;
+      position: relative;
+      color: #e5e5e5;
+    }
+    li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.65rem;
+      width: 6px;
+      height: 6px;
+      background: #fff;
+      border-radius: 50%;
+    }
+    li strong { color: #fff; font-weight: 600; }
+    .cta {
+      margin-top: 2rem;
+      padding: 1.25rem 1.5rem;
+      border: 1px solid #333;
+      border-radius: 8px;
+      font-size: 1.35rem;
+      color: #a3a3a3;
+    }
+    .cta strong { color: #fff; }
+    .footer {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 2rem;
+      right: 2rem;
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.85rem;
+      color: #555;
+    }
+    .hint {
+      position: fixed;
+      top: 1rem;
+      right: 1.5rem;
+      font-size: 0.75rem;
+      color: #444;
+    }
+    .logo { color: #666; font-size: 0.9rem; margin-bottom: 0.5rem; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    td {
+      padding: 0.9rem 0;
+      border-bottom: 1px solid #222;
+      vertical-align: top;
+    }
+    td:first-child { font-weight: 600; width: 38%; color: #fff; }
+    td:last-child { color: #aaa; }
+  </style>
+</head>
+<body>
+  <div class="hint">← → or Space to advance · F fullscreen</div>
+  <div class="deck">
+
+    <section class="slide active" data-i="0">
+      <p class="logo">Cursor × Responsive</p>
+      <h1>Development is moving from line-by-line help to whole tasks</h1>
+      <ul>
+        <li>Teams delegate <strong>multi-file work</strong> — features, fixes, tests — not just autocomplete</li>
+        <li><strong>Your codebase + your standards</strong> matter more than which AI model you pick</li>
+        <li>Leaders need <strong>speed and safety</strong> — not a tradeoff</li>
+      </ul>
+    </section>
+
+    <section class="slide" data-i="1">
+      <h2>Why Cursor</h2>
+      <h1>Cursor — AI-native IDE for enterprise teams</h1>
+      <table>
+        <tr><td>Whole-project agents</td><td>Compliance work across many files — you'll see this live</td></tr>
+        <tr><td>Rules</td><td>Your engineering standards built into every session</td></tr>
+        <tr><td>Review before merge</td><td>AI drafts — your PR and security process stays the gate</td></tr>
+        <tr><td>Enterprise trust</td><td>Privacy Mode, SSO, Trust Center</td></tr>
+      </table>
+    </section>
+
+    <section class="slide" data-i="2">
+      <h2>Outcomes</h2>
+      <h1>Success at Responsive — and what you'll see live</h1>
+      <ul>
+        <li><strong>Faster ramp</strong> — new engineers learn from the real codebase</li>
+        <li><strong>Governed AI</strong> — Rules so every team plays by the same book</li>
+        <li><strong>Faster compliance work</strong> — audit logging across files (live ticket)</li>
+        <li><strong>Security stays in the loop</strong> — auth fix + human review</li>
+        <li><strong>Pilot:</strong> 1 platform team + 1 product squad · 30 days</li>
+      </ul>
+      <p class="cta"><strong>Next → live demo</strong> — questionnaire compliance + security scenario</p>
+    </section>
+
+  </div>
+  <div class="footer">
+    <span>Cursor · Responsive CTO conversation</span>
+    <span id="counter">1 / 3</span>
+  </div>
+
+  <script>
+    const slides = document.querySelectorAll(".slide");
+    let i = 0;
+    function show(n) {
+      i = Math.max(0, Math.min(n, slides.length - 1));
+      slides.forEach((s, j) => s.classList.toggle("active", j === i));
+      document.getElementById("counter").textContent = (i + 1) + " / " + slides.length;
+    }
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowRight" || e.key === " " || e.key === "PageDown") { e.preventDefault(); show(i + 1); }
+      if (e.key === "ArrowLeft" || e.key === "PageUp") { e.preventDefault(); show(i - 1); }
+      if (e.key === "f" || e.key === "F") document.documentElement.requestFullscreen?.();
+    });
+    document.addEventListener("click", () => show(i + 1));
+  </script>
+</body>
+</html>

@@ -8,7 +8,7 @@ You only need **one script** and **one shortcut card**.
 
 ### → [`demo/MASTER_TALK_TRACK_CONVERSATIONAL.md`](demo/MASTER_TALK_TRACK_CONVERSATIONAL.md) ← **recommended**
 
-**Use for:** every word you say — **Part 1 = slide-by-slide dialogue** · Part 2 = demo · build slides from `slides/PITCH_SLIDES.md`
+**Use for:** every word you say — **Part 1 = slide-by-slide dialogue** · Part 2 = demo · slides: open **`slides/pitch-deck.html`** in browser
 
 ### → [`demo/MASTER_TALK_TRACK.md`](demo/MASTER_TALK_TRACK.md)
 
@@ -42,7 +42,7 @@ Original version (more formal / technical). Use if you prefer denser language.
 |------|-----------------|
 | [`demo/QA_PREP.md`](demo/QA_PREP.md) | Night before + Q&A section of interview |
 | [`demo/CHECKLIST.md`](demo/CHECKLIST.md) | Day before (prep timeline) |
-| [`slides/PITCH_SLIDES.md`](slides/PITCH_SLIDES.md) | Once — to build 3 Google Slides |
+| [`slides/pitch-deck.html`](slides/pitch-deck.html) | **Your slides** — open in browser (or `PITCH_SLIDES.md` for Google Slides) |
 | [`demo/SCENARIO_CARDS.md`](demo/SCENARIO_CARDS.md) | Optional 1-page printout for prompts |
 | `DEMO_SCRIPT.md` | **Skip** — duplicated in MASTER |
 | `LIVE_TELEPROMPTER.md` | **Skip** — duplicated in MASTER |
@@ -79,7 +79,7 @@ Require auth and org scoping.
 
 ## Interview day in 4 steps
 
-1. **Slides** — 3 slides from `slides/PITCH_SLIDES.md` (or from MASTER Part 1)
+1. **Slides** — open `slides/pitch-deck.html` in browser (talk track Part 1)
 2. **Screen share Cursor** — folder `Cursor-Folder` open (what you showed in your screenshot)
 3. **Follow** `MASTER_TALK_TRACK.md` Part 2 for demo
 4. **Q&A** — `QA_PREP.md`
