@@ -250,23 +250,27 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 ---
 
-## [09:30] — Close
+## [09:30] — Close + pilot ask
 
-**[Camera if you can]**
+**[Camera if you can. Deliver this as your final close—then pause for Joe.]**
 
-> “Quick recap.
+> “Joe, just to recap what we walked through: ramping with Ask, Rules before the AI changes anything, and Agents working on real compliance work, with you still reviewing before merge.
 >
-> **Ramp**—new engineers get answers from the real codebase.
+> I mean, based on what we covered today and how you reacted, it sounds like Cursor fits what you were asking for, and you can keep me honest there, BUT—
 >
-> **Governance**—Rules so AI follows your standards.
+> if that’s fair, would you be open to a suggestion?
 >
-> **Shipping**—a multi-file compliance ticket and a security fix, both as something a human reviews—not copy-paste from the internet.
+> Great. I’d like to set up a small group of test users, with enough usage to take on some lighter, but real tickets so they can get a feel for it. We’d set up check-ins throughout the pilot to handle questions and give best practices as updates come about, and then at the end of the 30 days we can decide together if a broader rollout makes sense—
 >
-> Cursor doesn’t replace your engineers or your compliance program. It gives them one place to learn, write, and use AI—with your rules built in.
->
-> For Responsive—growing fast, serving huge customers—the bet is: **can you standardize how AI is used** so speed goes up and risk doesn’t?
->
-> Happy to go wherever is useful in Q&A—Copilot, Claude Code, security, how you’d run a pilot.”
+> would that be a bad idea?”
+
+**[If he says it’s not a bad idea — logistics only, no new “outs”:]**
+
+> “What’s the best way to get a one-pager in front of you—email, or someone on your team?”
+
+**[Then Q&A if time:]**
+
+> “Happy to go wherever is useful—Copilot, Claude Code, security, pilot details.”
 
 ---
 
