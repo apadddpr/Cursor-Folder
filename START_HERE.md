@@ -10,6 +10,7 @@ Everything else was removed so you don’t get confused.
 |------|-----|
 | **[demo/MASTER_TALK_TRACK_CONVERSATIONAL.md](demo/MASTER_TALK_TRACK_CONVERSATIONAL.md)** | **Say this** — intro, slides (Part 1), demo (Part 2) |
 | **[demo/DEMO_CLICK_ONLY.md](demo/DEMO_CLICK_ONLY.md)** | **Click this** — print or second screen |
+| **[demo/STEP_BY_STEP_SCRIPT.md](demo/STEP_BY_STEP_SCRIPT.md)** | **Edit script here** — full words per step; sync to click card when done |
 | **[demo/QA_PREP.md](demo/QA_PREP.md)** | **Q&A** — night before + after demo |
 | **[demo/PRACTICE_SAFELY.md](demo/PRACTICE_SAFELY.md)** | Reset after practice in `Cursor-Folder-PRACTICE` |
 

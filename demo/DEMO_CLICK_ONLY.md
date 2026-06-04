@@ -1,6 +1,8 @@
 # Demo Click Card — Left / Right / Say One Line
 
-**Print this page.** Keep `MASTER_TALK_TRACK_CONVERSATIONAL.md` for full sentences.
+**Print this page.** Short **SAY** column only.
+
+**Full script per step:** edit `STEP_BY_STEP_SCRIPT.md` (then sync SAY column here).
 
 **Rule:** If you get lost, click **LEFT sidebar → demo → MASTER_TALK_TRACK** to reorient. Say: *"Let me pull up the compliance ticket example."*
 
