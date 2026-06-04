@@ -71,7 +71,7 @@
 
 > “That’s especially true for Responsive. Your customers want security questionnaires and RFPs answered **fast and accurately**. Your engineering org wants to **ship without piling on compliance debt**.
 >
-> So the question isn’t ‘can AI write code?’ It’s: **can your teams in Portland and Coimbatore use AI the same way**—with your rules and your review process—**instead of everyone doing their own thing in separate chat tools?**”
+> So the question isn’t ‘can AI write code?’ It’s: **can your teams in Portland and Coimbatore use AI the same way**—with your rules and your review process—not everyone in their own chat tool with no shared standards.”
 
 **[Click → Slide 2]**
 

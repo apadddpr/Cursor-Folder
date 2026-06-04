@@ -36,7 +36,7 @@ INTRO | | [Yes.] Great — sharing my screen.
 SLIDE 1 | Share slides · Slide 1 | Here's the shift: engineers used to get help one line at a time. Now they hand off a whole task and review it in a PR like always.
 SLIDE 1 | Point at slide | What matters is your product and your rules — not whichever model was hyped last month.
 SLIDE 1 | | Leaders want speed and safety together. For Responsive — fast accurate questionnaires on the customer side, ship on eng side without compliance debt.
-SLIDE 1 | | Question isn't can AI write code — can Portland and Coimbatore use it the same governed way, not fifty random chat tools?
+SLIDE 1 | | Question isn't can AI write code — can Portland and Coimbatore use AI the same way, with your rules and review, not everyone in their own chat tool?
 SLIDE 1 | → Slide 2 | 
 SLIDE 2 | Slide 2 | That's where Cursor fits — AI-native IDE, not a plugin.
 SLIDE 2 | Point 4 cards | Agents: many files, one task. Rules: your standards every session. Review: fast draft, PR and CI still the gate. Enterprise: privacy, SSO — same trust bar your buyers use.
