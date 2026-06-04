@@ -50,7 +50,7 @@ DEMO 5-6 | Tab Rules · scroll | Before AI edits: Rules. Your non-negotiables �
 DEMO 7-8 | RIGHT panel · Cmd+. Ask | Ramp first — learn then ship. Ask = teammate who answers, won't edit files.
 DEMO 9 | Paste onboarding · Return | [Paste prompt only — don't read aloud]
 DEMO 9 paste | | I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation works in this questionnaire API and where we could accidentally expose one customer's data to another.
-DEMO 10 | Skim answer | [While runs:] New hire gets answers from this repo — not three weeks in Confluence. Doesn't replace a senior — better questions in pairing.
+DEMO 10 | Skim answer | [While runs:] New hire asks how customer data stays separated — answer from this repo, not weeks in docs. Senior engineers still matter; better questions in pairing, not a blank slate.
 DEMO 10 | Skim answer | Pulled real specifics — including risky spots. Next: Agent on the ticket.
 DEMO 11 | Cmd+. Agent | Agent = same idea, but can edit — you review like any PR.
 DEMO 12 | Point Composer | On Composer 2.5 — can switch models; happy to go deeper in Q&A.

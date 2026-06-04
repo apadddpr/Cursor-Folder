@@ -194,7 +194,7 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 **SAY (while it runs):**
 > While that runs—this is the ramp piece. Same tool they’ll use to ship code. A new hire in Portland or Coimbatore can ask how we make sure Customer A never sees Customer B’s data—and get an answer from this codebase—not from guessing after three weeks of digging through internal docs.
 
-> It doesn’t replace a senior engineer. It means they show up to the first pairing session with better questions.
+> Your senior engineers still matter—this just means the new person shows up to pairing with better questions, not a blank slate.
 
 ---
 

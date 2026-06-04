@@ -208,9 +208,9 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 **[While it thinks:]**
 
-> “A new hire in Portland or Coimbatore can ask how Customer A stays separate from Customer B—and get an answer **from this repo**, not after three weeks digging through Confluence and Slack.
+> “Picture a new hire in Portland or Coimbatore asking how customer data stays separated. They get that from **this repo**, not from weeks in internal docs.
 >
-> That **doesn’t replace** a senior engineer—it helps people **show up to pairing with better questions**.”
+> Your **senior engineers still matter**—this just means the new person shows up to pairing with **better questions**, not a blank slate.”
 
 **[Step 10: skim answer]**
 
