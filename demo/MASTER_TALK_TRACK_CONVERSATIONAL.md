@@ -99,7 +99,9 @@
 
 > “People compare us to Copilot or Claude Code—happy to unpack in Q&A. Short version: Copilot is great in-file; Claude Code is great in the terminal; **Cursor is the full workspace** where most of your org already lives.”
 
-**[Click → Slide 3]**
+**[Click → Slide 3 — bridge from product → your outcomes]**
+
+> “So that’s **what Cursor is**. The next question is **what you actually get** when we line it up with what you told me matters—**ramp**, **compliance work**, and **AI without skipping security review**. That’s this slide.”
 
 ---
 
@@ -107,23 +109,24 @@
 
 **On slide:** Faster ramp · Governed AI · Compliance · Security · Pilot · **Next: live demo**
 
-**[Walk bullets — say each outcome once; don't repeat “I’ll show” on every line]**
+**[Walk bullets — each line = outcome + what they’ll see in the next five minutes]**
 
-> “Here’s what we’d want the first ninety days to look like—and you’re about to see each one live.
+> “I’m not going to stay on slides for this—I’m going to **show you each one** in Cursor.
 >
-> **Ramp** — new hires get answers from the **real codebase** in week one, not week three of doc archaeology.
+> **Ramp** — a new hire can ask how customer data stays separate and get a real answer from the codebase in minutes, instead of spending weeks digging through internal docs. **You’ll see that in Ask mode**—questions only, no edits.
 >
-> **Governed AI** — your standards live in **one file**; devs and AI follow them **every session**.
+> **Governed AI** — your logging and security standards apply **before** the AI changes anything. **You’ll see the Rules file** we use for that.
 >
-> **Compliance work** — tickets like **audit logging on every route**—multi-file, easy to miss a spot. We’ll fix one live.
+> **Compliance work** — a ticket like wiring audit logging everywhere turns into a **diff your team reviews**, not an afternoon of hunting files. **You’ll see us close that ticket live.**
 >
-> **Security** — findings like an **export without auth**—same workflow, **human still approves**.
+> **Security** — something like an export that’s too open gets fixed the **same way**, and a human still approves. **Second example in the demo.**
 >
-> **Pilot** — small group, real tickets, thirty days, then decide on rollout.”
+> *(Pilot bullet on slide—optional one beat, or skip and save for close:)*  
+> “If it resonates, we can talk **how you’d try this with a small group** at the end.”
 
 **[Point to “Next: live demo”]**
 
-> “I’ll stop talking about it and **show you**—switching to Cursor.”
+> “Let me **show you**—switching to Cursor.”
 
 **[Stop slides. Share → Cursor desktop]**
 
