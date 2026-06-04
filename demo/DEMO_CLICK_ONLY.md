@@ -82,21 +82,21 @@
 
 | Step | WHERE | CLICK / DO | SAY (short) |
 |------|-------|------------|-------------|
-| **1** | LEFT or **tab 1** | Open **ARCHITECTURE.md** (tree or first tab) | "Small example inspired by security questionnaires." |
-| **2** | CENTER | Scroll with mouse wheel until you see **Known gaps** | "Ticket 4827—audit logging missing in places." |
-| **3** | LEFT or **tab 2** | Open **questionnaires.ts** | "Engineers see a TODO like this." |
-| **4** | CENTER | Point mouse at line with **TODO(JIRA-4827)** — don't read code | "Cross-file compliance work." |
-| **5** | LEFT or **tab 3** | Open **responsive-platform.mdc** | "Rules—your standards for every dev and every agent." |
-| **6** | CENTER | Scroll slowly (anywhere) | "Before AI writes anything." |
+| **1** | LEFT or **tab 1** | Open **ARCHITECTURE.md** (tree or first tab) | "Sample app—not your prod code. Questionnaires + compliance." |
+| **2** | CENTER | Scroll with mouse wheel until you see **Known gaps** | "Intentional gaps—we fix live." |
+| **3** | LEFT or **tab 2** | Open **questionnaires.ts** | "JIRA-4827—audit trail on every change." |
+| **4** | CENTER | Point mouse at line with **TODO(JIRA-4827)** — don't read code | "Audit code exists—not wired everywhere. That's the TODO." |
+| **5** | LEFT or **tab 3** | Open **responsive-platform.mdc** | "Before AI edits—Rules." |
+| **6** | CENTER | Scroll slowly (anywhere) | "Non-negotiables: logging, boundaries, no shortcuts." |
 
 ### ONBOARDING (RIGHT panel)
 
 | Step | WHERE | CLICK / DO | SAY (short) |
 |------|-------|------------|-------------|
-| **7** | RIGHT | Click inside text box ("Plan, Build…") | "Ramp first—then we'll fix the ticket." |
+| **7** | RIGHT | Click inside text box ("Plan, Build…") | "Ramp first—learn then ship. Ask = teammate, no edits." |
 | **8** | KEYBOARD | **Cmd + .** → tap **Ask** if menu shows (if no menu, skip) | — |
-| **9** | RIGHT | Paste onboarding text below → press **Return** | "Same codebase for learning and shipping." |
-| **10** | RIGHT | Wait. Skim answer. Don't read it all. | "Grounded in your repo, not generic web." + optional buy-in (talk track) |
+| **9** | RIGHT | Paste onboarding text below → press **Return** | *(paste only)* |
+| **10** | RIGHT | Wait. Skim answer. Don't read it all. | "From the repo—not Confluence archaeology." + optional buy-in |
 
 **Onboarding paste:**
 ```text
@@ -107,22 +107,22 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 | Step | WHERE | CLICK / DO | SAY (short) |
 |------|-------|------------|-------------|
-| **11** | KEYBOARD | **Cmd + .** → **Agent** (or **Shift+Tab** in the box) | "Now shipping—not just learning." |
-| **12** | RIGHT | **Point** at model label (**Composer 2.5 Fast**) — don't change it | Composer + not locked to one model (full words in talk track) |
-| **13** | RIGHT | Paste **PROMPT 1** from Notes → **Return** | "I describe the outcome. Watch multiple files, Rules, then a diff." |
+| **11** | KEYBOARD | **Cmd + .** → **Agent** (or **Shift+Tab** in the box) | "Agent = teammate who edits—you review the PR." |
+| **12** | RIGHT | **Point** at model label (**Composer 2.5 Fast**) — don't change it | "Composer 2.5—switch models anytime; details in Q&A." |
+| **13** | RIGHT | Paste **PROMPT 1** from Notes → **Return** | *(paste only)* |
 | **14** | RIGHT | Wait 30–90 sec. Keep talking (see below). | Repeat while waiting ↓ |
-| **15** | RIGHT | When done, click **Review** (or **Review changes**) on the agent reply | "Tech lead review—minutes not hours." |
-| **16** | CENTER / diff | Scroll or glance the diff — point at green/red if visible | "Before-and-after—like PR review. Nothing merges from here." |
-| **17** | RIGHT | Paste **PROMPT 2** → **Return** | "Security fix—same workflow." |
-| **18** | RIGHT | Wait. When done, click **Review** again if shown | "Velocity and risk together." |
-| **19** | CENTER / diff | Quick glance at security-related changes | Optional buy-in line (talk track) |
-| **20** | CAMERA | Stop clicking. Look at camera. | Pilot close + Q&A (talk track) |
+| **15** | RIGHT | When done, click **Review** (or **Review changes**) on the agent reply | "Scan in minutes—review job, not hour of typing." |
+| **16** | CENTER / diff | Scroll or glance the diff — point at green/red if visible | "Trust and proof—for your eng team too." |
+| **17** | RIGHT | Paste **PROMPT 2** → **Return** | "Open export—same flow, human review." |
+| **18** | RIGHT | Wait. When done, click **Review** again if shown | "Speed and safety—not either/or." |
+| **19** | CENTER / diff | Quick glance at security-related changes | "Still normal security review." + optional buy-in |
+| **20** | CAMERA | Stop clicking. Look at camera. | Recap → "maps to what you asked?" → pilot → "bad idea?" |
 
 ### While steps 13–14 run, repeat these 3 lines:
 
-1. "Multiple files—not just one tab."
+1. "Multiple files."
 2. "Rules already applied."
-3. "Diff for review—nothing merges without your PR."
+3. "Reviewable diff—first draft only; PR still required."
 
 ---
 

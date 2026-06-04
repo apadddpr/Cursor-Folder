@@ -1,17 +1,16 @@
 # Master Talk Track — Conversational Version
 
-**Same structure and timing as `MASTER_TALK_TRACK.md`** — same clicks, same prompts — but sounds like **you talking to a person**, not a whitepaper.
-
 **Use:**
 - **This file** → what you **say** (pitch + demo)
-- **`DEMO_CLICK_ONLY.md`** → what you **click**
-- **Notes app** → Prompt 1 & 2 (unchanged)
+- **`DEMO_CLICK_ONLY.md`** → what you **click** (short SAY column)
+- **`STEP_BY_STEP_SCRIPT.md`** → same words, one block per step
+- **Notes app** → Prompt 1 & 2 (from `DEMO_CLICK_ONLY.md` bottom)
 
 **Jargon rule:** If you use a technical term, you get **one plain-English line** right after.
 
-**Sound human:** Don’t say “first bullet,” “grounded in your code,” or “the helper exists.” Say what a person would say to a CTO at lunch.
+**Sound human:** Say what you’d say to a CTO at lunch—not slide labels or AE shorthand.
 
-**Slides:** Build from `slides/PITCH_SLIDES.md`. **Part 1 below = what you say while each slide is on screen.**
+**Slides:** Google Slides or `slides/pitch-deck.html`. Part 1 = while slides are on screen.
 
 ---
 
@@ -20,11 +19,9 @@
 | Do | Don't |
 |----|--------|
 | **Share slides** for Part 1 only (~5 min) | Read every bullet word-for-word |
-| **Glance or point** at a bullet, then **explain in your own words** | Turn your back and read the screen |
-| **Advance** when you finish that slide's script | Put paragraphs of text on slides |
+| **Glance or point** at a bullet, then explain | Turn your back and read the screen |
+| **Advance** when you finish that slide's script | Put paragraphs on slides |
 | **Switch share to Cursor** after Slide 3 | Stay on slides during the demo |
-
-**Relationship:** Slide bullets = **headlines**. This talk track = **what you actually say**. They cover the same ideas; the talk track is longer and more conversational.
 
 ---
 
@@ -32,51 +29,49 @@
 
 ## [00:00] — Camera only (no slide yet)
 
-**[Webcam on. Slides ready but not shared yet. This is ONE script — rapport + contract + reconnect + agenda.]**
+**[Webcam on. Slides ready but not shared yet.]**
 
-> “Hey Joe — how’ve you been?”  
->  
-> *[Let him answer. Brief back-and-forth.]*  
->  
-> “Good — I was on PTO for a wedding and a couple birthdays in San Diego, so I can’t complain. Feels good to be back in the swing of things.”  
->  
-> “I know we’re slated for about **twenty minutes** — I want to be conscious of your time. We’re not expecting anyone else on your end, right? **Perfect.**”  
->  
-> “Quick context on today: last time we spoke, three things came up — **compliance work slowing teams down**, **getting people ramped in the US and India**, and **using AI without skipping security review**. So I shaped the live piece around that.”  
->  
-> “Plan is simple: **five minutes** — quick refresher on Cursor and why it matters for Responsive. Then I’ll **share my screen** and show those three ideas live — small example, not a canned demo. Few minutes at the end for your questions.”  
->  
-> “By the end you’ll have a clear sense of whether this is worth exploring further — or not, and that’s completely fine. **Does that sound like a good plan?**”  
->  
-> *[Pause for yes.]*  
->  
-> “Great — I’ll start with the big picture, then we’ll get into the product.”
+> “Hey Joe — how’ve you been?”
+>
+> *[Let him answer. Brief back-and-forth.]*
+>
+> “Good — I was on PTO for a wedding and a couple birthdays in San Diego, so I can’t complain. Feels good to be back in the swing of things.”
+>
+> “I know we’re slated for about **twenty minutes** — I want to be conscious of your time. We’re not expecting anyone else on your end, right? **Perfect.**”
+>
+> “Quick context on today: last time we spoke, three things came up — **compliance work slowing teams down**, **ramp time in the US and India**, and **using AI to ship faster without skipping security review**. I built today around those.”
+>
+> “First **five minutes** — what we’re seeing with AI and why Cursor matters for Responsive. Then I’ll **share my screen** and walk through **live examples** tied to those themes. A few minutes at the end for your questions.”
+>
+> “By the end you’ll have a clear sense of whether this is worth exploring further — or not, and that’s okay too. **Does that sound like a good plan?**”
+>
+> *[Pause for yes.]*
+>
+> “Great — let me share my screen.”
 
-**[Click Share Screen → Google Slides or `slides/pitch-deck.html` → Slide 1]**
+**[Share screen → Google Slides or `slides/pitch-deck.html` → Slide 1]**
 
 ---
 
 ## [00:30] — SLIDE 1 on screen
 
-**On slide they see:**
-- Title: *Development is moving from line-by-line help to whole tasks*
-- Multi-file work · codebase + standards · speed and safety
+**On slide:** *Development is moving from line-by-line help to whole tasks*
 
-**[Gesture at title or first bullet — don't read it aloud]**
+**[Gesture at slide — don't read bullets verbatim]**
 
-> “Here’s the shift I’m seeing.
+> “Here’s the shift we’re seeing with other customers.
 >
-> Engineers used to get help one line at a time. Now they’re handing off a **whole assignment**—‘fix this ticket, add logging everywhere it’s missing, add tests’—and then **reviewing the result** like any other pull request.
+> Engineers used to get help **one line at a time**. Now they hand off a **whole task**—fix the ticket, add logging everywhere it’s missing, add tests—and **review the result in a pull request**, like any other change.
 >
-> What matters is whether the tool knows **your** product and **your** rules—not which AI model had hype last month.
+> What matters more is whether the tool knows **your product** and **your rules**—not which model was trending last month. I’m sure you’ve seen it: the ‘best’ model has changed several times just this year.
 >
-> And every leader I talk to wants **speed and safety**—not one or the other.”
+> And the last piece: every leader I talk to wants **speed and safety together**—not a tradeoff.”
 
 **[Pause. Look at camera.]**
 
-> “That’s especially true for Responsive. Your customers want security questionnaires and RFPs answered **fast** and **right**. Your engineering org feels the same pressure — ship AI product work without creating compliance debt.
+> “That’s especially true for Responsive. Your customers want security questionnaires and RFPs answered **fast and accurately**. Your engineering org wants to **ship without piling on compliance debt**.
 >
-> So the question isn’t ‘can AI write code?’ It’s: **can everyone use AI the same governed way** — Portland, Coimbatore, all of it — without fifty random ChatGPT workflows?”
+> So the question isn’t ‘can AI write code?’ It’s: **can your teams in Portland and Coimbatore use AI the same way**—with your rules and your review process—**instead of everyone doing their own thing in separate chat tools?**”
 
 **[Click → Slide 2]**
 
@@ -84,25 +79,25 @@
 
 ## [02:00] — SLIDE 2 on screen
 
-**On slide they see:**
-- Title: *Cursor — AI-native IDE for enterprise teams*
-- Whole-project agents · Rules · Review before merge · Enterprise trust
+**On slide:** *Cursor — AI-native IDE* · agents · Rules · review · enterprise trust
 
-**[Point to each row as you explain — don't read the table word-for-word]**
+**[Point at each row — don't read the table word-for-word]**
 
-> “That’s where **Cursor** fits. Not a plugin on someone else’s editor — an **AI-native IDE** built as one product.
+> “That’s where **Cursor** fits. We’re not a plugin bolted onto another editor—we’re an **AI-native IDE**, one consolidated product.
 >
-> **Whole-project agents** — I’ll show this in a minute — when work spans multiple files, the tool isn’t stuck on one tab.
+> Four things matter for a company like yours:
 >
-> **Rules** — you write standards once: audit logging, customer data boundaries. Every developer and every agent session follows them. **You’ll see this live.**
+> **Agents** — work can span **many files** in one task, not one tab at a time. You’ll see that on the compliance ticket.
 >
-> **Review before merge** — Cursor produces a **draft**. Your PR process, CI, and security review don’t go away.
+> **Rules** — your standards—audit logging, customer boundaries—written once. **Every developer and every agent session** has to follow them.
 >
-> On the enterprise side—privacy controls, single sign-on, security documentation—the same trust questions your buyers ask Responsive, your security team asks us.”
+> **Review before merge** — Cursor produces a **first draft** fast. Your **PR process, CI, and security review** stay the gate—you’re not bypassing them, you’re getting to review sooner.
+>
+> **Enterprise trust** — privacy controls, SSO, security docs—the same kind of diligence your **buyers** put you through, and your **security team** puts us through.”
 
-**[Optional one line — don't linger]**
+**[Optional — don't linger]**
 
-> “People compare us to Copilot or Claude Code — happy to unpack in Q&A. Short version: Copilot is great in-file; Claude Code is great in the terminal; **Cursor is the full workspace** where most of your org already lives.”
+> “People compare us to Copilot or Claude Code—happy to unpack in Q&A. Short version: Copilot is great in-file; Claude Code is great in the terminal; **Cursor is the full workspace** where most of your org already lives.”
 
 **[Click → Slide 3]**
 
@@ -110,99 +105,99 @@
 
 ## [03:45] — SLIDE 3 on screen
 
-**On slide they see:**
-- Faster ramp · Governed AI · Compliance work · Security + review · Pilot
-- **Next: live demo**
+**On slide:** Faster ramp · Governed AI · Compliance · Security · Pilot · **Next: live demo**
 
-**[Walk down the bullets — point, then explain each in plain English]**
+**[Walk bullets — say each outcome once; don't repeat “I’ll show” on every line]**
 
-> “What I’d want you to see in the first ninety days—I'll tie each one to the demo:
+> “Here’s what we’d want the first ninety days to look like—and you’re about to see each one live.
 >
-> **Ramp:** Someone new can ask how your product actually works on day three—not wait until week three to feel oriented. I’ll show that in Ask mode.
+> **Ramp** — new hires get answers from the **real codebase** in week one, not week three of doc archaeology.
 >
-> **Governed AI:** Your standards live in one place; the AI has to follow them. I’ll open the Rules file.
+> **Governed AI** — your standards live in **one file**; devs and AI follow them **every session**.
 >
-> **Compliance work:** The annoying tickets that touch five files—like audit logging everywhere. I’ll run one live.
+> **Compliance work** — tickets like **audit logging on every route**—multi-file, easy to miss a spot. We’ll fix one live.
 >
-> **Security:** Something like ‘this export shouldn’t be public’—fix it the same way, still reviewed by a human. Second live example.
+> **Security** — findings like an **export without auth**—same workflow, **human still approves**.
 >
-> **Pilot:** Small group, real tickets, thirty days—then decide if you expand.”
+> **Pilot** — small group, real tickets, thirty days, then decide on rollout.”
 
-**[Point to “Next: live demo” on slide]**
+**[Point to “Next: live demo”]**
 
-> “Everything on this slide — I’m about to show you in Cursor, not tell you about.”
+> “I’ll stop talking about it and **show you**—switching to Cursor.”
 
-**[Stop sharing slides. Share → Cursor desktop]**
+**[Stop slides. Share → Cursor desktop]**
 
 > “Can you see my Cursor window?”
 
 ---
 
-## Slide ↔ demo cheat sheet (keep next to you)
+## Slide ↔ demo cheat sheet
 
 | Slide 3 bullet | Demo moment |
 |----------------|-------------|
 | Faster ramp | Ask: new engineer / tenant isolation |
-| Governed AI | Open `.cursor/rules` |
-| Compliance work | Agent + Prompt 1 (JIRA-4827) |
-| Security + review | Agent + Prompt 2 (SEC-1192) |
-| Review before merge | Click **Review** after Prompt 1 — talk while diff is visible |
+| Governed AI | Rules file (steps 5–6) |
+| Compliance work | Agent + Prompt 1 + **Review** |
+| Security + review | Agent + Prompt 2 + **Review** |
+| Review before merge | Talk while diff visible (step 15–16) |
 
 ---
 
 # PART 2 — LIVE DEMO (~5 min)
 
-*Hands: follow **`DEMO_CLICK_ONLY.md` steps 1–20**. Words: this file.*
+*Hands: **`DEMO_CLICK_ONLY.md` steps 1–20**. Words: below.*
 
-### Talk track ↔ clicks (same order)
+| Talk section | Steps |
+|--------------|-------|
+| Problem | 1–4 |
+| Rules | 5–6 |
+| Ask / ramp | 7–10 |
+| Agent | 11–12 |
+| JIRA-4827 | 13–16 |
+| SEC-1192 | 17–19 |
+| Pilot close | 20 |
 
-| Talk section | Click steps | What you do on screen |
-|--------------|-------------|------------------------|
-| Problem (architecture + TODO) | **1–4** | Tab or tree → **ARCHITECTURE** → scroll **Known gaps** → tab **questionnaires.ts** → point **TODO** |
-| Rules | **5–6** | Tab **responsive-platform.mdc** → slow scroll |
-| Ask / ramp | **7–10** | RIGHT panel → **Cmd+.** **Ask** → paste onboarding → Return → skim answer |
-| Agent + Composer | **11–12** | **Cmd+.** **Agent** → point **Composer 2.5** → say model callout |
-| JIRA-4827 | **13–16** | Paste **Prompt 1** → wait → click **Review** → talk over diff |
-| SEC-1192 | **17–19** | Paste **Prompt 2** → wait → **Review** → glance / buy-in line |
-| Close + pilot | **20** | Camera — pilot script (no clicks) |
-
-**Open files:** preloaded **tabs** (click tab) or **`Cmd+P`** — same story either way.
+**Files:** preloaded **tabs** (left → right) or **`Cmd+P`**.
 
 ---
 
-## [05:00] — The problem (why: set the scene before code)
+## [05:00] — The problem
 
-**[Steps 1–2: tab **ARCHITECTURE.md** or `Cmd+P` → ARCHITECTURE → scroll to Known gaps]**
+**[Steps 1–2: tab **ARCHITECTURE.md** → scroll **Known gaps**]**
 
-> “I built a **small sample app** for today—it’s not Responsive’s code, and I don’t have access to your real repo. It’s the kind of thing your team might own: software that helps with **security questionnaires** and compliance.
+> “This is a **small sample app** I put together for today—not your production code. It’s meant to feel like something your platform team might own: **software for security questionnaires and compliance workflows**.
 >
-> I left gaps on purpose so we can fix them live. The doc lists them here under **known gaps**.”
+> I **left intentional gaps** so we can fix them live—listed here under **known gaps**.”
 
-**[Steps 3–4: tab **questionnaires.ts** or `Cmd+P` → questionnaires → point at TODO]**
+**[Steps 3–4: tab **questionnaires.ts** → point **TODO(JIRA-4827)**]**
 
-> “Here’s the ticket—JIRA-4827. Whenever someone creates or updates a questionnaire, you need an **audit trail**—who changed what, when. Your enterprise customers and SOC2 care about that.
+> “Here’s the ticket—JIRA-4827. Whenever someone creates or updates a questionnaire, you need an **audit trail**—who changed what, when. Your enterprise customers and SOC2 are going to care about that.
 >
 > The project already has code to write those audit events. It’s just **not hooked up on every route yet**—easy to miss one file. That’s the TODO. I won’t make you read TypeScript—you get the picture.”
 
 ---
 
-## [05:45] — Rules (why: governance before any AI runs)
+## [05:45] — Rules
 
-**[Steps 5–6: tab **responsive-platform.mdc** or `Cmd+P` → responsive-platform → slow scroll]**
+**[Steps 5–6: tab **responsive-platform.mdc** → slow scroll]**
 
-> “Before we let AI change a line of code, **Rules**.
+> “Before AI changes anything, **Rules**.
 >
-> This is where Responsive writes the non-negotiables: always log changes, always respect customer boundaries, don’t add insecure shortcuts.
+> This is where you’d write the non-negotiables: always log changes, always respect customer boundaries, don’t add insecure shortcuts.
 >
-> Same playbook for **every developer and every agent session**—that’s the ‘AI without skipping security review’ piece you cared about.”
+> Same guardrails for **every developer and every agent**—that’s the ‘no skipping security review’ piece from our last conversation.”
 
 ---
 
-## [06:15] — Onboarding (Ask) (why: ramp *before* we fix the ticket—not a random pivot)
+## [06:15] — Onboarding (Ask)
 
-**[Steps 7–9: RIGHT panel → `Cmd + .` → **Ask** → paste onboarding → Return]**
+**[Steps 7–8: RIGHT panel → `Cmd + .` → **Ask**]**
 
-> “You also mentioned **ramp**—especially across US and India. I’m going to show that **before** we close JIRA-4827 on purpose: same tool, **learn** first, then **ship**.”
+> “You mentioned **ramp** in the US and India. I’m going to show that **before** we fix JIRA-4827 on purpose: **same tool—learn first, then ship**.
+>
+> I’ll paste a prompt in **Ask mode**. Think of Ask as a **teammate who knows the codebase**—answers questions, **won’t edit files**.”
+
+**[Step 9: paste onboarding → Return]**
 
 ```text
 I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation works in this questionnaire API and where we could accidentally expose one customer's data to another.
@@ -210,126 +205,111 @@ I'm a new engineer on day 3 at Responsive. Explain how multi-tenant isolation wo
 
 **[While it thinks:]**
 
-> “While that runs—this is the ramp piece. Same tool they’ll use to ship code. A new hire in Portland or Coimbatore can ask, ‘How do we make sure Customer A never sees Customer B’s data?’ and get an answer from **this** codebase—not from guessing after three weeks of digging through internal docs.
+> “A new hire in Portland or Coimbatore can ask how Customer A stays separate from Customer B—and get an answer **from this repo**, not after three weeks digging through Confluence and Slack.
 >
-> It doesn’t replace a senior engineer. It means they show up to the first pairing session with better questions.”
+> That **doesn’t replace** a senior engineer—it helps people **show up to pairing with better questions**.”
 
-**[Step 10: When answer shows — skim, don’t read it all]**
+**[Step 10: skim answer]**
 
-> “You can see it pulled specifics from the project—even called out risky spots. That’s the onboarding use case. Next I’ll switch to Agent and actually implement the ticket.”
+> “It pulled specifics from the project—even called out risky spots. Next I’ll switch to **Agent** and implement the ticket.”
 
-**[Optional buy-in — one beat, then move on:]**
+**[Optional buy-in:]**
 
-> “For someone in week one in Coimbatore or Beaverton—would this beat digging through Confluence and Slack?”
+> “For someone in week one—would **this** beat digging through Confluence and Slack?”
 
-*[If yes: “That’s the ramp story.” If he expands, nod once and continue.]*
+*[If yes: “That’s the ramp story.”]*
 
 ---
 
-## [07:00] — Switch to shipping (why: now we close the ticket you saw)
+## [07:00] — Agent
 
-**[Step 11: `Cmd + .` → **Agent**, or Shift+Tab]**
+**[Step 11: `Cmd + .` → **Agent** — same panel, no New Agent]**
 
-> “Same tool—now **Agent** mode. I’ll describe the outcome for that compliance ticket and let it work across files. You review the diff like any other PR.”
+> “**Agent** is the same teammate idea—but now they **can make edits**, and you **review the diff** the same way you would any other PR.”
 
-**[Step 12: Point at model name in the agent panel — e.g. Composer 2.5 Fast — then:]**
+**[Step 12: point at **Composer 2.5 Fast** — optional one line; save cost/benchmark detail for Q&A]**
 
-> “Real quick—since it’s visible here—I just want to highlight that I’m using **our own model, Composer 2.5**. One of the things teams love most about Cursor is they’re **not locked into just our model**. They can use any model they like—whether that’s **Opus 4.8**, **Chat 5.5**, whatever you’ve standardized on.
->
-> I will call out, though—and you’ll see the speed of the agent here in a sec—**Composer 2.5 is benchmarking with those top models at about one-tenth of the cost**. Obviously, as teams think about their AI spend budget, that’s gonna be something I imagine you factor in heavily—but I just wanted to call that out before I run the agent.”
+> “I’m on **Composer 2.5** here—you can switch models anytime. Happy to go deeper on models and cost in Q&A.”
 
 ---
 
-## [07:15] — Ticket #1 (paste PROMPT 1)
+## [07:15] — Ticket #1 (JIRA-4827)
 
-**[Step 13: Paste from Notes → Return]**
+**[Step 13: paste **PROMPT 1** → Return]**
 
-**[Steps 14 — While it runs — loop these:]**
+**[Step 14 — while it runs:]**
 
-> “Three things to watch.
+> “Three things to watch: **multiple files**, **Rules already applied**, and a **reviewable diff** when it’s done.
 >
-> **One**—it’s looking at **more than one file**, not just what’s on screen.
->
-> **Two**—our **Rules** already applied—I didn’t retype the compliance requirements.
->
-> **Three**—when it’s done, I get a **before-and-after view**, like code review. Nothing goes live from here. Your team still opens a PR, tests still run, someone still approves. We’re speeding up the **first draft**, not removing the gate.”
+> Nothing merges from this panel. Your team still opens a PR, tests run, someone approves. We’re speeding up the **first draft**, not removing the gate.”
 
-**[Steps 15–16: When agent finishes → click **Review** (or **Review changes**) in the RIGHT panel. Diff opens — glance in CENTER or diff view.]**
+**[Steps 15–16: click **Review** → glance diff]**
 
-> “As a tech lead, I’d scan this in a few minutes: logging added where it was missing, tests included. Work that might take an hour or more of careful editing becomes a **review job**.
+> “As a tech lead, I’d scan this in a few minutes—logging where it was missing, tests included. Work that might’ve been **an hour of careful editing** becomes a **review job**.
 >
-> And this rhymes with what you sell: **trust and proof**—just aimed at your own engineering team.”
+> Same story you tell customers—**trust and proof**—for your own engineering team.”
 
 ---
 
-## [08:45] — Ticket #2 (paste PROMPT 2)
+## [08:45] — Ticket #2 (SEC-1192)
 
-**[Step 17: Paste → Return]**
+**[Step 17: paste **PROMPT 2** → Return]**
 
-**[Step 18 — While it runs:]**
+**[Step 18 — while it runs:]**
 
-> “Second example—a security review found an export that didn’t check who’s logged in. Same flow: describe the fix, Rules apply, human reviews the change.
+> “Second example: a security review found an **export that didn’t check who’s logged in**. Same flow—describe the fix, Rules apply, **your team reviews the change**.
 >
-> That’s how I talk about **speed and safety together**—you’re not picking one.”
+> That’s **speed and safety together**—you’re not choosing one over the other.”
 
-**[Steps 19: When done → click **Review** again if shown. Glance diff.]**
+**[Step 19: click **Review** → glance diff]**
 
-> “Login check added, customer scoping added. Still goes through your normal security review.”
+> “Login check, customer scoping—**still** goes through your normal security review.”
 
-**[Optional buy-in — one beat:]**
+**[Optional buy-in:]**
 
-> “Catching an unauthenticated export in the same workflow—does that feel closer to how you want **security and velocity** together?”
-
-*[If yes: “Same workflow—you’re not picking one.” Then close.]*
+> “Fixing an open export **in this workflow**—does that match how you want **security and velocity** to work?”
 
 ---
 
-## [09:30] — Close + pilot ask
+## [09:30] — Close + pilot
 
-**[Step 20: Camera if you can. Deliver this as your final close—then pause for Joe.]**
+**[Step 20: camera]**
 
-> “Joe, just to recap what we walked through: ramping with Ask, Rules before the AI changes anything, and Agents working on real compliance work, with you still reviewing before merge.
+> “Joe, quick recap: **Ask** for faster onboarding, **Rules** so devs and agents share the same guardrails, and **Agent** on real compliance work—with **you still reviewing before merge**.
 >
-> I mean, based on what we covered today and how you reacted, it sounds like Cursor fits what you were asking for, and you can keep me honest there, BUT—
+> Based on today—does it feel like Cursor maps to what you were asking for? **Correct me if I’m off.**
 >
-> if that’s fair, would you be open to a suggestion?
+> If that’s fair—**would you be open to a suggestion?**
 >
-> Great. I’d like to set up a small group of test users, with enough usage to take on some lighter, but real tickets so they can get a feel for it. We’d set up check-ins throughout the pilot to handle questions and give best practices as updates come about, and then at the end of the 30 days we can decide together if a broader rollout makes sense—
+> Great. I’d like to set up a small group of test users, with enough usage to take on some lighter, but real tickets so they can get a feel for it. We’d set up check-ins throughout the pilot to handle questions and share best practices as updates come out, and then at the end of the thirty days we can decide together if a broader rollout makes sense—
 >
-> would that be a bad idea?”
+> **would that be a bad idea?**”
 
-**[If he says it’s not a bad idea — logistics only, no new “outs”:]**
+**[If not a bad idea:]**
 
 > “What’s the best way to get a one-pager in front of you—email, or someone on your team?”
 
-**[Then Q&A if time:]**
+**[Q&A — include if asked:]**
 
-> “Happy to go wherever is useful—Copilot, Claude Code, security, pilot details.”
+> **Models / Composer cost:** “You’re not locked to our model—Opus, GPT, whatever you standardize on. Composer 2.5 is what many teams use for agent work on volume; we can share benchmark and pricing details with your team.”
+
+> “Happy to go wherever is useful—Copilot, Claude Code, security, pilot scope.”
 
 ---
 
 # PLAIN-ENGLISH CHEAT SHEET (if they ask)
 
-| If you say… | They might think… | Add this |
-|-------------|-------------------|----------|
-| Agent | Sci-fi | “AI that can edit multiple files from one instruction” |
-| Diff | ? | “Before-and-after, like PR review” |
-| Rules | ? | “Your engineering standards, built into every session” |
-| SOC2 | audit | “The audits your enterprise customers care about” |
-| Multi-tenant | ? | “Customer A never sees Customer B’s data” |
-| PR | ? | “Normal code review before anything merges” |
-| CI | ? | “Your automated tests in the pipeline” |
+| If you say… | Add this |
+|-------------|----------|
+| Agent | “Edits multiple files from one instruction—you review the diff.” |
+| Ask | “Answers from the repo—doesn’t edit files.” |
+| Diff | “Before-and-after, like PR review.” |
+| Rules | “Your engineering standards, every session.” |
+| SOC2 | “The audits your enterprise customers care about.” |
+| Multi-tenant | “Customer A never sees Customer B’s data.” |
 
 ---
 
-# KEEP THE SAME STRUCTURE?
+# Structure reminder
 
-**Yes.** Slides → files (1–6) → Ask (7–10) → Agent + Composer (11–12) → Prompt 1 + **Review** (13–16) → Prompt 2 + **Review** (17–19) → pilot close (20).
-
-**Change the words** to sound like you. This script is a strong draft—adjust phrases so they feel natural in your mouth when you rehearse.
-
----
-
-# Practice tip
-
-Read a section out loud. Any sentence you **stumble on** → rewrite it in your own words in the margin. That’s the version you should say on the call.
+Slides → demo steps **1–20** → pilot close. Rehearse out loud; change any line that doesn’t sound like you.

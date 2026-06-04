@@ -1,11 +1,14 @@
-# Step-by-Step Script — Edit Here, Then Sync
+# Step-by-Step Script — Matches Master Talk Track
 
-**Purpose:** One place for **what you click** + **what you say** on every step.  
-Edit the **SAY** blocks in your own words. When you’re happy, ask to sync **`DEMO_CLICK_ONLY.md`** short SAY column from this file.
+**Canonical script:** **`MASTER_TALK_TRACK_CONVERSATIONAL.md`** (edit there first).  
+This file breaks the same words into **steps** for Notes / phone.  
+**Clicks:** **`DEMO_CLICK_ONLY.md`** (short SAY column synced to master).
 
 **How to use on your phone / second screen:**
-1. Copy this whole file into **Apple Notes** or **Google Docs**, or  
-2. Open on GitHub: `demo/STEP_BY_STEP_SCRIPT.md` after `git pull`
+1. Copy **`MASTER_TALK_TRACK_CONVERSATIONAL.md`** into **Apple Notes** (full script), or  
+2. Use this file as a **step checklist** and open master for the words.
+
+**After `git pull`:** https://github.com/apadddpr/Cursor-Folder/blob/main/demo/MASTER_TALK_TRACK_CONVERSATIONAL.md
 
 ---
 
