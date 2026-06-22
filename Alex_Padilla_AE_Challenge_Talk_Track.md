@@ -1,7 +1,7 @@
 # Alex Padilla · Cursor Commercial AE Challenge
 ## Slide-by-Slide Talk Track & Pacing Guide
 
-**Format:** Present in slideshow. This doc is your script. Speaker notes on slides are backup only.
+**Format:** Present in slideshow. **This doc is your master script.** Slides are visual only. Alex does not use speaker notes.
 
 **Total presentation target:** ~60 minutes (Topics 1–5)  
 **Feedback buffer:** ~15 minutes
@@ -56,16 +56,18 @@
 ### SLIDE 3 · Mercury ★ Deep Dive
 **Time:** 90 sec | **Running total:** 2:45
 
-**On screen:** Mercury · ~58 eng · Brex/OnePay DNA · Central · AI Enablement · Ada · Brex proof
+**On screen:** Mercury · ~58 eng · Brex/OnePay DNA · Central · AI Enablement · Brex proof
 
 **SAY:**
 "Account one and my deep dive: Mercury. Roughly 58 software engineers, fintech SaaS, squarely commercial. Customer DNA is Brex and OnePay.
 
 Why now, two public signals. They acquired Central in April and are integrating over the coming months. They are hiring for AI Enablement, and the job post describes frontier users pushing boundaries in silos. The role is about shared infrastructure.
 
-Why Cursor: they open-sourced Ada. The README describes a gap between general-purpose AI and tools that understand their codebase. I would validate what teams actually use today in discovery. I do not assume their stack.
+Why Cursor: they are at an inflection point. Central adds codebase complexity, and the AI Enablement mandate is about shared standards across squads, not more siloed experiments. That is the same problem shape Brex and OnePay solved with Cursor: org-wide standardization, cross-repo and migration work, fintech-ready with Privacy Mode and SOC 2. I do not assume what they use today. I validate their stack in discovery.
 
 Proof: Brex, 70% plus of engineers on Cursor, faster migrations and debugging per James Reggio, their CTO."
+
+**IF JOE ASKS about Ada:** "Ada tells me they care about codebase context. I would not lead with it on a first call. I let them tell me what is deployed and bridge from there."
 
 **→ Advance**
 
@@ -155,7 +157,7 @@ Topic 2, I will show the five people inside Mercury and how I earn the VP meetin
 **On screen:** Mercury recap · THE PLAY · Ashwin primary target
 
 **SAY:**
-"Quick recap from Topic 1. Mercury, fintech, roughly 58 engineers, DNA Brex and OnePay. Signals: Central, AI Enablement, Ada. The play: earn the VP meeting, validate themes inside his org first, then approach Ashwin with aligned signal and Brex proof."
+"Quick recap from Topic 1. Mercury, fintech, roughly 58 engineers, DNA Brex and OnePay. Signals: Central integration and the AI Enablement hire. The play: earn the VP meeting, validate themes inside his org first, then approach Ashwin with aligned signal and Brex proof."
 
 **→ Advance**
 
@@ -164,10 +166,10 @@ Topic 2, I will show the five people inside Mercury and how I earn the VP meetin
 ### SLIDE 11 · Matt Parsons · 1st Touch
 **Time:** 40 sec | **Running total:** 8:30
 
-**On screen:** Matt · Staff SWE Backend DevEx · PG angle · champion seed
+**On screen:** Matt · Staff SWE AI Enablement & DevEx · PG angle · champion seed
 
 **SAY:**
-"First touch: Matt Parsons, Staff Engineer on Backend DevEx, inside Ashwin's org. DevEx feels tooling friction first. I am not pitching. I am validating a theme: how does the team standardize AI-assisted work across squads. He is my champion seed."
+"First touch: Matt Parsons, Staff Engineer in AI Enablement and Developer Experience, inside Ashwin's org. He sits on Mercury's shared-infrastructure mandate, not just tooling friction. I am not pitching. I am validating a theme: shared AI standards across squads vs team-by-team experiments as Central integrates. He is my champion seed."
 
 **→ Advance**
 
@@ -227,7 +229,7 @@ Topic 2, I will show the five people inside Mercury and how I earn the VP meetin
 **On screen:** Org map · 1 → 2 → 3 · P parallel · EB
 
 **SAY:**
-"Walk the map slowly. Enter at Matt, then Lev, build signal, then Ashwin as primary sponsor. Branden runs parallel. Max is EB with light exec awareness, not zero touches. Matt is technical influencer, Lev amplifier, Ashwin champion, Branden security gate, Max sign-off."
+"Walk the map slowly. Enter at Matt on AI Enablement, then Lev, build signal, then Ashwin as primary sponsor. Branden runs parallel. Max is EB with light exec awareness, not zero touches. Matt is technical influencer, Lev amplifier, Ashwin champion, Branden security gate, Max sign-off."
 
 **→ Advance**
 
@@ -297,7 +299,7 @@ Day seven, second email, new angle. Day nine, second call, voicemail is fine. Da
 **On screen:** Swim lanes · Matt/Lev/Branden/Ashwin/Max
 
 **SAY:**
-"Four full cadences plus one exec track. Matt, Lev, and Branden: full seven-touch from day one. Matt validates DevEx themes, Lev amplifies upward, Branden runs security intel in parallel.
+"Four full cadences plus one exec track. Matt, Lev, and Branden: full seven-touch from day one. Matt validates AI Enablement themes, Lev amplifies upward, Branden runs security intel in parallel.
 
 Ashwin: full seven-touch starting day five to seven, warmed by signal from his org.
 
@@ -315,11 +317,11 @@ Max: executive cadence, three touches, day seven to ten. LinkedIn engage, short 
 **SAY:**
 "I will not read five emails on slides. Matt is the foundation. Read or paraphrase the email on screen:
 
-Quick question from DevEx. As Mercury integrates Central, how is Backend DevEx thinking about consistent AI-assisted workflows across squads? Rippling hit the same inflection: usage spread squad by squad until DevEx helped align the org.
+Subject, AI Enablement plus Central. Hi Matt. As Mercury integrates Central, how is AI Enablement thinking about shared standards across squads vs team-by-team experiments? Brex hit a similar moment in fintech before aligning the org on one workspace. Worth 15 minutes to compare notes?
 
-How this compounds: Matt validates the theme in DevEx language. Lev amplifies from Banking. Internal dialogue builds. Ashwin hears a consistent signal before I ever get on with him.
+How this compounds: Matt validates the theme in AI Enablement language. Lev amplifies from Banking. Internal dialogue builds. Ashwin hears a consistent signal before I ever get on with him.
 
-Good outbound at the IC layer creates the meeting at the VP layer. Ashwin's email references what his org flagged. Happy to share that in the appendix if you want it."
+Good outbound at the IC layer creates the meeting at the VP layer. Ashwin's email references what his org flagged plus Brex as fintech proof. Full copy for all personas is in my talk track appendix. Matt's second email, day seven, uses the Rippling DevEx scale story so I am not repeating Brex back to back. Happy to read Ashwin's if you want it."
 
 **→ Advance**
 
@@ -333,11 +335,11 @@ Good outbound at the IC layer creates the meeting at the VP layer. Ashwin's emai
 **SAY:**
 "This answers: show us your preparation for the meeting. All of this stays in my internal brief, not the sales room.
 
-Account: latest news and triggers. Central, AI Enablement hire, Ada. Customer DNA proof ready, Brex and OnePay. I label sourced facts vs hypotheses.
+Account: latest news and triggers. Central integration, AI Enablement hire. Customer DNA proof ready, Brex and OnePay. I label sourced facts vs hypotheses. I do not assume their AI stack.
 
 Person: Ashwin specifically. LinkedIn activity, his VP Eng interview where he asks candidates to define the product. That gives me rapport hooks and POC-specific questions.
 
-Org: committee mapped, Matt and Lev themes captured for level-set, Branden security angle prepped, Max exec track running.
+Org: committee mapped, Matt on AI Enablement and Lev on Banking themes captured for level-set, Branden security angle prepped, Max exec track running.
 
 Call: upfront contract scripted, MEDDPICC as questions not answers, competition early, pilot next step ready.
 
@@ -364,12 +366,12 @@ Does that work?"
 **Pause. Get yes.**
 
 **Then say (Cursor overview, NOT on slide, ~2 min in role play):**
-"Quick context. Cursor is an AI-native development environment used by teams like Brex and OnePay in fintech. We help engineering orgs standardize AI-assisted development across complex codebases. I reached out because Mercury has signals that looked familiar: Central integration, the AI Enablement hire, a team that cares about codebase context. I would rather hear from you if it resonates."
+"Quick context. Cursor is an AI-native development environment used by teams like Brex and OnePay in fintech. We help engineering orgs standardize AI-assisted development across complex codebases. I reached out because Mercury has signals that looked familiar: Central integration, the AI Enablement hire, and an org moving from siloed experiments to shared infrastructure. I would rather hear from you if it resonates."
 
 **Block B (read from slide):**
 "Before I ask a bunch of questions, I want to level-set on what I have heard.
 
-I spoke with Matt on DevEx and Lev on Banking. A consistent theme: AI usage is active, but standardizing across squads is the harder problem, especially with Central integration. Matt framed it from DevEx. Lev from Banking velocity and onboarding.
+I spoke with Matt on AI Enablement and Lev on Banking. A consistent theme: AI usage is active, but standardizing across squads is the harder problem, especially with Central integration. Matt framed it from AI Enablement. Lev from Banking velocity and onboarding.
 
 From your seat, does that match what you are seeing, or is it different?"
 
@@ -392,6 +394,60 @@ Then metrics, decision criteria, decision process, paper process with Branden in
 Joe, before the role play I will switch to my sales room tab for sixty seconds. That is Ashwin-facing: what Matt and Lev flagged. Not my internal prep. Then I will run this live with you as Ashwin."
 
 **→ TAB SWITCH: Sales room (~60–90 sec) → TOPIC 4 ROLE PLAY**
+
+---
+
+# APPENDIX · OUTBOUND COPY (Topics 1–3)
+
+Use when Joe asks for full persona emails. Not on slides.
+
+**Matt · Email 2 · Day 7 (speak only, not on slide):** Second angle uses Rippling DevEx standardization at scale (cursor.com/customers). Different peer proof from Touch 1.
+
+**Ashwin · Email 1 · Subject: Matt, Lev, and Brex**
+
+Hi Ashwin,
+
+Matt on AI Enablement and Lev on Banking both flagged the same theme: AI usage is strong, but standardizing across squads is harder with Central integration underway.
+
+Brex was in a similar spot in fintech. James Reggio (CTO) aligned the org and saw faster migrations and debugging at scale.
+
+Worth 30 minutes to hear how you are thinking about eng productivity?
+
+---
+
+**Lev · Email 1 · Subject: Banking eng at scale**
+
+Hi Lev,
+
+A few conversations in the Mercury eng org surfaced a consistent theme.
+
+AI is active, but standardizing across teams gets harder as the codebase grows, especially with Central in flight.
+
+Brex and OnePay described the same moment in fintech.
+
+From Banking, is inconsistency or onboarding the bigger drag on velocity right now?
+
+Open to a short call?
+
+---
+
+**Branden · Email 1 · Subject: AI + source code governance**
+
+Hi Branden,
+
+As Mercury scales AI-assisted development, how is InfoSec thinking about governance for tools that touch source code?
+
+Retention, training data, and SOC 2 come up early with other fintech teams in a similar spot.
+
+Worth a brief conversation to understand your requirements?
+
+---
+
+**LinkedIn connection notes (one line each):**
+- Matt: Researching how AI Enablement teams standardize shared infrastructure post-acquisition. Mercury + Central caught my eye.
+- Lev: Curious how Banking eng thinks about AI consistency as the codebase scales.
+- Ashwin: Matt and Lev surfaced a theme on AI standardization I would love your perspective on.
+- Branden: Curious how Mercury InfoSec governs AI tools that touch source code.
 
 ---
 
@@ -439,46 +495,4 @@ Joe, before the role play I will switch to my sales room tab for sixty seconds. 
 
 ---
 
-# APPENDIX · EMAIL COPY (if Joe asks)
-
-**Ashwin · Email 1 · Subject: Matt, Lev, and Brex**
-
-Hi Ashwin,
-
-Matt on DevEx and Lev on Banking both flagged the same theme: AI usage is strong, but standardizing across squads is harder with Central integration underway.
-
-Brex was in a similar spot in fintech. James Reggio (CTO) aligned the org and saw faster migrations and debugging at scale.
-
-Worth 30 minutes to hear how you are thinking about eng productivity?
-
----
-
-**Lev · Email 1 · Subject: Banking eng at scale**
-
-Hi Lev,
-
-A few conversations in the Mercury eng org surfaced a consistent theme.
-
-AI is active, but standardizing across teams gets harder as the codebase grows, especially with Central in flight.
-
-Brex and OnePay described the same moment in fintech.
-
-From Banking, is inconsistency or onboarding the bigger drag on velocity right now?
-
-Open to a short call?
-
----
-
-**Branden · Email 1 · Subject: AI + source code governance**
-
-Hi Branden,
-
-As Mercury scales AI-assisted development, how is InfoSec thinking about governance for tools that touch source code?
-
-Retention, training data, and SOC 2 come up early with other fintech teams in a similar spot.
-
-Worth a brief conversation to understand your requirements?
-
----
-
-*Last updated for 25-slide deck (insert meeting prep as slide 23). If deck is still 24 slides, treat current slide 23 as Opening the Call and slide 24 as Discovery until prep slide is added.*
+*Last updated: Topics 1–3 synced to AI Enablement + Mercury Why Cursor (no Ada lead). Master script only; no speaker notes.*
