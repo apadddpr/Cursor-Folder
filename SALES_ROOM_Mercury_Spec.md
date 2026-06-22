@@ -172,39 +172,64 @@ Use prep doc order, Mercury-relevant one-liner each:
 
 ---
 
-## Intro video script (~75 sec)
+## Intro video script · PRE-MEETING (~75 sec)
 
-**Format:** You on camera, or voiceover over simple Mercury-neutral slides (no confidential data). Conversational, not corporate.
+**Use when:** Room is sent **before** Ashwin has booked a call. Proving-grounds / warm outbound — not post-scheduling.
+
+**Format:** You on camera, or voiceover over simple Mercury-neutral slides. Conversational, not corporate.
 
 ---
 
-**[0:00 – 0:10 · Hook]**
+**[0:00 – 0:08 · Hook]**
 
-> Hi Ashwin — I'm Alex, and I work with Cursor. Thanks for taking a look at this room.
+> Hi Ashwin — I'm Alex, and I work with Cursor. I put this room together for you and your team.
 
-**[0:10 – 0:25 · What this is]**
+**[0:08 – 0:22 · What this is — no meeting assumed]**
 
-> This isn't a pitch deck and it isn't homework on Mercury. It's a shared space I put together after a few conversations with people on your team — so when we talk, we're starting from the same page, not from a cold outbound email.
+> This isn't a pitch deck, and it isn't a homework dump on Mercury. It's a short, shared space so you can see why I reached out — and decide if a conversation is worth your time — without sitting through a cold email thread.
 
-**[0:25 – 0:45 · What we heard]**
+**[0:22 – 0:42 · What we heard — validate, don't assume]**
 
-> Matt on AI Enablement and Lev on Banking surfaced a consistent theme: AI usage is active, but getting it consistent across squads is the harder problem — especially with Central integration underway. I want to validate that with you, not assume it.
+> After speaking with Matt on AI Enablement and Lev on Banking, a consistent theme came up: AI usage is active, but standardizing it across squads is the harder problem — especially with Central integration underway. I might be off. That's the point of this room: you can tell me if it resonates before we ever get on a call.
 
-**[0:45 – 1:00 · Why Cursor, briefly]**
+**[0:42 – 0:58 · Why Cursor, one breath]**
 
-> Cursor helps fintech teams like Brex and OnePay standardize AI-assisted development across complex codebases — model choice, repo context, and one environment for the full dev cycle, not just autocomplete.
+> If the problem shape sounds familiar, Cursor is what teams like Brex and OnePay used in fintech — model choice, repo context, and one environment for the full dev cycle, not just autocomplete. Peer stories are in here if you want them.
+
+**[0:58 – 1:15 · Close — invitation, not calendar]**
+
+> Take what's useful, share it with Matt, Lev, or Branden if helpful, and reply or book time if you want to pressure-test this. No pressure either way — I'd rather earn 30 minutes than assume I already have them. Thanks for opening it.
+
+---
+
+**Production notes:**
+- ~115 words · ~75 sec at conversational pace
+- No "when we meet," "looking forward to our call," or "next step on the calendar"
+- No Ada, no assumed stack
+- CTA = reply in room / book time / share internally — soft
+
+---
+
+## Intro video script · POST-BOOKING (optional swap)
+
+**Use only after** Ashwin confirms a meeting. Replace close with:
+
+> When we get on the call, I'd love most of the time on your priorities — and we'll agree together whether there's a clear next step. See you then.
+
+Do not use this version for the take-home sales room tab before role play unless Joe is playing post-booking.
+
+---
+
+## Intro video script · ORIGINAL (deprecated — assumed meeting booked)
+
+<details>
+<summary>Previous version — do not use pre-meeting</summary>
 
 **[1:00 – 1:15 · Close]**
 
 > You'll see peer stories, a short overview of how we think about the problem, and resources if you want to dig in. When we meet, I'd love most of the time on your priorities — and we'll agree on a clear next step either way. Looking forward to it.
 
----
-
-**Production notes:**
-- Total: ~75 sec spoken (~130 words at pace)
-- No "I'm not trying to sell you"
-- No Ada, no assumed stack
-- Record landscape, clean background, captions on
+</details>
 
 ---
 
