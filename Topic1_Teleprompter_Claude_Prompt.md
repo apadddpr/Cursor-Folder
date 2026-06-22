@@ -1,5 +1,7 @@
 # Claude Prompt · Topic 1 Teleprompter (Slides 1–8)
 
+> **Updated:** For Topics 1–3 (slides 1–24/25), use **`Topics1-3_Teleprompter_Claude_Prompt.md`** instead. This file is Topic 1 only if you want a shorter Claude run.
+
 Copy everything below the line into Claude. Attach or paste your Google Slides deck (or slide text) if you have it.
 
 ---
