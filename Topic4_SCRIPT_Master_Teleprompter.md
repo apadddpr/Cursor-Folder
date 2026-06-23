@@ -39,23 +39,23 @@ Wait for explicit yes. Do not continue until he confirms.
 ---
 
 ## SECTION 2 · CURSOR OVERVIEW
-**~90 sec**
+**~90 sec · canonical script in `Cursor_Overview_First_Meeting.md`**
+
+**If short on time:** use the 45 sec short script in that doc. Do not use a jargon one-liner.
 
 ### YOU SAY:
 
-> Ashwin, quick context on Cursor so we are starting from the same place.
+> Ashwin, quick context so we are starting from the same place.
 >
-> Cursor is an AI-native development environment. It is where engineers write code, but built for AI from the ground up — not a plugin bolted onto an existing editor.
+> Cursor is where your engineers write code, but built for AI from the ground up. Not a plugin on top of another editor — one environment for the whole org.
 >
-> Teams like Brex and OnePay in fintech use it when AI is already happening in the org, but the hard part is making it consistent: same standards across squads, real context across a large codebase, especially when something like Central integration is adding complexity.
+> We work with fintechs like Brex and OnePay. The pattern we usually see at your stage: AI is already happening, but every squad has their own tools and their own setup. The hard part is not getting engineers to try AI. It is getting the org on one standard — especially when the codebase is getting more complex with Central integration.
 >
-> Four things that usually matter at your level. Model neutral — you are not locked to one AI provider as the landscape shifts. Built for large codebases — it understands the repo, not just the file someone has open. That is where autocomplete-only tools tend to break down. Easier to standardize — AI Enablement can set guardrails once and every squad inherits them. And it covers the full development cycle — planning, writing, review, and iteration — not just code suggestions.
+> That is what Cursor is built for. Your team is not locked to one AI provider. It understands the full repo, not just whatever file someone has open — that is where lighter tools tend to break down. AI Enablement can set guardrails once instead of every engineer building their own stack. And it covers the full cycle — writing, review, iteration — not just autocomplete.
 >
-> I reached out because Mercury had signals that looked familiar: Central integration, the AI Enablement hire, and an org moving from siloed experiments toward shared infrastructure.
+> I reached out because Mercury looked like that profile: Central integrating, the AI Enablement hire, moving from experiments to shared infrastructure.
 >
-> I would rather hear from you than talk at you. Does any of that resonate, or am I off?
-
-**Full script lives in `Cursor_Overview_First_Meeting.md` · 45 sec short version there if Joe rushes you.**
+> Does any of that resonate, or am I off?
 
 ### ⏸ PAUSE
 Let him respond briefly. Acknowledge. Do not pitch further.

@@ -365,18 +365,18 @@ Does that work?"
 
 **Pause. Get yes.**
 
-**Then say (Cursor overview, NOT on slide · ~90 sec · canonical script in Cursor_Overview_First_Meeting.md):**
-"Ashwin, quick context on Cursor so we are starting from the same place.
+**Then say (Cursor overview, NOT on slide · ~90 sec · use `Cursor_Overview_First_Meeting.md` verbatim):**
+"Ashwin, quick context so we are starting from the same place.
 
-Cursor is an AI-native development environment. It is where engineers write code, but built for AI from the ground up, not a plugin bolted onto an existing editor.
+Cursor is where your engineers write code, but built for AI from the ground up. Not a plugin on top of another editor — one environment for the whole org.
 
-Teams like Brex and OnePay in fintech use it when AI is already happening in the org, but the hard part is making it consistent: same standards across squads, real context across a large codebase, especially when something like Central integration is adding complexity.
+We work with fintechs like Brex and OnePay. The pattern we usually see at your stage: AI is already happening, but every squad has their own tools and their own setup. The hard part is not getting engineers to try AI. It is getting the org on one standard — especially when the codebase is getting more complex with Central integration.
 
-Four things that usually matter at your level. Model neutral. Built for large codebases, whole repo not just the open file. Easier to standardize, AI Enablement sets guardrails once. Full development cycle, not just autocomplete.
+That is what Cursor is built for. Your team is not locked to one AI provider. It understands the full repo, not just whatever file someone has open — that is where lighter tools tend to break down. AI Enablement can set guardrails once instead of every engineer building their own stack. And it covers the full cycle — writing, review, iteration — not just autocomplete.
 
-I reached out because Mercury had signals that looked familiar: Central integration, the AI Enablement hire, and an org moving from siloed experiments toward shared infrastructure.
+I reached out because Mercury looked like that profile: Central integrating, the AI Enablement hire, moving from experiments to shared infrastructure.
 
-I would rather hear from you than talk at you. Does any of that resonate, or am I off?"
+Does any of that resonate, or am I off?"
 
 **Pause. Let him respond briefly. Then Block B level-set.**
 
