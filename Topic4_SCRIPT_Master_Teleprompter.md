@@ -2,7 +2,7 @@
 ## Joe as Ashwin · Simulated 45-min call · ~18–22 min in take-home
 ## Read left to right, top to bottom. Every quote = say out loud.
 
-**Discovery only:** This script is your live call flow. Do not add question clusters from pivot docs or the run sheet. One optional follow-up after Pain Q2 is the only extra depth layer.
+**Discovery only:** This script is your live call flow. Do not add question clusters from pivot docs or the run sheet. Optional widen after Pain Q2, then quantify cost of delay at Metrics Q5.
 
 ---
 
@@ -110,13 +110,14 @@ Listen. Do not jump to solution.
 
 ### OPTIONAL FOLLOW-UP · PAIN (I) · impact widen
 **Only if Q1–2 stayed inside engineering. One question. Then move on.**
+**Skip if he already mentioned product, GTM, customers, or missed commitments.**
 
 ### YOU SAY:
 
 > Does that stay inside engineering, or do product, GTM, or customers feel it when integration or standardization slips?
 
 ### ⏸ PAUSE
-Let Ashwin name who feels it. Do not suggest sales impact or assume metrics.
+Let Ashwin name who feels it. Do not suggest dollar amounts or assume metrics.
 
 **JOT:** Who else feels it = _______________
 
@@ -164,11 +165,20 @@ Do not lead. Do not suggest tools.
 ---
 
 ### QUESTION 5 · METRICS (M)
-**Metrics**
+**Metrics · quantify pain**
 
 ### YOU SAY:
 
-> How do you measure that today, and what would success look like in the next 90 days?
+> When this gets in the way of shipping — missing a deadline, or product, GTM, or a customer waiting on something that is stuck — what does that actually cost you?
+
+### ⏸ PAUSE
+Listen for time, revenue, risk, or trust in his words. Do not fill in the number for him.
+
+**JOT:** Cost of delay = _______________
+
+### YOU SAY:
+
+> How do you track that today, and what would success look like in the next 90 days?
 
 ### ⏸ PAUSE
 
@@ -256,7 +266,7 @@ Do not lead. Do not suggest tools.
 
 > Ashwin, let me play that back to make sure I have it.
 >
-> You said **[Pain A in his words]**, **[Pain B or stack gap in his words]**, and success in 90 days looks like **[Metric in his words]**.
+> You said **[Pain A in his words]**, **[Pain B or stack gap in his words]**, and when that slips it costs **[cost of delay in his words]**. Success in 90 days looks like **[Metric in his words]**.
 >
 > If I am hearing you correctly, the issue is not whether AI is useful. It is **[one-line synthesis]**.
 >
