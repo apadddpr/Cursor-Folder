@@ -20,7 +20,7 @@
 | Topic 2 · Buying committee | 9–17 | 7 min | 16 min |
 | Topic 3 · Outbound & discovery | 18–25 | 14 min | 30 min |
 | Topic 4 · Role play (Joe as Ashwin) | Live | 20 min | 50 min |
-| Topic 5 · Leadership asks | TBD | 5 min | 55 min |
+| Topic 5 · Leadership asks | [Topic5_Leadership_Asks.md](Topic5_Leadership_Asks.md) | 5 min | 55 min |
 | Buffer / Q&A | — | 5 min | 60 min |
 
 **Tab switches (not slides):**

@@ -16,6 +16,7 @@
 | **Topic 4 · Claude Code pivot** | [Topic4_Pivot_Claude_Code.md](Topic4_Pivot_Claude_Code.md) | [Open doc](https://docs.google.com/document/d/10-PHAj5ULhCcALogFlSBhMU-dBi0ARsUV2xJPcYWuRE/edit) |
 | **Sales room tab** | [SALES_ROOM_Mercury_Copy.md](SALES_ROOM_Mercury_Copy.md) | — |
 | **Backup / appendix** | [Alex_Padilla_AE_Challenge_Talk_Track.md](Alex_Padilla_AE_Challenge_Talk_Track.md) | — |
+| **Topic 5 · Leadership asks** | [Topic5_Leadership_Asks.md](Topic5_Leadership_Asks.md) | — · draft awaiting your color |
 
 ---
 
@@ -24,7 +25,7 @@
 1. **Slides 1–25** · present from Topics 1–3 teleprompter  
 2. **Sales room tab** · 60–90 sec  
 3. **Topic 4** · master doc + pivot tabs if Joe names Copilot or Claude Code  
-4. **Topic 5** · not built yet  
+4. **Topic 5** · [Topic5_Leadership_Asks.md](Topic5_Leadership_Asks.md) · ~5 min reverse interview with Joe  
 
 ---
 
