@@ -142,7 +142,7 @@ Slide 5. "Next, a company rebuilding around AI: Retool."
 
 **Topic 1 · Tier 1 · Target 40 sec · Running 4:10**
 
-**On screen:** WHY NOW: AI agents in product, platform roadmap hiring · WHY CURSOR: task completion across repos, cloud agents for migrations · PROOF: Faire.
+**On screen:** WHY NOW: Retool Agents launch, platform roadmap hiring, cross-repo platform work · WHY CURSOR: cross-repo task completion, cloud agents for platform migrations · PROOF: Faire.
 
 ### 🗣 WHO
 
@@ -150,15 +150,15 @@ Retool, internal tools and dev platform, so engineering basically is the product
 
 ### 🗣 WHY NOW
 
-They are shipping AI agents in the product and hiring for a big platform roadmap. A team building AI into its product cares how its own engineers build with AI.
+They just launched Retool Agents, so agentic development is core to the product, not a side experiment. Hiring against a major platform roadmap usually means big cross-repo work, not small feature tweaks. A company selling AI agents to enterprises needs its own engineering org moving fast with AI.
 
 ### 🗣 WHY CURSOR
 
-Cursor fits task completion across repos, and cloud agents for large migrations.
+Cursor fits because Retool's work is cross-repo and task-level, not single-file autocomplete. Faire-style cloud agents are how you run large platform migrations without tying up the whole team.
 
 ### 🗣 PROOF
 
-Faire built their own agent system, then swapped it for Cursor and doubled PR throughput. One engineer ran an 18-month migration on a fleet of agents.
+Faire, similar DNA, replaced their in-house agent setup with Cursor and doubled weekly shipping speed. A year-plus migration that would need a full team, one engineer ran by coordinating many agents in parallel.
 
 ### ⏸ PAUSE
 
