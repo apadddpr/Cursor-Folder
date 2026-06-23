@@ -153,29 +153,39 @@ Plan, write, review, and iterate in one environment. Full dev cycle, not autocom
 
 **Intro:**
 
-Same segment as Mercury. Included as peer proof, not because we assume where you are today.
+Same segment as Mercury. For each peer: the moment, what Cursor solved, and their CTO in their own words. Included as peer proof, not because we assume where you are today.
 
 ---
 
 **Brex**
 
-Fintech · 70%+ engineers on Cursor · faster migrations, debugging, onboarding at scale.
+**The moment**  
+Fintech eng org on a complex codebase. AI help existed, but the gap was org-wide consistency: large migrations, debugging at scale, and onboarding new engineers on the same standard.
 
-*"More than 70% of our engineers now use Cursor…"* James Reggio, CTO
+**What Cursor solved**  
+One AI-native environment for the whole org. 70%+ engineer adoption. Faster execution on large-scale migrations, debugging, and onboarding.
 
-→ cursor.com/customers
+**James Reggio, CTO, Brex:**
 
-**Most relevant to:** Ashwin, Lev, Max
+*"More than 70% of our engineers now use Cursor, and we've seen meaningful gains in day-to-day development, faster execution on large-scale migrations, increased rate of debugging, and even faster onboarding."*
+
+cursor.com/customers
 
 ---
 
 **OnePay**
 
-Fintech peer · standardized AI-assisted development across the eng org.
+**The moment**  
+Growing eng team on a complex codebase. Engineers needed to debug faster, understand historical code changes, and ramp new joiners without losing weeks to orientation.
 
-→ cursor.com/customers
+**What Cursor solved**  
+Repo-aware IDE for the full team: debugging tied to precise code history, documentation support, and faster ramp for new engineers.
 
-**Most relevant to:** Ashwin, Lev
+**Moe Matar, CTO, OnePay:**
+
+*"Cursor took the most popular IDE in the world and put it on steroids. It's exceptional at debugging issues and attributing them to precise historical code changes, has stellar writing documentation skills, and has been incredibly helpful for new joiners in helping them ramp."*
+
+cursor.com/customers
 
 ---
 
