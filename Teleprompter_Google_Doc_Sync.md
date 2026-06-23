@@ -38,12 +38,23 @@ Use this to fix anything still stale in Google Docs.
 
 **Optional widen:** only if Q1–2 stayed inside eng
 
-**Q5 · Metrics — REPLACE ENTIRE BLOCK. Delete these if still present:**
+**Metrics / quantify cost — your Google Doc may label this Q4; repo teleprompter labels it Q5** (because repo splits competition into Q3 stack + Q4 gap).
+
+**Numbering map:**
+
+| Your Google Doc (likely) | Repo `Topic4_SCRIPT_Master_Teleprompter.md` |
+|--------------------------|---------------------------------------------|
+| Q1–2 Pain | Q1–2 Pain |
+| Optional widen | Optional widen (not numbered) |
+| Q3 Competition | Q3 Stack + Q4 Gap (two questions in repo) |
+| **Q4 Quantify cost** | **Q5 Metrics** |
+
+**REPLACE ENTIRE Q4 METRICS BLOCK in Google Doc. Delete these if still present:**
 - ~~Peel: "How do you track that today?"~~
 - ~~"Flip it around. If you got this right, what does good look like in 90 days?"~~
 - ~~JOT (metric / 90-day)~~
 
-**Q5 should be ONLY:**
+**Q4 (Metrics) should be ONLY:**
 
 > When this gets in the way of shipping — missing a deadline, or product, GTM, or a customer waiting on something that is stuck — what does that actually cost you?
 
@@ -79,8 +90,8 @@ Matt on **AI Enablement** (not DevEx)
 | Stale content | Replace with |
 |---------------|--------------|
 | Old Cursor overview (Brex lead-in, three-in-one, autonomy slider only, blank-slate 20 sec) | Money version above |
-| "90 days" / "what does good look like" at Q5 | Deleted — use level-set + demo bridge |
-| "How do you track that today?" peel at Q5 | Deleted |
+| "90 days" / "what does good look like" at Q4 Metrics | Deleted — use level-set + demo bridge |
+| "How do you track that today?" peel at Q4 Metrics | Deleted |
 | Matt on DevEx (without AI Enablement) | Matt on AI Enablement |
 | Org-standardization paragraph inside Cursor overview | Stays in level-set only if at all |
 
