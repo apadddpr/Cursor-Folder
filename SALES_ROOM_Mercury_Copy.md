@@ -222,15 +222,24 @@ Branden, happy to do a brief sync on requirements before anything touches produc
 
 ---
 
-**Suggested path (whole committee)**
+**If we explore further**
 
-| Step | Who | What |
-|------|-----|------|
-| 1 | Matt, Lev | Validate themes. Is standardization the real bottleneck? |
-| 2 | Ashwin | 30-min conversation if themes hold. Discovery, not demo. |
-| 3 | Branden | Security sync in parallel. Governance before pilot. |
-| 4 | Ashwin + squad | Scoped pilot ~2 weeks, metrics upfront |
-| 5 | Max | EB review when pilot scope and results are clear |
+Typical path for a team at Mercury's stage. Order flexes based on what you learn.
+
+**1. Validate the themes**  
+Short conversations across eng and security. Does standardization during Central integration actually top the list?
+
+**2. Leadership conversation**  
+Discovery-first sync with Ashwin: priorities, what engineers use today, where it breaks down. If there is fit, a short demo on the workflows that matter, not a generic product tour.
+
+**3. Security aligned early**  
+Brief InfoSec sync in parallel. Governance before anyone commits eng time.
+
+**4. Scoped pilot**  
+One squad, ~2 weeks, success metrics agreed upfront. Compare against how you work today.
+
+**5. Decide whether to scale**  
+Pilot results, security comfort, and leadership sign-off when there is something real to fund.
 
 Reply in this room or book time when you're ready.
 
