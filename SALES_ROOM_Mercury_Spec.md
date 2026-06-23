@@ -192,17 +192,9 @@ Use prep doc order, Mercury-relevant one-liner each:
 
 > After speaking with Matt on AI Enablement and Lev on Banking, a consistent theme came up: AI usage is active, but standardizing it across squads is the harder problem — especially with Central integration underway. I might be off. That's the point of this room: you can tell me if it resonates before we ever get on a call.
 
-**[0:42 – 0:58 · Why Cursor, one breath]**
+**[0:42 – 0:58 · Peer proof]**
 
 > If that theme lands, the peer reference is straightforward. Brex and OnePay are both fintech — both standardized how their engineers work with AI across a complex codebase. I included their stories here so you can see how they thought about it, not because I assume Mercury is in the same place.
-
-**Alt (shorter):**
-
-> If it resonates, Brex and OnePay are the fintech comps I had in mind — same kind of problem, org-wide standardization during a scaling moment. Their stories are in the room if you want the detail.
-
-**Alt (product-lightest):**
-
-> Brex and OnePay faced a similar moment in fintech. I put their stories in here so you can see how another eng org approached it — take what's useful, ignore what isn't.
 
 **[0:58 – 1:15 · Close — invitation, not calendar]**
 
