@@ -21,7 +21,7 @@
 
 ### YOU SAY · Block 3:
 
-> The way I think about it: Claude Code is hand off a task in the terminal. Cursor is the IDE your team already uses, same models available, one place to edit, review, and ship.
+> The way I think about it: Claude Code is terminal-first. You hand off a task and let it run. Cursor is editor-first. You work alongside the agent, see the code change, and iterate in the same place your team writes software every day.
 
 ### OPTIONAL (~10 sec):
 
