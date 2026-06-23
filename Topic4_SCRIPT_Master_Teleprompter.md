@@ -39,15 +39,21 @@ Wait for explicit yes. Do not continue until he confirms.
 ---
 
 ## SECTION 2 · CURSOR OVERVIEW
-**~20 sec**
+**~45 sec**
 
 ### YOU SAY:
 
-> Cursor is where engineers write code — with AI built in.
+> Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >
-> The AI understands their whole codebase, so it can help with real work: building features, fixing bugs, reviewing changes, getting up to speed on unfamiliar parts of the code.
+> Cursor is an AI-native development environment. It brings three things into one: the editor where engineers work, full codebase context across the repo, and AI across the full development cycle — not just autocomplete on a single file.
 >
-> That is what Cursor does.
+> Instead of engineers juggling Copilot, ChatGPT, and everyone building their own setup, your team works in one environment — flexible model choice, and standards the org can govern instead of every squad running its own experiments.
+>
+> Hopefully that gives you a solid sense of what Cursor is.
+
+### IF HE ASKS TO GO DEEPER (~15 sec · optional):
+
+> On the developer side, it is built for AI from the ground up — not a plugin — so when someone is working across files or onboarding to a large repo, the tool actually has context.
 
 ### ⏸ PAUSE
 Let him respond briefly. Acknowledge. Do not pitch further.
