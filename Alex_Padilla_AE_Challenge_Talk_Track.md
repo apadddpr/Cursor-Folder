@@ -365,8 +365,20 @@ Does that work?"
 
 **Pause. Get yes.**
 
-**Then say (Cursor overview, NOT on slide, ~2 min in role play):**
-"Quick context. Cursor is an AI-native development environment used by teams like Brex and OnePay in fintech. We help engineering orgs standardize AI-assisted development across complex codebases. I reached out because Mercury has signals that looked familiar: Central integration, the AI Enablement hire, and an org moving from siloed experiments to shared infrastructure. I would rather hear from you if it resonates."
+**Then say (Cursor overview, NOT on slide · ~90 sec · canonical script in Cursor_Overview_First_Meeting.md):**
+"Ashwin, quick context on Cursor so we are starting from the same place.
+
+Cursor is an AI-native development environment. It is where engineers write code, but built for AI from the ground up, not a plugin bolted onto an existing editor.
+
+Teams like Brex and OnePay in fintech use it when AI is already happening in the org, but the hard part is making it consistent: same standards across squads, real context across a large codebase, especially when something like Central integration is adding complexity.
+
+Four things that usually matter at your level. Model neutral. Built for large codebases, whole repo not just the open file. Easier to standardize, AI Enablement sets guardrails once. Full development cycle, not just autocomplete.
+
+I reached out because Mercury had signals that looked familiar: Central integration, the AI Enablement hire, and an org moving from siloed experiments toward shared infrastructure.
+
+I would rather hear from you than talk at you. Does any of that resonate, or am I off?"
+
+**Pause. Let him respond briefly. Then Block B level-set.**
 
 **Block B (read from slide):**
 "Before I ask a bunch of questions, I want to level-set on what I have heard.

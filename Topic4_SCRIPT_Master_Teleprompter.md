@@ -43,11 +43,19 @@ Wait for explicit yes. Do not continue until he confirms.
 
 ### YOU SAY:
 
-> Quick context on Cursor. It is an AI-native development environment used by teams like Brex and OnePay in fintech.
+> Ashwin, quick context on Cursor so we are starting from the same place.
 >
-> The short version is four things. It is model neutral, so you are not locked to one provider. It performs on large codebases because it understands the whole repo, not just the open file. It is fast to roll out and easier to standardize across teams. And it is a platform across the full development cycle, planning, writing, review, and iteration, not just autocomplete.
+> Cursor is an AI-native development environment. It is where engineers write code, but built for AI from the ground up — not a plugin bolted onto an existing editor.
 >
-> I reached out because Mercury has signals that looked familiar: Central integration, the AI Enablement hire, and a team that clearly cares about codebase context. I would rather hear from you than talk at you. Does any of that resonate?
+> Teams like Brex and OnePay in fintech use it when AI is already happening in the org, but the hard part is making it consistent: same standards across squads, real context across a large codebase, especially when something like Central integration is adding complexity.
+>
+> Four things that usually matter at your level. Model neutral — you are not locked to one AI provider as the landscape shifts. Built for large codebases — it understands the repo, not just the file someone has open. That is where autocomplete-only tools tend to break down. Easier to standardize — AI Enablement can set guardrails once and every squad inherits them. And it covers the full development cycle — planning, writing, review, and iteration — not just code suggestions.
+>
+> I reached out because Mercury had signals that looked familiar: Central integration, the AI Enablement hire, and an org moving from siloed experiments toward shared infrastructure.
+>
+> I would rather hear from you than talk at you. Does any of that resonate, or am I off?
+
+**Full script lives in `Cursor_Overview_First_Meeting.md` · 45 sec short version there if Joe rushes you.**
 
 ### ⏸ PAUSE
 Let him respond briefly. Acknowledge. Do not pitch further.
