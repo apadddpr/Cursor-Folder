@@ -39,15 +39,17 @@ Wait for explicit yes. Do not continue until he confirms.
 ---
 
 ## SECTION 2 · CURSOR OVERVIEW
-**~30 sec**
+**~45 sec**
 
 ### YOU SAY:
 
 > Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >
-> Cursor is an AI-native development environment. Engineers use it to write and ship code, with AI built in, full codebase context, and coverage across write, review, and iteration, not just autocomplete.
+> Cursor is an AI-native development environment. The shift is that the AI does not just suggest code, it does the work with you.
 >
-> Most teams already have engineers using AI in different places. Cursor puts that in one workspace, with flexible model choice, and guardrails the org can set once instead of every squad running its own experiments.
+> Two things make that possible. It builds a complete understanding of your codebase, at any scale, and you use the best model for each task, whether that is OpenAI, Anthropic, Gemini, or others. That means write, review, and iteration across the whole project, not autocomplete on a single file.
+>
+> Most teams already have engineers using AI in different places. Cursor puts that in one workspace, with guardrails the org can set once instead of every squad running its own experiments.
 >
 > Hopefully that gives you a solid sense of what Cursor is.
 
