@@ -7,17 +7,25 @@
 
 ## SECTION 1 · ACKNOWLEDGE (~30 sec)
 
-### YOU SAY:
+### YOU SAY · Block 1:
 
-> Claude Code comes up a lot, and for good reason. It is strong, especially for engineers who live in the terminal, want a capable agent, and hand it a big refactor or a task they can walk away from.
->
-> Where I would dig in is whether that intelligence is applied effectively across real engineering workflows for the whole org, not just a subset of seniors. With Central integrating, that means planning, writing, reviewing, and iterating across a large, complex codebase, and getting value to a broader team faster.
->
-> The way I think about it: Claude Code is great autonomous work in the terminal. Cursor is the IDE you already know, with tab, chat, and Composer in one surface, model neutral so you are not locked to one provider, and tools like Bugbot so review keeps pace across the SDLC. Same intelligence, applied where more of the team actually works.
+> Claude Code is strong, especially for seniors who want a capable agent in the terminal.
+
+### ⏸ PAUSE
+
+### YOU SAY · Block 2:
+
+> Where I would dig in is whether that lands for the whole org, not just power users. With Central in the mix, can the whole team plan, write, review, and iterate across the codebase?
+
+### ⏸ PAUSE
+
+### YOU SAY · Block 3:
+
+> The way I think about it: Claude Code is hand off a task in the terminal. Cursor is the IDE your team already uses, same models available, one place to edit, review, and ship.
 
 ### OPTIONAL (~10 sec):
 
-> Quick example: tweaking a React component's styling. In Claude Code you are describing changes blind and re-running until it looks right. In Cursor you edit inline, preview in the built-in browser, and iterate in seconds.
+> Quick example: a styling tweak on a React component. Claude Code, you describe it blind and re-run. Cursor, you edit, preview in the browser, and fix it in seconds.
 
 ### ⏸ PAUSE
 
@@ -31,7 +39,7 @@ Then go to your first question.
 
 ### YOU SAY:
 
-> Who is using Claude Code today, a subset of seniors or the broader eng org?
+> Who is using Claude Code today, seniors only or the broader org?
 
 ### ⏸ PAUSE
 
@@ -43,7 +51,7 @@ Then go to your first question.
 
 ### YOU SAY:
 
-> When work spans the codebase, or it is a quick frontend or visual change, are people in the terminal, the IDE, or both?
+> For day-to-day work, are people mostly in the terminal or the IDE?
 
 ### ⏸ PAUSE
 
@@ -55,7 +63,7 @@ Then go to your first question.
 
 ### YOU SAY:
 
-> How does review and iteration fit in after the agent generates code?
+> After the agent generates code, how does review and iteration work?
 
 ### ⏸ PAUSE
 
@@ -73,9 +81,9 @@ Then go to your first question.
 
 ### YOU SAY:
 
-> Fair question. I would keep Claude in the picture. They are complementary, not either-or. Claude Code for autonomous backend work, Cursor for daily pair-programming in the IDE.
+> Fair question. I would keep Claude. They are complementary. Claude Code for walk-away backend work, Cursor for daily work in the IDE.
 >
-> Cursor is model neutral, so you are not giving up Anthropic. The question is whether DevEx needs one integrated environment for the whole team, not just terminal-native power users.
+> And Cursor is model neutral, so you are not giving up Anthropic. The question is one environment for the whole team, not just terminal power users.
 
 ### ⏸ PAUSE
 
@@ -85,7 +93,7 @@ Then go to your first question.
 
 ### YOU SAY:
 
-> Sentry described Cursor as a scale-multiplier for the whole org, not just a convenience for a few power users.
+> Sentry called Cursor a scale-multiplier for the whole org, not just a few power users.
 
 ### ⏸ PAUSE
 
@@ -96,7 +104,7 @@ One proof point only. Do not pile on.
 ## DO NOT SAY
 
 - Claude or Anthropic is weak
-- Cursor has better intelligence or exclusive model access
+- Cursor has better intelligence
 - Model vs model debate
 - Terminal users are wrong
-- Rip and replace Claude Code on day one
+- Rip and replace on day one
