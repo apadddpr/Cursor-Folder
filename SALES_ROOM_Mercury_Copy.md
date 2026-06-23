@@ -246,26 +246,17 @@ Reply in this room or book time when you're ready.
 
 **FAQ**
 
-**Why was this shared with me?**  
-This room is for anyone who might touch a decision on eng tooling or security. Skim what's relevant to your role; ignore the rest.
-
 **Do we have to replace what engineers use today?**  
 No. Scoped pilot on hard workflows (integration, cross-repo). Compare outcomes. Discovery tells us what to test.
 
 **How is this different from Copilot, Claude Code, or ChatGPT?**  
 Task completion + repo context + org standardization across the full dev cycle. Happy to go deep in conversation; high level here.
 
-**What about code leaving our environment?** *(Branden)*  
+**What about code leaving our environment?**  
 Privacy Mode + SOC 2 at trust.cursor.com. We align InfoSec before eng commits.
-
-**Who owns a rollout?**  
-Matt / AI Enablement sets standards · Ashwin sponsors · Branden clears governance · Max signs off when resourced.
 
 **What does a pilot look like?**  
 One squad, ~2 weeks, metrics on a real workflow (e.g. Central integration). Branden looped before start.
-
-**Why now?**  
-Central integration + AI Enablement → shared infrastructure vs. siloed experiments. Brex and OnePay faced a similar fintech moment.
 
 ---
 
