@@ -96,28 +96,28 @@ Not a cold exec pitch. If Ashwin's team scopes a pilot with clear metrics, this 
 
 ## 4 · RELEVANT TO YOUR ROLE
 
-**Section title:** Based on your role — what's worth a skim
+**Section title:** Where Cursor tends to matter — by role
 
 **Intro:**
 
-Everyone gets the same room. Here's what I'd point you to, depending on where you sit — skip the rest.
+Same room, different lenses. Based on where you sit at Mercury, here is where Cursor usually comes up in conversations like this — not a read of your job, just context for what might be relevant.
 
 ---
 
 **Matt · AI Enablement & DevEx**  
-Worth your time: **What we heard** (your themes reflected back), **About Cursor** (standards, Rules, shared infrastructure), and the Rippling story under **Fintech peers** if you want a DevEx-at-scale comp.
+Cursor tends to matter when the question is how to set **shared standards and guardrails** across squads — Rules, model choice, one workspace — without every engineer running their own setup. That is usually the AI Enablement / DevEx conversation, especially as Central adds complexity.
 
 **Lev · Head of Engineering, Banking**  
-Worth your time: **What we heard** (Banking angle), **About Cursor** (large codebase + platform), and **Brex / OnePay** if you want fintech peer context on standardization at scale.
+Cursor tends to matter when **velocity and onboarding** depend on consistency across teams — same AI-assisted workflows on a revenue-critical codebase, not different tools and habits squad by squad.
 
 **Ashwin · VP of Engineering**  
-Worth your time: the full **What we heard** section, **Fintech peers** (Brex as peer proof), and **Resources & next steps** if you want to see how a pilot might be structured.
+Cursor tends to matter when the org-level question is **standardizing eng productivity during a major integration** — one governable approach, peer proof from fintechs that already went through it, and a path to test without boiling the ocean.
 
 **Branden · Head of Information Security**  
-Worth your time: **Security & compliance** first. The eng sections are context for what your team might be asked to govern — not a decision that's already been made.
+Cursor tends to matter when eng is evaluating tools that **touch source code** — and the questions are retention, training data, SOC 2, and who can access what. That is usually an early alignment, not a gate at the end.
 
 **Max · CTO & Co-founder**  
-Worth your time: **Fintech peers** and **Resources & next steps** when there's something concrete to evaluate. The rest is background on why your team is having the conversation — no ask implied on your calendar yet.
+Cursor tends to matter when there is a **fund decision** on platform-wide eng productivity — scoped pilot, clear metrics, security cleared, and peer outcomes from similar-stage fintechs. Usually after the team has done the technical validation, not before.
 
 ---
 
