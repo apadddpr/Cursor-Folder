@@ -1,122 +1,103 @@
 # Topic 5 · Leadership Asks
 ## Reverse interview for Joe · ~5 min · After Topic 4 role play
 
-**Status:** Draft — awaiting Alex's color to finalize questions and talk track.
-
-**Purpose:** Show you are evaluating the role and the leader, not just performing. Tie asks to what you already demonstrated in Topics 1–4: greenfield hunting, technical multi-thread deals, and discovery discipline.
-
-**Format:** 3 themes · 1 question each · short follow-up only if Joe opens the door · out of character, peer-level.
+**Format:** Quick talking points · 3 themes · 1 question each · peer-level, out of character.
 
 ---
 
-## Three things to look for in a leader
+## What I am looking for in a leader
 
-Use these as your filter. Each maps to a real risk in this role at Cursor commercial.
+### 1 · Invests in someone coachable — with a path toward leading
 
-### 1 · A defined commercial motion — not "figure it out"
+**What I want:** A manager who wants to work with someone coachable. That is how I see myself. I want someone who helps me get better every quarter, not just hit number and move on. Eventually I want to be a people manager, and I want a leader who is willing to invest in that with me — deal coaching now, leadership skills over time.
 
-**What you are testing:** Whether greenfield commercial has a real playbook, or whether you are joining a motion still being invented with unclear expectations.
-
-**Why it matters for you:** Topic 1 was a territory plan with no existing Cursor footprint. You need to know if Joe optimizes for outbound creation, inbound velocity, or both — and how quota maps to that in year one.
-
-**Draft question (refine with Alex):**
-> "Commercial at Cursor still feels early in how the motion is defined. How do you think about the split between creating pipeline from zero versus running inbound — and what does 'good' look like in the first two quarters for someone on this team?"
-
-**Green flag:** Specific answer on activity, pipeline quality, and ramp expectations — not just "hit number."
-
-**Red flag:** Vague "we are all figuring it out" with no clarity on what success looks like at 90 days.
+**Question for Joe:**
+> "How do you develop reps who want to keep improving — and how do you think about the path from strong IC to leading a team? That is somewhere I want to go."
 
 ---
 
-### 2 · Coaching on deal quality — not just deal speed
+### 2 · Collaborative — room to bring ideas and test them
 
-**What you are testing:** Whether Joe develops reps on discovery, multi-threading, and executive conversation — the skills you just demonstrated as Ashwin.
+**What I want:** A leadership team that collaborates. I want to bring fresh ideas, get real feedback, and A/B test things in the field — try an outbound angle, test a talk track, learn fast. Not a culture where the playbook is fixed and you just execute. I want to build something cool together through trial and error.
 
-**Why it matters for you:** This role sells to engineers and VPs on complex, security-sensitive cycles. A leader who only pushes volume will burn your Mercury-style deals. A leader who coaches methodology will make you better.
-
-**Draft question (refine with Alex):**
-> "When you listen to a rep's discovery call or debrief a deal, what are the two or three things you always push on? I am curious what you optimize for beyond stage and close date."
-
-**Green flag:** Talks about pain, committee, next step quality, when to qualify out — not just "more at-bats."
-
-**Red flag:** Only mentions quota attainment and activity metrics.
+**Question for Joe:**
+> "How open is the team to reps bringing ideas from the field and testing them — outbound, talk tracks, account strategy — versus running one fixed playbook?"
 
 ---
 
-### 3 · Rep voice upstream — without leaving you alone in the field
+### 3 · Trust to run my book — with honest feedback when it matters
 
-**What you are testing:** Whether Joe acts as a bridge between the field and product/GTM leadership when deals get hard — pilots, security, competition, product gaps.
+**What I want:** Room to own my territory and run it my way, paired with direct feedback when I need it. I am not looking for a manager who micromanages every call, but I do want someone who will tell me the truth on a debrief — what worked, what did not — so the experimentation in #2 actually makes me better. Autonomy plus accountability.
 
-**Why it matters for you:** The JD says "voice of the customer." You need a leader who will carry Mercury-style field signal to product and post-sales, and who gives you air cover on longer multi-thread cycles — not one who disappears after onboarding or micromanages every step.
-
-**Draft question (refine with Alex):**
-> "When a rep hits a deal that is real but stuck — security, product gap, or a messy committee — how do you decide when to get involved versus when to coach the rep through it? And how does field feedback actually make it back to product from your team?"
-
-**Green flag:** Examples of escalating with purpose, protecting rep ownership, and a path for customer signal to influence roadmap or enablement.
-
-**Red flag:** "You own it end to end" with no support structure, or leader inserts themselves on every call.
+**Question for Joe:**
+> "When a rep is running their territory with conviction — like the plan I walked through today — how do you balance giving them room to run versus stepping in with coaching?"
 
 ---
 
-## Delivery outline (~5 min)
+## Run-of-show (~5 min)
 
-| Beat | Time | What you say |
-|------|------|--------------|
-| **Open** | 15 sec | "Joe, I have three questions for you — less about the role on paper, more about how you lead this team." |
-| **Theme 1** | 90 sec | Motion definition question |
-| **Theme 2** | 90 sec | Deal quality coaching question |
-| **Theme 3** | 90 sec | Rep voice / escalation question |
-| **Close** | 15 sec | "Those are the three things I care about in a leader. Happy to go deeper on any of them." |
+| Beat | ~Time |
+|------|-------|
+| Open: "Three things I care about in a leader" | 15 sec |
+| Theme 1 · Coachable + path to leading | 90 sec |
+| Theme 2 · Collaborative, test and learn | 90 sec |
+| Theme 3 · Trust + honest feedback | 90 sec |
+| Close: "Happy to go deeper on any of these" | 15 sec |
 
 ---
 
-## Alex's color (fill in)
-
-Use this section after you react to the three themes above.
-
-**What resonates / what to cut:**
-
-**Personal stories or non-negotiables to weave in:**
-
-**Questions Joe might ask back — and your answers:**
-
-**Final question wording (teleprompter):**
+## Teleprompter · quick talking points
 
 ### 🗣 OPEN
 
-[Pending Alex color]
+Joe, before we wrap — I have three things I care about in a leader. Quick ones.
 
-### 🗣 THEME 1 · Commercial motion
+### 🗣 THEME 1 · Coachable, path to people manager
 
-[Pending Alex color]
+First, I want to work with someone who wants to work with someone coachable. That is how I see myself. I want a leader who helps me keep getting better, not just hit quota and reset. Long term I want to be a people manager, and I want to work with someone who is willing to invest in that — coaching me on deals now, and helping me grow into leading a team over time.
 
-### 🗣 THEME 2 · Deal quality coaching
+**Ask Joe:** How do you develop reps who want to keep improving — and how do you think about the path from strong IC to leading a team? That is somewhere I want to go.
 
-[Pending Alex color]
+### 🗣 THEME 2 · Collaborative, build together
 
-### 🗣 THEME 3 · Rep voice upstream
+Second, I want a collaborative leadership team. I want to bring fresh ideas, get real feedback, and test things — A/B an outbound angle, try a different account approach, learn what works. Not a fixed playbook where you just execute. I want to help build something cool through trial and error with the team.
 
-[Pending Alex color]
+**Ask Joe:** How open is the team to reps bringing ideas from the field and testing them — outbound, talk tracks, account strategy — versus running one fixed playbook?
+
+### 🗣 THEME 3 · Trust my book, tell me the truth
+
+Third, I want trust to run my territory my way, with honest feedback when it matters. I am not looking for someone on every call, but I do want direct debriefs — what worked, what did not — so the experimenting actually makes me better. Autonomy with accountability.
+
+**Ask Joe:** When a rep is running their territory with conviction — like what I walked through today — how do you balance giving them room to run versus stepping in with coaching?
 
 ### 🗣 CLOSE
 
-[Pending Alex color]
+Those are the three things I care about in a leader. Happy to go deeper on any of them.
+
+---
+
+## If Joe pushes back (short answers)
+
+| If Joe says… | You say… |
+|--------------|----------|
+| "Everyone says they are coachable." | "Fair. For me it is specific — I want the debrief after a discovery call or a lost deal, not just a pipeline review. I am asking because I take feedback seriously and I want to lead a team someday." |
+| "We are still figuring out the playbook." | "That is actually part of why I am excited. I would rather help shape it than inherit something rigid — as long as there is a loop for feedback when I test something." |
+| "How much autonomy do you need?" | "Run the territory, own the plan. I want coaching on quality — discovery, executive conversations — not approval on every email." |
 
 ---
 
 ## Do NOT
 
-- Turn this into a generic "what is culture like" interview
-- Ask about comp, PTO, or remote policy unless Joe opens it
-- Ask more than three questions — you have 5 minutes
-- Pitch yourself again; Topic 5 is listening mode
+- Ask more than three questions
+- Pitch yourself again — you just did for 50 minutes
+- Go into comp, PTO, or remote unless Joe opens it
 
 ---
 
-## Link to the rest of the take-home
+## Link to the take-home
 
-| Topic | What you already proved | What Topic 5 tests |
-|-------|-------------------------|-------------------|
-| 1 · Territory | You can pick accounts and prioritize | Will Joe let you run that plan? |
-| 2–3 · Outbound / prep | You can create and earn meetings | Does the team optimize for that motion? |
-| 4 · Role play | You can run discovery with a VP | Will Joe coach you to get better at that? |
+| You proved… | You are asking… |
+|-------------|-----------------|
+| Topics 1–3: initiative, creative outbound | Will leadership let me test and contribute ideas? |
+| Topic 4: coachable discovery | Will Joe actually coach me to get better? |
+| Your ambition: future people manager | Is there a path here, or just a quota seat? |
