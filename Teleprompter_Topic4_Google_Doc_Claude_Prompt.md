@@ -1,42 +1,52 @@
-# Claude Prompt · Topic 4 Google Doc Updates (Master Teleprompter + Copilot Pivot)
+# Claude Prompt · Topic 4 Google Doc Updates (Reorder + Copilot + Q5 fix)
 
 Copy **everything below the line** into Claude.
 
-**Attach or paste:**
-1. Full text of **SCRIPT · Topic 4 · Master ROLE PLAY (Teleprompter, current v2)**  
-   https://docs.google.com/document/d/1y4-BSAp5aWAJYPNoehGRtdKB37Gepn41NkfdMUDcuiQ/edit
+**Document to edit:** https://docs.google.com/document/d/1y4-BSAp5aWAJYPNoehGRtdKB37Gepn41NkfdMUDcuiQ/edit
 
-2. Full text of your **SCRIPT · Topic 4 · Copilot** pivot doc (if it exists as a separate Google Doc). If you do not have one yet, Claude should create it as a new doc section matching the master teleprompter format.
+Paste or attach the **full current** Master ROLE PLAY teleprompter v2 text.
 
-**Output:** Return the **full revised text** for each doc (not a diff summary). Preserve Alex's teleprompter conventions throughout.
+**Also create/update:** Copilot pivot doc (`SCRIPT · Topic 4 · Copilot`) if separate, or add as appendix tab.
+
+**Output:** Full revised text for each doc. Not a summary.
 
 ---
 
-You are revising Alex Padilla's **Topic 4 role-play teleprompter** for a Cursor Commercial AE take-home. Hiring manager **Joe** plays **Ashwin Baskaran**, VP Engineering at **Mercury**. First meeting, discovery then narrated demo bridge, no screen share.
+You are revising Alex Padilla's **Topic 4 Master ROLE PLAY teleprompter v2** for a Cursor AE take-home. Joe plays Ashwin, VP Eng at Mercury.
 
-## Teleprompter format rules (both docs)
+## Format rules
 
-- Spoken lines in quote blocks or `YOU SAY` blocks = say verbatim on the call
-- `⏸ PAUSE`, `JOT`, `STAGE`, `SWITCH TAB` = stage directions (not spoken)
+- Quote blocks / YOU SAY = spoken verbatim
+- ⏸ PAUSE, JOT, STAGE, SWITCH TAB = not spoken
 - One question per pause
 - **No em dashes** in spoken copy
-- Conversational AE voice, not marketing copy or feature dumps
-- Do not quote cursor.com homepage language back at the prospect
+- Conversational AE voice
 
 ---
 
-# PART A · Master teleprompter v2 (9-question bank)
+# PART A · REORDER DISCOVERY (main change)
 
-## Do NOT change these sections (already correct)
+## New discovery logic
+
+**After** Section 1 (open/contract), Section 2 (Cursor overview), and Section 3 (Matt/Lev level-set validate only):
+
+1. **Q1 · Current state / competition FIRST** (pivot trigger)
+2. **Q2 · Calibrate** (working well / noisy) — moved from Section 3
+3. **Q3–Q4 · Pain** (old Q1–Q2 content, same words)
+4. **Q5 · Metrics** (cost only — see Part B)
+5. **Q6–Q10 ·** old Q5–Q9 (criteria → economic buyer)
+
+**Rationale:** Lay of land first, then what's working/breaking, then quantify, then close. Pain questions unchanged in substance; competition informs them.
+
+## Do NOT change
 
 - BEFORE YOU START
-- SECTION 1 · OPEN AND CONTRACT (conversational rapport + agenda)
-- SECTION 2 · WHAT CURSOR IS (money version below — keep verbatim)
-- SECTION 3 · LEVEL-SET (Matt on **AI Enablement**, Lev on Banking, calibration: working well / noisiest)
-- Q1 · Q2 · Q3 discovery bank and SWITCH TAB table
-- Q5 through Q9 (decision criteria through economic buyer)
-- SECTION 6–9 (demo bridge, narrate demo, next step, break character)
-- RULES WHILE READING (except update MEDDPICC Q4 row as specified)
+- SECTION 1 · OPEN AND CONTRACT (conversational version)
+- SECTION 2 · WHAT CURSOR IS (money version — keep verbatim below)
+- Q3–Q4 pain question wording (only renumber to Q3–Q4)
+- Q6–Q10 substance (renumber from old Q5–Q9)
+- SECTION 6–9 demo bridge, narrate, next step, break character
+- Copilot / Claude / Fallback tab names
 
 ## SECTION 2 · keep verbatim
 
@@ -52,21 +62,89 @@ You are revising Alex Padilla's **Topic 4 role-play teleprompter** for a Cursor 
 
 ---
 
-## REQUIRED FIX 1 · Q4 · METRICS (M)
+## SECTION 3 · LEVEL-SET · edit
 
-**Find and replace** the entire block titled `Q4 · METRICS + DESIRED OUTCOME (M)`.
+**Keep:** Matt AI Enablement + Lev validate block.
 
-**Delete these lines if present anywhere in Q4:**
-- Peel (only if vague): "How do you track that today?"
-- "Flip it around. If you got this right, what does good look like in 90 days?"
-- JOT (90-day win)
-- Any stage note that says 90-day answer feeds pilot metrics (unless reframed to use calibration from Section 3)
+**Remove from Section 3:** calibration question ("where is AI working well / noisiest") — it moves to **Q2** after Q1 competition.
 
-**Replace Q4 with this exact block:**
+**End Section 3 with:** ▶ NEXT → Q1 (current state)
+
+---
+
+## SECTION 4 · DISCOVERY · renumber entire bank
+
+Replace discovery order with this structure (preserve Alex's peel style where present):
+
+### Q1 · CURRENT STATE / COMPETITION (C) · PIVOT TRIGGER
+- "What are engineers actually using for AI-assisted development today, formally or ad hoc?"
+- Peel: browser tools / squad doing own thing
+- SWITCH TAB table (Copilot / Claude Code / General Fallback)
+- Stage note: Run pivot, **return at Q2** (not Q4)
+
+### Q2 · CALIBRATE
+- "Quick calibration. Where is AI already working well for your team, and where is it noisiest?"
+- Peel: "What makes those different?"
+- JOT working well / noisy
+
+### Q3 · PAIN (I) — old Q1 content
+- Central integrating, biggest drag
+- Peels: where show up first; widen if inside eng only
+
+### Q4 · PAIN (I) — old Q2 content
+- Consistency breaks down between squads
+
+### Q5 · METRICS (M) — see Part B (cost only)
+
+### Q6–Q10 — old Q5–Q9
+- Criteria, process+timing, paper/Branden, champion (Matt AI Enablement), economic buyer
+
+Update intro line: "Pick 6 to 8 threads, not all 10."
+
+---
+
+## SECTION 5 · SUMMARIZE · replace playback
 
 ```
-Q4 · METRICS (M)
-Back from the pivot if you ran one. Now quantify.
+YOU SAY
+"Let me play that back. Working well is [Q2 calibration]. You are on [Q1 stack]. The biggest drag is [Q3]. When it slips it costs you [Q5 cost]. The areas you want to improve are [Q2 noisy / pain threads].
+
+Did I get that right?"
+```
+
+Delete any "good in 90 days" or [Q4 win] references.
+
+---
+
+## MEDDPICC AT A GLANCE · replace table
+
+| Q | Letter | Topic |
+| Q1 | C | Current state / competition (PIVOT) |
+| Q2 | — | Calibrate working well / noisy |
+| Q3–Q4 | I | Pain |
+| Q5 | M | Cost of delay only |
+| Q6 | D | Decision criteria |
+| Q7 | D | Decision process + timing |
+| Q8 | P | Paper / Branden |
+| Q9 | C | Champion |
+| Q10 | E | Economic buyer |
+
+---
+
+## Add RULES bullet
+
+- Q1 is pivot trigger. Return to master at **Q2** after pivot (not Q4).
+- No 90-day success question at Q5.
+
+---
+
+# PART B · Q5 METRICS (cost only)
+
+Replace any `Q4 · METRICS + DESIRED OUTCOME` or old Q5 metrics block with:
+
+```
+Q5 · METRICS (M)
+Back from pivot if you ran one. Now quantify.
 
 YOU SAY
 "When that gets in the way of shipping — missing a deadline, or product, GTM, or a customer waiting on something stuck — what does that actually cost you?"
@@ -74,145 +152,40 @@ YOU SAY
 ⏸ PAUSE
 JOT (cost): ____________________
 
-STAGE: Do not ask "what does good look like in 90 days" here. Working well / noisy already captured at calibration. Demo bridge uses those areas.
-```
-
-**Rationale (do not put in doc):** Level-set calibration = what good looks like. Q4 = quantify cost only.
-
----
-
-## REQUIRED FIX 2 · SECTION 5 · SUMMARIZE
-
-**Find** the summarize playback that references `[Q4 win]` or "good in 90 days".
-
-**Replace the YOU SAY block with:**
-
-```
-YOU SAY
-"Let me play that back. Working well is [calibration]. The biggest drag is [Q1]. When it slips it costs you [Q4 cost]. The areas you want to improve are [calibration noisy / pain threads].
-
-Did I get that right?"
-```
-
-**Delete:** "And good in 90 days looks like [Q4 win]."
-
----
-
-## REQUIRED FIX 3 · MEDDPICC AT A GLANCE table
-
-**Q4 row — change description from** `cost + 90-day win (pivots return here)` **to:**
-
-`cost of delay only (quantify after pivot; no 90-day success question)`
-
----
-
-## OPTIONAL · Q3 pivot instruction line
-
-If Q3 says pivots "return here at Q4 and quantify" — keep that. It still applies; Q4 is cost-only now.
-
----
-
-# PART B · Copilot pivot script (`SCRIPT · Topic 4 · Copilot`)
-
-Create or fully replace the Copilot pivot doc. Match master teleprompter formatting. This doc opens when Joe says Copilot / GitHub. After Section 2 discovery, **return to master at Q4** to quantify cost.
-
-## Frame (for you, not spoken as intro)
-
-Flow: **flowers → where it thins out → Cursor wedge → optional example → 3 discovery questions → pushback blocks → return to master Q4**
-
-Prep doc wedge: snippet help → task completion · local suggestions → codebase context · point solution → integrated experience
-
----
-
-## SECTION 1 · ACKNOWLEDGE (~30 sec)
-
-```
-YOU SAY
-"Copilot is strong. It helps engineers write code faster, and I would not rip it out on day one.
-
-Where I would dig in is the work bigger than a snippet. Multi-file changes, the Central integration, tasks that span the codebase.
-
-The way I think about it: Copilot is local suggestions and point assistance. Cursor is broader task completion across the real repo, as one integrated experience."
-
-OPTIONAL · only if you want one concrete beat (~10 sec)
-YOU SAY
-"Quick example: rename a function across eight files and update the tests. Copilot helps line by line, you do the legwork. Cursor takes the whole change in one shot."
-
-⏸ PAUSE
-Let it land. Then go to your first question.
+STAGE: Do not ask 90-day success or "how do you track that today."
 ```
 
 ---
 
-## SECTION 2 · DISCOVERY (3 questions)
+# PART C · Copilot pivot doc (full script)
 
-```
-QUESTION 1
-YOU SAY
-"Where does Copilot work great for your team, and where does it thin out?"
+Format like master teleprompter. After pivot Section 2, **return to master at Q2** (calibrate), not Q4/Q5.
 
-⏸ PAUSE
-Listen fully.
-JOT: Works = ____________________ · Thins out = ____________________
+Include verbatim:
 
-QUESTION 2
-YOU SAY
-"When a change touches several files or repos, how does that workflow go today?"
+**SECTION 1 · ACKNOWLEDGE (~30 sec)**
+- Copilot is strong, would not rip out day one
+- Work bigger than snippet, Central, tasks across codebase
+- Local suggestions vs task completion across real repo
+- OPTIONAL: 8-file rename example
 
-⏸ PAUSE
-Listen for the multi-file gap.
-JOT: Multi-file workflow = ____________________
+**SECTION 2 · DISCOVERY (3 questions)**
+1. Where does Copilot work great / thin out?
+2. When change touches several files or repos, how does workflow go?
+3. With Central integrating, is codebase context holding up?
 
-QUESTION 3
-YOU SAY
-"With Central integrating, is codebase context holding up?"
+**▶ RETURN TO MASTER at Q2 · CALIBRATE**
 
-⏸ PAUSE
-Listen. Wedge into large codebase performance.
-JOT: Context gap = ____________________
+**SECTION 3 · PUSHBACK**
+- Block A: autocomplete agree; bigger than one file + standard
+- Block B optional: Brex one sentence only
 
-▶ RETURN TO MASTER SCRIPT at Q4 · METRICS (cost question)
-```
+**DO NOT SAY:** Copilot bad, pricing tiers, rip and replace
 
 ---
 
-## SECTION 3 · IF HE PUSHES BACK
+## Deliverable
 
-```
-BLOCK A · "Copilot is good enough"
-YOU SAY
-"For autocomplete, completely agree.
-
-The question is the work bigger than one file, and getting every squad on the same standard. That is a different job than line completion."
-
-⏸ PAUSE
-Let him respond.
-
-BLOCK B · optional · only if he engages
-STAGE: one sentence of proof, then stop.
-
-YOU SAY
-"If it helps, Brex is a fintech that already had heavy AI usage and still moved the majority of its engineers onto Cursor for the bigger work."
-
-⏸ PAUSE
-Do not pile on. One proof point only.
-```
-
----
-
-## Copilot doc · DO NOT SAY (add as RULES section at bottom)
-
-- Copilot is bad or obsolete
-- Model benchmarks or pricing tiers
-- Feature soup (Semantic Search, Bugbot) before he names the gap
-- Rip and replace on day one
-
----
-
-## Final deliverable
-
-1. **Full revised Master teleprompter v2** with Part A fixes only (minimal diff elsewhere)
-2. **Full Copilot pivot script** in matching format (Part B)
-3. At the top of your response, a 5-line summary of what changed
-
-Do not invent new discovery questions beyond what is specified. Do not add competitor comparisons to Section 2 Cursor overview. Do not reintroduce 90-day success questions anywhere in the master doc.
+1. Full revised Master teleprompter v2 with reorder + Q5 fix + summarize + MEDDPICC table
+2. Full Copilot pivot doc
+3. 5-line summary of changes at top

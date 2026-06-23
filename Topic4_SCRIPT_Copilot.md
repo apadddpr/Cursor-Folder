@@ -75,6 +75,8 @@ Listen. This is your wedge into large codebase performance.
 
 ### ▶ RETURN TO MASTER SCRIPT
 
+**Return at Q2 · calibrate** (or Q5 · metrics if calibrate and pain already covered).
+
 Impact / quantify if not covered → Summarize → Demo bridge.
 
 **When you narrate demo (prep doc language, not feature dump):**

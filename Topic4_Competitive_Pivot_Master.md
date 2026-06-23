@@ -28,8 +28,10 @@ Run this before opening any competitive doc.
 
 ### Open · 3–4 min
 1. Upfront contract (slide 24 Block A) → pause → yes
-2. Cursor overview (~45 sec · `Cursor_Overview_First_Meeting.md` verbatim)
+2. Cursor overview (~45 sec · `Cursor_Overview_First_Meeting.md`)
 3. Matt/Lev level-set (slide 24 Block B) → **pause**
+4. **Q1 current state / competition → pivot if needed → return at Q2**
+5. Q2 calibrate → Q3–Q4 pain → Q5 cost
 
 ### Core discovery · pick 2–3 each
 **Pain**
