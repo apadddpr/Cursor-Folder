@@ -396,7 +396,7 @@ From your seat, does that match what you are seeing, or is it different?"
 ### SLIDE 25 · Discovery Flow
 **Time:** 90 sec | **Running total:** 23:35
 
-**On screen:** 10-step discovery table · competition at step 3
+**On screen:** 10-step discovery table · current state at step 2 · calibrate at step 3
 
 **SAY:**
 "Once level-set is done, I run discovery in this order. Not alphabetical MEDDPICC. First I validate Matt and Lev. Then current state first: what are engineers actually using today, formally or ad hoc. That is my pivot trigger if they name Copilot or something else. Listen, do not lead.
@@ -473,7 +473,7 @@ Worth a brief conversation to understand your requirements?
 
 **Your opening:** Slide 24 script (contract → Cursor overview → Matt/Lev level-set)
 
-**Discovery order:** Slide 25 · Competition early · Do not assume stack
+**Discovery order:** Level-set → **Q1 current state** ("What are engineers using today?") → Q2 calibrate → Q3 pain → Q5 cost only → summarize → demo. Pick 6–8 questions, not all 10. Pivot: acknowledge only, return at Q2.
 
 **If Joe pushes competition:** "I hear you on [X]. Helpful to understand what is working and where it breaks down on your codebase."
 

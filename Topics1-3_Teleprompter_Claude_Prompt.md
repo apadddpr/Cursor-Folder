@@ -141,7 +141,9 @@ For Tier 3, it is OK to use slightly more natural phrasing vs. robotic repetitio
 >
 > From your seat, does that match what you are seeing, or is it different?
 
-**Discovery order (slide 25):** Pain → Competition (step 3, early) → Metrics → Decision criteria → Decision process → Paper process (Branden) → Champion → Economic buyer → Next step (scoped 2-week pilot, success metrics, Branden looped, Max aware).
+**Discovery order (slide 25):** Level-set → **current state / competition (step 2)** → **calibrate (step 3)** → pain → **metrics cost only (no 90-day)** → decision criteria → process → paper → champion → economic buyer → next step.
+
+**Topic 4 role play:** `Topic4_Master_Teleprompter.md` only. Pivots: `Topic4_Pivot_Copilot.md`, `Topic4_Pivot_Claude_Code.md`.
 
 **Before Topic 4:** Alex switches to sales room tab (~60–90 sec). Ashwin-facing Matt/Lev themes only. NOT internal prep.
 
