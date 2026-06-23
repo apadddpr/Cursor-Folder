@@ -25,7 +25,7 @@
 
 ### OPTIONAL (~10 sec):
 
-> Quick example: a styling tweak on a React component. Claude Code, you describe it blind and re-run. Cursor, you edit, preview in the browser, and fix it in seconds.
+> Quick example: a styling tweak on a React component. In Claude Code you describe the change blind and re-run until it looks right. In Cursor you edit, preview in the browser, and adjust as you go.
 
 ### ⏸ PAUSE
 
