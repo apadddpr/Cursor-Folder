@@ -100,24 +100,24 @@ Not a cold exec pitch. If Ashwin's team scopes a pilot with clear metrics, this 
 
 **Intro:**
 
-Same room, different lenses. Based on where you sit at Mercury, here is where Cursor usually comes up in conversations like this — not a read of your job, just context for what might be relevant.
+Same room, different lenses. Based on where you sit, here is where Cursor usually comes up — context for what might be relevant, not a read of your job.
 
 ---
 
 **Matt · AI Enablement & DevEx**  
-Cursor tends to matter when the question is how to set **shared standards and guardrails** across squads — Rules, model choice, one workspace — without every engineer running their own setup. That is usually the AI Enablement / DevEx conversation, especially as Central adds complexity.
+When the question is **shared standards across squads** — Rules, model choice, one workspace — without every engineer on their own setup. Especially as Central adds complexity.
 
 **Lev · Head of Engineering, Banking**  
-Cursor tends to matter when **velocity and onboarding** depend on consistency across teams — same AI-assisted workflows on a revenue-critical codebase, not different tools and habits squad by squad.
+When **velocity and onboarding** depend on the same AI-assisted workflows across teams — not different tools and habits squad by squad.
 
 **Ashwin · VP of Engineering**  
-Cursor tends to matter when the org-level question is **standardizing eng productivity during a major integration** — one governable approach, peer proof from fintechs that already went through it, and a path to test without boiling the ocean.
+When the question is **org-wide standardization during a major integration** — one approach, fintech peer proof, and a small pilot to test before scaling.
 
 **Branden · Head of Information Security**  
-Cursor tends to matter when eng is evaluating tools that **touch source code** — and the questions are retention, training data, SOC 2, and who can access what. That is usually an early alignment, not a gate at the end.
+When eng evaluates tools that **touch source code** — retention, training data, SOC 2, access controls. Usually aligned early, not at the end.
 
 **Max · CTO & Co-founder**  
-Cursor tends to matter when there is a **fund decision** on platform-wide eng productivity — scoped pilot, clear metrics, security cleared, and peer outcomes from similar-stage fintechs. Usually after the team has done the technical validation, not before.
+When there is a **fund decision on eng productivity** — pilot results, security cleared, peer outcomes. Usually after the team validates, not before.
 
 ---
 
