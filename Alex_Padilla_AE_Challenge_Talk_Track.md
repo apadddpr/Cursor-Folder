@@ -368,9 +368,9 @@ Does that work?"
 **Then say (Cursor overview, NOT on slide · ~45 sec):**
 "Let me give you a quick picture of what Cursor is and how I want you to think about it.
 
-Cursor is an AI-native development environment. It brings three things into one: the editor where engineers work, full codebase context across the repo, and AI across the full development cycle — not just autocomplete on a single file.
+Cursor is an AI-native development environment. Engineers use it to write and ship code — with AI built in, full codebase context, and coverage across write, review, and iteration, not just autocomplete.
 
-Instead of engineers juggling Copilot, ChatGPT, and everyone building their own setup, your team works in one environment — flexible model choice, and standards the org can govern instead of every squad running its own experiments.
+Most teams already have engineers using AI in different places. Cursor puts that in one workspace — flexible model choice, and guardrails the org can set once instead of every squad running its own experiments.
 
 Hopefully that gives you a solid sense of what Cursor is."
 
