@@ -45,19 +45,13 @@ Wait for explicit yes. Do not continue until he confirms.
 
 > Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >
-> Cursor is an AI-native code editor — where engineers write and ship code, with AI built into the product itself. It is its own application, not a plugin added on top of VS Code the way Copilot is. If your team uses VS Code today, it will feel familiar. The difference is AI is core to how the editor works, not something bolted on after the fact.
+> Cursor is an AI-native code editor. It is where engineers write and ship software — with AI built directly into how they work.
 >
-> One workspace for the org: full codebase context, not just the file someone has open; flexible model choice; and write, review, and iteration in one place — not autocomplete on a single file.
+> It understands your full codebase, not just the file someone has open. One workspace to write, review, and iterate — with flexible model choice built in.
 >
 > Hopefully that gives you a solid sense of what Cursor is. Happy to dig in on any piece — or I would love to hear how you are thinking about it on your side.
 
-### IF HE ASKS "ISN'T IT JUST A VS CODE FORK?" (~15 sec · optional):
-
-> It is built on the VS Code open-source base, so the look and feel carry over. But it is its own editor with AI integrated at the core — that is a different architecture than a Copilot-style plugin living inside VS Code.
-
-### IF HE ASKS TO GO DEEPER ON CUSTOMERS (~15 sec · optional):
-
-> Teams like Brex and OnePay in fintech use it when the hard part is getting the whole org on one standard across a complex codebase — not whether AI works.
+**No comparisons in overview.** VS Code / Copilot / customers → only if he asks (see `Cursor_Overview_First_Meeting.md`).
 
 ### ⏸ PAUSE
 Let him respond briefly. Acknowledge. Do not pitch further.
