@@ -1,7 +1,7 @@
 # Topic 5 · Leadership Asks
-## Reverse interview for Joe · ~5 min · After Topic 4 role play
+## Reverse interview for Joe · ~2 min · After Topic 4 role play
 
-**Format:** Quick talking points · 3 themes · 1 question each · peer-level, out of character.
+**Format:** 3 quick themes · out of character · peer-level.
 
 ---
 
@@ -9,105 +9,82 @@
 
 ### 1 · Invests in someone coachable — with a path toward leading
 
-**What I want:** A manager who wants to work with someone coachable. That is how I see myself. I want someone who helps me get better every quarter, not just hit number and move on. Eventually I want to be a people manager, and I want a leader who is willing to invest in that with me — deal coaching now, leadership skills over time.
+I want a leader who wants to work with someone coachable. That is how I see myself. Help me get better every quarter — not just hit number and reset. Long term I want to be a people manager, and I want someone willing to invest in that with me.
 
-**Question for Joe:**
-> "How do you develop reps who want to keep improving — and how do you think about the path from strong IC to leading a team? That is somewhere I want to go."
+**Ask Joe:** How do you develop reps who want to keep improving — and how do you think about the path from strong IC to leading a team?
 
 ---
 
 ### 2 · Collaborative — room to bring ideas and test them
 
-**What I want:** A leadership team that collaborates. I want to bring fresh ideas, get real feedback, and A/B test things in the field — try an outbound angle, test a talk track, learn fast. Not a culture where the playbook is fixed and you just execute. I want to build something cool together through trial and error.
+I want a leadership team that collaborates. Bring fresh ideas, get feedback, A/B test in the field — outbound, talk tracks, account strategy. Not a fixed playbook. Build something cool together through trial and error.
 
-**Question for Joe:**
-> "How open is the team to reps bringing ideas from the field and testing them — outbound, talk tracks, account strategy — versus running one fixed playbook?"
-
----
-
-### 3 · In your corner when it gets hard — not just on pipeline reviews
-
-**What I want:** A leader who shows up when you need them, not only on forecast calls. Commercial deals get messy — security, product questions, a committee you cannot crack alone. I want someone who champions the rep internally and helps you navigate the org when a deal is real but stuck. That is the kind of leader I want to learn from, and eventually be for someone else.
-
-**Question for Joe:**
-> "When a rep has a real deal but it is stuck — security, product, a messy committee — how do you show up? What does support from you look like versus leaving the rep to figure it out alone?"
+**Ask Joe:** How open is the team to reps bringing ideas from the field and testing them — versus running one fixed playbook?
 
 ---
 
-## Alternatives for #3 (swap if one fits better)
+### 3 · Straight with you — no guessing where you stand
 
-| Option | One line | Question for Joe |
-|--------|----------|------------------|
-| **A · In your corner** *(current)* | Shows up when deals get stuck, champions you internally | "What does support look like when a deal is real but stuck?" |
-| **B · Learn by watching** | Future manager path: see how they run the team, not just your quota | "For reps who want to lead someday — do you give exposure to how you run the team, hire, give hard feedback?" |
-| **C · Low ego, two-way** | Takes input from the team on the motion, not just top-down | "How much does field input actually shape how the team sells — versus leadership setting the playbook?" |
+I want a leader who is direct. Good week or bad week, you know where you stand and what to work on next. No politics, no reading between the lines on a pipeline review. I can handle hard feedback — I just want honesty. That is how you actually get better and how you build a team people trust.
+
+**Ask Joe:** How does feedback work on your team day to day — do reps always know where they stand?
 
 ---
 
-## Run-of-show (~5 min)
+## Teleprompter · ~2 min
 
-| Beat | ~Time |
-|------|-------|
-| Open: "Three things I care about in a leader" | 15 sec |
-| Theme 1 · Coachable + path to leading | 90 sec |
-| Theme 2 · Collaborative, test and learn | 90 sec |
-| Theme 3 · In your corner when deals get hard | 90 sec |
-| Close: "Happy to go deeper on any of these" | 15 sec |
+### 🗣 OPEN (~10 sec)
 
----
+Joe, three things I care about in a leader — quick ones.
 
-## Teleprompter · quick talking points
+### 🗣 ONE (~35 sec)
 
-### 🗣 OPEN
+First, someone who wants to work with someone coachable. That is me. I want to keep getting better, and long term I want to lead a team — so I am looking for someone who invests in that, not just this quarter's number.
 
-Joe, before we wrap — I have three things I care about in a leader. Quick ones.
+**Ask:** How do you develop reps who want to improve — and how do you think about the path from IC to leading a team?
 
-### 🗣 THEME 1 · Coachable, path to people manager
+### 🗣 TWO (~35 sec)
 
-First, I want to work with someone who wants to work with someone coachable. That is how I see myself. I want a leader who helps me keep getting better, not just hit quota and reset. Long term I want to be a people manager, and I want to work with someone who is willing to invest in that — coaching me on deals now, and helping me grow into leading a team over time.
+Second, collaborative leadership. I want to bring ideas, get feedback, and test things in the field — not execute a script someone else wrote. Build the motion together.
 
-**Ask Joe:** How do you develop reps who want to keep improving — and how do you think about the path from strong IC to leading a team? That is somewhere I want to go.
+**Ask:** How open is the team to reps testing ideas from the field — outbound, talk tracks, account strategy?
 
-### 🗣 THEME 2 · Collaborative, build together
+### 🗣 THREE (~35 sec)
 
-Second, I want a collaborative leadership team. I want to bring fresh ideas, get real feedback, and test things — A/B an outbound angle, try a different account approach, learn what works. Not a fixed playbook where you just execute. I want to help build something cool through trial and error with the team.
+Third, be straight with me. I want to always know where I stand — what is working, what is not, what to fix next. No politics. I can take hard feedback. I just want honesty.
 
-**Ask Joe:** How open is the team to reps bringing ideas from the field and testing them — outbound, talk tracks, account strategy — versus running one fixed playbook?
+**Ask:** How does feedback work day to day on your team — do reps always know where they stand?
 
-### 🗣 THEME 3 · In your corner when it gets hard
+### 🗣 CLOSE (~5 sec)
 
-Third, I want a leader who is in my corner when it gets hard — not just on pipeline reviews. Commercial deals get messy. Security, product, a committee you cannot crack alone. I want someone who champions the rep and helps navigate the org when a deal is real but stuck. That is the kind of leader I want to learn from, and eventually be for someone else.
-
-**Ask Joe:** When a rep has a real deal but it is stuck — security, product, a messy committee — how do you show up? What does support from you look like versus leaving the rep to figure it out alone?
-
-### 🗣 CLOSE
-
-Those are the three things I care about in a leader. Happy to go deeper on any of them.
+That is what I am looking for. Happy to go deeper on any of it.
 
 ---
 
-## If Joe pushes back (short answers)
+## If Joe pushes back
 
 | If Joe says… | You say… |
 |--------------|----------|
-| "Everyone says they are coachable." | "Fair. For me it is specific — I want the debrief after a discovery call or a lost deal, not just a pipeline review. I am asking because I take feedback seriously and I want to lead a team someday." |
-| "We are still figuring out the playbook." | "That is actually part of why I am excited. I would rather help shape it than inherit something rigid — as long as there is a loop for feedback when I test something." |
-| "We expect reps to own deals end to end." | "I do own them. I am asking about when you need air cover to get unblocked — security, product, an exec intro. That is different from hand-holding on every call." |
+| "Everyone says they are coachable." | "Fair — I mean specific debriefs on calls and deals, not just pipeline hygiene. I take it seriously." |
+| "We are still figuring out the playbook." | "That is part of why I am here. I would rather help shape it than inherit something rigid." |
+| "We are pretty direct already." | "Good — that is what I am asking about. I have had managers where you never really knew — I do not want that." |
 
 ---
 
 ## Do NOT
 
+- Run long — you have ~2 minutes
 - Ask more than three questions
-- Pitch yourself again — you just did for 50 minutes
-- Go into comp, PTO, or remote unless Joe opens it
+- Pitch yourself again
 
 ---
 
-## Link to the take-home
+## How the three fit together
 
-| You proved… | You are asking… |
-|-------------|-----------------|
-| Topics 1–3: initiative, creative outbound | Will leadership let me test and contribute ideas? |
-| Topic 4: coachable discovery | Will Joe actually coach me to get better? |
-| Topic 4: multi-thread Mercury deal | Will Joe have my back when it gets stuck? |
+| Theme | You are asking… |
+|-------|-----------------|
+| 1 · Coachable | Will you help me grow — including toward managing someday? |
+| 2 · Collaborative | Can I contribute and experiment, not just execute? |
+| 3 · Direct | Will you tell me the truth so the first two actually work? |
+
+#3 closes the loop: hard to be coachable or collaborate if you never know where you actually stand.

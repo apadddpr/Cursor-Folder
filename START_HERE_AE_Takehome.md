@@ -25,7 +25,7 @@
 1. **Slides 1–25** · present from Topics 1–3 teleprompter  
 2. **Sales room tab** · 60–90 sec  
 3. **Topic 4** · master doc + pivot tabs if Joe names Copilot or Claude Code  
-4. **Topic 5** · [Topic5_Leadership_Asks.md](Topic5_Leadership_Asks.md) · ~5 min reverse interview with Joe  
+4. **Topic 5** · [Topic5_Leadership_Asks.md](Topic5_Leadership_Asks.md) · ~2 min reverse interview with Joe  
 
 ---
 
