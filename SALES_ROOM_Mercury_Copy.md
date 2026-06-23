@@ -44,53 +44,29 @@ Embed Loom here.
 
 **Section title:** What we heard from your team
 
+**Subtitle:** Themes from Matt and Lev
+
 **Intro:**
 
-I've been reaching out across the eng org and InfoSec in parallel. Two themes came up from early conversations. I might be off. This room is how we pressure-test that **before** anyone commits to a call.
+My main conversations so far have been with Matt on AI Enablement and Lev on Banking. A consistent theme came up. I might be off. Tell me if this matches what you're seeing.
 
 ---
 
 **Matt · AI Enablement & DevEx**
 
-AI usage is active, but **standardizing it across squads** is the harder problem, especially as Central integrates.
-
-The question from this seat: shared standards vs. team-by-team experiments.
-
----
+AI usage is active, but standardizing it across squads is the harder problem, especially as Central integrates. Shared standards vs. team-by-team experiments.
 
 **Lev · Banking Engineering**
 
-Same pattern from **velocity and onboarding** as the codebase grows and Central adds complexity.
-
-The question from Banking: inconsistency across teams vs. onboarding drag.
+Same pattern from a velocity and onboarding lens as the codebase grows. Inconsistency across teams vs. onboarding drag.
 
 ---
 
-**What we'd validate with Ashwin · VP Engineering**
+**Where Cursor might fit *(hypothesis)*
 
-Does that match what you're seeing org-wide? Where does standardization break down today, and who owns fixing it?
+If that theme holds, the gap is usually not "more AI tools." It is one governable standard for the org: repo context across the codebase, model choice in one workspace, and DevEx / AI Enablement setting guardrails once so every squad inherits them.
 
----
-
-**What we'd align on with Branden · InfoSec**
-
-If eng explores AI tooling that touches source code, how does Mercury govern retention, training data, and SOC 2 **before** a pilot starts, not after.
-
----
-
-**What Max · CTO would see later**
-
-Not a cold exec pitch. If Ashwin's team scopes a pilot with clear metrics, this is the business case: standardize AI as engineering scales, with fintech peer proof and security cleared early.
-
----
-
-**What we're exploring (hypothesis for the whole group)**
-
-- Can Mercury standardize AI-assisted development across squads during Central integration?
-- Can eng get repo-aware, task-level help without every squad building its own stack?
-- Can we test that low-risk: one squad, clear metrics, InfoSec looped in from day one?
-
-*Not a pitch. A starting point. Tell me where I'm wrong.*
+That is what we would pressure-test in conversation, not assume today.
 
 ---
 
