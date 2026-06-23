@@ -365,18 +365,16 @@ Does that work?"
 
 **Pause. Get yes.**
 
-**Then say (Cursor overview, NOT on slide · ~60 sec · `Cursor_Overview_First_Meeting.md`):**
+**Then say (Cursor overview, NOT on slide · ~45 sec · `Cursor_Overview_First_Meeting.md`):**
 "Let me give you a quick picture of what Cursor is and how I want you to think about it.
 
-Cursor is an AI-native development environment. It is where engineers write and ship code — built for AI from the ground up, not a plugin bolted onto another editor.
+Cursor is an AI-native code editor — where engineers write and ship code, with AI built into the product itself. It is its own application, not a plugin added on top of VS Code the way Copilot is. If your team uses VS Code today, it will feel familiar. The difference is AI is core to how the editor works, not something bolted on after the fact.
 
-Most orgs I talk to already have engineers using AI somewhere — Copilot, ChatGPT, a mix of tools. The gap is usually not whether AI works. It is whether the org can run on one standard: same workspace, full codebase context, and guardrails your team can actually govern.
+One workspace for the org: full codebase context, not just the file someone has open; flexible model choice; and write, review, and iteration in one place — not autocomplete on a single file.
 
-That is what Cursor is for. The whole repo is in context, not just the file someone has open. Model choice stays flexible. And you are covering write, review, and iteration in one place — not autocomplete on a single file.
+Hopefully that gives you a solid sense of what Cursor is. Happy to dig in on any piece — or I would love to hear how you are thinking about it on your side."
 
-Hopefully that gives you a solid sense of the category. Happy to go deeper on any piece — or I would love to hear how you are thinking about it on your side."
-
-**If he asks to go deeper:** Brex and OnePay — consistency across squads on a complex codebase.
+**If VS Code fork question:** Built on VS Code open source — familiar UX, but its own editor with AI at the core, not a Copilot-style plugin.
 
 **Pause. Then Block B level-set (Matt/Lev, why Mercury).**
 
