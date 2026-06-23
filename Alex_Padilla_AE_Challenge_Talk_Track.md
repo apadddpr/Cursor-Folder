@@ -365,7 +365,7 @@ Does that work?"
 
 **Pause. Get yes.**
 
-**Then say (Cursor overview, NOT on slide · ~45 sec · canonical · `Cursor_Overview_First_Meeting.md`):**
+**Then say (Cursor overview, NOT on slide · ~45 sec · Topic4_Master_Teleprompter.md Section 2):**
 "Let me give you a quick picture of what Cursor is and how I want you to think about it.
 
 Cursor is an AI-native development environment. The shift is that the AI does not just suggest code, it does the work with you.

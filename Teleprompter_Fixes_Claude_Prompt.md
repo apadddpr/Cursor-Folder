@@ -82,7 +82,7 @@ Confirm Matt Email 1 in YOU SAY matches on-slide copy (AI Enablement + Central, 
 
 ### SLIDE 24 · Cursor overview (spoken, not on slide)
 
-**Use verbatim from `Cursor_Overview_First_Meeting.md` (~45 sec):**
+**Use Topic4_Master_Teleprompter.md Section 2 (~45 sec):**
 
 > Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >

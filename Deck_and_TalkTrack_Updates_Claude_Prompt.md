@@ -104,7 +104,7 @@ Sync all Topic 2–3 talk track slides that say "Matt on DevEx" → **Matt on AI
 
 ## C · Slide 24 talk track · Cursor overview (between Block A and B)
 
-Keep Blocks A/B verbatim from slide. Cursor overview SAY (not on slide) — **verbatim from `Cursor_Overview_First_Meeting.md`:**
+Keep Blocks A/B verbatim from slide. Cursor overview SAY (not on slide) — **Topic4_Master_Teleprompter.md Section 2**.
 
 > Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >
