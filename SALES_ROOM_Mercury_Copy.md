@@ -96,22 +96,28 @@ Not a cold exec pitch. If Ashwin's team scopes a pilot with clear metrics, this 
 
 ## 4 · RELEVANT TO YOUR ROLE
 
-**Section title:** Skim what's relevant to you
+**Section title:** Based on your role — what's worth a skim
+
+**Intro:**
+
+Everyone gets the same room. Here's what I'd point you to, depending on where you sit — skip the rest.
+
+---
 
 **Matt · AI Enablement & DevEx**  
-Standards, Rules, and shared infrastructure — how DevEx sets guardrails once so every squad inherits them. Rippling scaled 150→500 eng with ~60% adoption in weeks when DevEx led standardization.
+Worth your time: **What we heard** (your themes reflected back), **About Cursor** (standards, Rules, shared infrastructure), and the Rippling story under **Fintech peers** if you want a DevEx-at-scale comp.
 
 **Lev · Head of Engineering, Banking**  
-Velocity and onboarding on a revenue-critical codebase — same theme as Matt, from a leadership altitude. Brex and OnePay are the fintech peer comps.
+Worth your time: **What we heard** (Banking angle), **About Cursor** (large codebase + platform), and **Brex / OnePay** if you want fintech peer context on standardization at scale.
 
 **Ashwin · VP of Engineering**  
-Org-wide productivity and standardization — especially with Central in flight. Your team is already surfacing the theme; Brex is the peer proof if we explore further.
+Worth your time: the full **What we heard** section, **Fintech peers** (Brex as peer proof), and **Resources & next steps** if you want to see how a pilot might be structured.
 
 **Branden · Head of Information Security**  
-Governance for tools that touch source code: Privacy Mode, SOC 2, no training on your code. We align InfoSec **before** eng commits — standard in fintech.
+Worth your time: **Security & compliance** first. The eng sections are context for what your team might be asked to govern — not a decision that's already been made.
 
 **Max · CTO & Co-founder**  
-Economic buyer when there's something to fund. Not the first conversation — Ashwin scopes a pilot first; you see metrics, security clearance, and peer outcomes before sign-off.
+Worth your time: **Fintech peers** and **Resources & next steps** when there's something concrete to evaluate. The rest is background on why your team is having the conversation — no ask implied on your calendar yet.
 
 ---
 
