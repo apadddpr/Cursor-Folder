@@ -18,7 +18,7 @@ Optional: 60–90 sec sales room tab (Matt/Lev themes only). Switch back. Begin 
 | # | Phase | Simulated | Role play |
 |---|-------|-----------|-----------|
 | 1 | Upfront contract | 0–2 min | ~1 min |
-| 2 | Cursor overview | 2–4 min | ~90 sec |
+| 2 | Cursor overview | ~45 sec |
 | 3 | Matt/Lev level-set | 4–6 min | ~2 min |
 | 4 | Discovery | 6–22 min | ~10–12 min |
 | 5 | Summarize A/B/C | 22–24 min | ~1 min |
@@ -42,11 +42,17 @@ Optional: 60–90 sec sales room tab (Matt/Lev themes only). Switch back. Begin 
 
 ---
 
-## 2 · Cursor overview (~90 sec · not on slide)
+## 2 · Cursor overview (~45 sec · not on slide · canonical)
 
-> "Quick context. Cursor is an AI-native development environment used by teams like Brex and OnePay in fintech. We help engineering orgs standardize AI-assisted development across complex codebases.
+> Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >
-> I reached out because Mercury has signals that looked familiar: Central integration, the AI Enablement hire, and a team that cares about codebase context. I would rather hear from you if that resonates."
+> Cursor is an AI-native development environment. The shift is that the AI does not just suggest code, it does the work with you.
+>
+> Two things make that possible. It builds a complete understanding of your codebase, at any scale, and you use the best model for each task, whether that is OpenAI, Anthropic, Gemini, or others. That means write, review, and iteration across the whole project, not autocomplete on a single file.
+>
+> Most teams already have engineers using AI in different places. Cursor puts that in one workspace, with guardrails the org can set once instead of every squad running its own experiments.
+>
+> Hopefully that gives you a solid sense of what Cursor is.
 
 ---
 
@@ -54,7 +60,7 @@ Optional: 60–90 sec sales room tab (Matt/Lev themes only). Switch back. Begin 
 
 > "Before I ask a bunch of questions, I want to level-set on what I have heard.
 >
-> I spoke with Matt on DevEx and Lev on Banking. A consistent theme: AI usage is active, but standardizing across squads is the harder problem, especially with Central integration. Matt framed it from DevEx. Lev from Banking velocity and onboarding.
+> I spoke with Matt on AI Enablement and Lev on Banking. A consistent theme: AI usage is active, but standardizing across squads is the harder problem, especially with Central integration. Matt framed it from AI Enablement. Lev from Banking velocity and onboarding.
 >
 > From your seat, does that match what you are seeing, or is it different?"
 

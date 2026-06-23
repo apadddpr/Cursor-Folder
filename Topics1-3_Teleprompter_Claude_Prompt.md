@@ -69,7 +69,7 @@ Guidelines per slide type:
 - **Cadence / swim lanes (20–21):** Walk the structure clearly. Name the pattern (email → LinkedIn → call → repeat → Loom). Do not memorize five separate email scripts.
 - **Sample copy (22):** Include Matt Email 1 **verbatim from slide** plus 2–3 sentences on "how this compounds." Say Alex will not read all five emails.
 - **Pre-call prep (23):** Four buckets (Account, Person, Org, Call). Stress **internal brief, not the sales room.** ~90 sec.
-- **Opening the call (24):** **Block A upfront contract and Block B level-set are VERBATIM** (must match slide). Include brief Cursor overview (~4 sentences) between blocks — this is spoken but not on slide. Mark pauses after "Does that work?"
+- **Opening the call (24):** **Block A upfront contract and Block B level-set are VERBATIM** (must match slide). **Cursor overview between blocks: verbatim from `Cursor_Overview_First_Meeting.md` (~45 sec, not on slide).** Mark pauses after "Does that work?" and after overview before Block B.
 - **Discovery flow (25, if present):** Walk the 10-step table in order. Competition at step 3. Close with sales room tab switch before Topic 4 role play. ~90 sec.
 
 For Tier 3, it is OK to use slightly more natural phrasing vs. robotic repetition. Goal: rehearsal safety net, not word-perfect outbound theater.

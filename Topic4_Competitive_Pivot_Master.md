@@ -28,7 +28,7 @@ Run this before opening any competitive doc.
 
 ### Open · 3–4 min
 1. Upfront contract (slide 24 Block A) → pause → yes
-2. Cursor overview (~90 sec)
+2. Cursor overview (~45 sec · `Cursor_Overview_First_Meeting.md` verbatim)
 3. Matt/Lev level-set (slide 24 Block B) → **pause**
 
 ### Core discovery · pick 2–3 each

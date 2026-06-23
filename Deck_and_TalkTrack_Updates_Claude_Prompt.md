@@ -104,11 +104,19 @@ Sync all Topic 2–3 talk track slides that say "Matt on DevEx" → **Matt on AI
 
 ## C · Slide 24 talk track · Cursor overview (between Block A and B)
 
-Keep Blocks A/B verbatim from slide. Cursor overview SAY (not on slide):
+Keep Blocks A/B verbatim from slide. Cursor overview SAY (not on slide) — **verbatim from `Cursor_Overview_First_Meeting.md`:**
 
-> "Quick context. Cursor is an AI-native development environment used by teams like Brex and OnePay in fintech. We help engineering orgs standardize AI-assisted development across complex codebases. I reached out because Mercury has signals that looked familiar: Central integration, the AI Enablement hire, and an org moving from siloed experiments to shared infrastructure. I would rather hear from you if it resonates."
+> Let me give you a quick picture of what Cursor is and how I want you to think about it.
+>
+> Cursor is an AI-native development environment. The shift is that the AI does not just suggest code, it does the work with you.
+>
+> Two things make that possible. It builds a complete understanding of your codebase, at any scale, and you use the best model for each task, whether that is OpenAI, Anthropic, Gemini, or others. That means write, review, and iteration across the whole project, not autocomplete on a single file.
+>
+> Most teams already have engineers using AI in different places. Cursor puts that in one workspace, with guardrails the org can set once instead of every squad running its own experiments.
+>
+> Hopefully that gives you a solid sense of what Cursor is.
 
-Remove "codebase context" / Ada-adjacent framing from overview.
+No Mercury signals, Brex, or competitive framing in overview. Mercury → level-set (Block B).
 
 ---
 

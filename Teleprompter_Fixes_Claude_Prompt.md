@@ -81,11 +81,20 @@ Confirm Matt Email 1 in YOU SAY matches on-slide copy (AI Enablement + Central, 
 ---
 
 ### SLIDE 24 · Cursor overview (spoken, not on slide)
-**Replace closing Mercury signals line:**
-- FROM: `a team that clearly cares about codebase context`
-- TO: `an org moving from siloed experiments to shared infrastructure`
 
-**Optional trim:** If the four-differentiator paragraph runs long (>45 sec), shorten to 2 sentences and note in a one-line stage direction: *"Expand to four differentiators only if Joe asks or time allows."*
+**Use verbatim from `Cursor_Overview_First_Meeting.md` (~45 sec):**
+
+> Let me give you a quick picture of what Cursor is and how I want you to think about it.
+>
+> Cursor is an AI-native development environment. The shift is that the AI does not just suggest code, it does the work with you.
+>
+> Two things make that possible. It builds a complete understanding of your codebase, at any scale, and you use the best model for each task, whether that is OpenAI, Anthropic, Gemini, or others. That means write, review, and iteration across the whole project, not autocomplete on a single file.
+>
+> Most teams already have engineers using AI in different places. Cursor puts that in one workspace, with guardrails the org can set once instead of every squad running its own experiments.
+>
+> Hopefully that gives you a solid sense of what Cursor is.
+
+No Mercury, Brex, four-differentiator lists, or competitive framing in overview.
 
 Keep Block A and Block B verbatim. Block B must keep **Matt on AI Enablement**.
 

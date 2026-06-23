@@ -2,7 +2,7 @@
 ## Joe as Ashwin · Simulated 45-min call · ~18–22 min in take-home
 ## Read left to right, top to bottom. Every quote = say out loud.
 
-**Discovery only:** This script is your live call flow. Do not add question clusters from pivot docs or the run sheet. For a 10–15 min window, hit the PRIORITY block in Section 4. "Working well vs want to improve" at level-set. Q5 quantifies cost. Demo bridge maps back to his improvement areas.
+**Discovery only:** This script is your live call flow. Section 2 = **`Cursor_Overview_First_Meeting.md` verbatim.** Do not add question clusters from pivot docs or the run sheet.
 
 ---
 

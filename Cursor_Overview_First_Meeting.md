@@ -1,4 +1,5 @@
 # Cursor Overview · First Meeting
+## CANONICAL · Use verbatim in Section 2 / Slide 24 across all scripts
 
 ## Full script (~45 sec)
 
