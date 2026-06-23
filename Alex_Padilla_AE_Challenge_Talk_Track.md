@@ -365,14 +365,12 @@ Does that work?"
 
 **Pause. Get yes.**
 
-**Then say (Cursor overview, NOT on slide · ~30 sec · `Cursor_Overview_First_Meeting.md`):**
-"Let me give you a quick picture of what Cursor is and how I want you to think about it.
+**Then say (Cursor overview, NOT on slide · ~20 sec):**
+"Cursor is where engineers write code — with AI built in.
 
-Cursor is an AI-native code editor. It is where engineers write and ship software — with AI built directly into how they work.
+The AI understands their whole codebase, so it can help with real work: building features, fixing bugs, reviewing changes, getting up to speed on unfamiliar parts of the code.
 
-It understands your full codebase, not just the file someone has open. One workspace to write, review, and iterate — with flexible model choice built in.
-
-Hopefully that gives you a solid sense of what Cursor is. Happy to dig in on any piece — or I would love to hear how you are thinking about it on your side."
+That is what Cursor does."
 
 **Pause. Then Block B level-set (Matt/Lev, why Mercury).**
 
