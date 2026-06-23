@@ -198,16 +198,6 @@ Listen for time, revenue, risk, or trust in his words. Do not fill in the number
 
 **JOT:** Cost of delay = _______________
 
-### OPTIONAL · only if his answer was vague
-
-### YOU SAY:
-
-> How do you track that today?
-
-### ⏸ PAUSE
-
-**JOT:** How tracked = _______________
-
 ---
 
 ### QUESTION 6 · DECISION CRITERIA (D)
