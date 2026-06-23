@@ -12,24 +12,21 @@ Pre-meeting · Shared with **Matt, Lev, Ashwin, Branden, and Max** · Paste into
 
 **Body:**
 
-Hi Matt, Lev, Ashwin, Branden, and Max,
+Hi Ashwin and team,
 
 I'm Alex Padilla, Account Executive at Cursor.
 
-I shared this room with everyone on this thread so you're working from the same context — not five separate email chains.
+This is a shared space for everyone on this thread — Matt, Lev, Ashwin, Branden, and Max — so you're looking at the same context, not separate email chains.
 
-This is **before** we've met as a group. It's a short, shared space to see why I reached out, skim themes from your org, and decide if a conversation is worth anyone's time.
+It's a quick way to see what I've learned so far from conversations in your org, skim what's relevant to your role, and decide if a deeper conversation is worth your time.
 
 **What's inside**
-- What we heard from Matt and Lev (and what we'd validate with Ashwin)
+- Themes from Matt (AI Enablement) and Lev (Banking)
 - A brief overview of Cursor
 - Fintech peer stories (Brex, OnePay)
-- Security and compliance (for Branden and eng leadership)
-- FAQs and a suggested path if we explore further
+- Security resources and FAQs
 
-**Skim what's relevant to your role** — you don't need to read every section.
-
-Reply here, @mention me, or book time when useful. No group meeting assumed.
+Share the link internally if helpful. Reply here, @mention me, or book time when you're ready.
 
 Alex Padilla  
 Account Executive · Cursor  
