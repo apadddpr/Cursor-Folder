@@ -1,654 +1,860 @@
-# Topics 1–3 · Presentation Teleprompter
-## Slides 1–25 · Joe · ~30 min · Edit this file
+# SCRIPT · Topics 1–3 · Presentation Teleprompter
 
-**Source deck:** Google Slides · **Topic 4 is separate:** `Topic4_Master_Teleprompter.md`
+**SOURCE OF TRUTH:** the deck. WHY NOW, WHY CURSOR, and PROOF beats mirror the on-slide bullets. If a slide changes, change the matching beat here too.
+
+Each bold label tells you what you are doing. The indented line under it is what you say. Matt Parsons sits in AI Enablement and Developer Experience.
 
 ---
 
 ## SLIDE 1 · Commercial Territory Plan
-**Topic:** 1 | **Depth:** TIER 1  
-**Target time:** 30 sec | **Running total:** 0:30
 
-**On screen:** Title slide · Topic 1 of 5 · Greenfield · ≤250 developers
+**Topic 1 · Tier 1 · Target 20 sec · Running 0:20**
 
-### YOU SAY:
+**On screen:** Title. Greenfield, 250 developers or fewer.
 
-> Joe, thanks for having me. Topic 1 is my commercial territory plan. These are the first five accounts I would open in greenfield commercial, all under 250 developers, none using Cursor today. Each one maps to a customer we have already won. I will walk the thesis, the five accounts, and why Mercury is my deep dive.
+### 🗣 OPEN
+
+Thanks for the time, Joe. This is my commercial territory plan.
+
+### 🗣 SETUP
+
+Greenfield, commercial segment, 250 developers or fewer, and I am assuming none of these use Cursor today.
+
+### 🗣 ROADMAP
+
+Topic 1 is the first five accounts I would open, and the thesis behind them. I will finish on why Mercury goes first.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None, advance.
 
 ### ▶ NEXT
 
-Advance to Slide 2.
+Slide 2. "Before the logos, here is the filter."
 
 ---
 
-## SLIDE 2 · Targeting Framework
-**Topic:** 1 | **Depth:** TIER 1  
-**Target time:** 45 sec | **Running total:** 1:15
+## SLIDE 2 · An ICP thesis, not a list of logos
 
-**On screen:** Four filters · Segment · Company type · Pain signals · Customer DNA
+**Topic 1 · Tier 1 · Target 50 sec · Running 1:10**
 
-### YOU SAY:
+**On screen:** Four filters.
 
-> Before the logos, here is the filter. Every account had to pass four gates. One, segment: your hard rule, 250 developers or fewer. Two, company type: B2B SaaS where software is the product. Three, pain signals: AI adoption exists but is inconsistent, and the codebase is complex enough that autocomplete-only tools break down. That is a hypothesis I validate in discovery, not something I assume. Four, selection method: Customer DNA. For each account I can point to an existing Cursor win in the same profile.
+### 🗣 FRAME
+
+Here is how I built the list, because I did not want to show you five random logos. Four filters.
+
+### 🗣 SEGMENT
+
+Your hard rule, 250 developers or fewer. Everything is inside that line.
+
+### 🗣 COMPANY TYPE
+
+B2B SaaS where the software is the product, so eng velocity is a business outcome.
+
+### 🗣 PAIN SIGNALS
+
+AI is already in use but inconsistent, and the codebase is complex enough that autocomplete-only tools break down. That part is a hypothesis I would validate.
+
+### 🗣 SELECTION
+
+Customer DNA. For each one I can point to a Cursor customer who already proved that use case.
+
+### 🗣 LAND IT
+
+So this is a pattern-match to wins we already have, not a guess.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+Brief.
 
 ### ▶ NEXT
 
-Advance to Slide 3.
+Slide 3. "Account one, and my deep dive, is Mercury."
 
 ---
 
-## SLIDE 3 · Mercury ★ Deep Dive
-**Topic:** 1 | **Depth:** TIER 1  
-**Target time:** 90 sec | **Running total:** 2:45
+## SLIDE 3 · Mercury (deep dive)
 
-**On screen:** Mercury · ~58 eng · Brex/OnePay DNA · Central · AI Enablement · Brex proof
+**Topic 1 · Tier 1 · Target 75 sec · Running 2:40**
 
-### YOU SAY:
+**On screen:** WHY NOW: Central, AI Enablement siloed · WHY CURSOR: standardize across codebase as Central merges, Privacy Mode + SOC 2 · PROOF: Brex.
 
-> Account one and my deep dive: Mercury. Roughly 58 software engineers, fintech SaaS, squarely commercial. Customer DNA is Brex and OnePay.
->
-> Why now, two public signals. They acquired Central in April and are integrating over the coming months. They are hiring for AI Enablement, and the job post describes frontier users pushing boundaries in silos. The role is about shared infrastructure.
->
-> Why Cursor: they are at an inflection point. Central adds codebase complexity, and the AI Enablement mandate is about shared standards across squads, not more siloed experiments. That is the same problem shape Brex and OnePay solved with Cursor: org-wide standardization, cross-repo and migration work, fintech-ready with Privacy Mode and SOC 2. I do not assume what they use today. I validate their stack in discovery.
->
-> Proof: Brex, 70% plus of engineers on Cursor, faster migrations and debugging per James Reggio, their CTO.
+### 🗣 WHO
+
+Mercury's my top account. Fintech SaaS, around 58 engineers, right in the commercial range. DNA is Brex and OnePay, two fintechs Cursor already won.
+
+### 🗣 WHY NOW
+
+They acquired Central in April and the integration is underway, so the codebase is getting more complex. And they are hiring for AI Enablement because their AI experiments are siloed internally.
+
+### 🗣 WHY CURSOR
+
+Where Cursor fits is standardizing across a growing, complex codebase as Central merges in, and Privacy Mode plus SOC 2 cover the fintech security bar. I would validate what they actually run today, live.
+
+### 🗣 PROOF
+
+Brex got more than 70 percent of its engineers on Cursor, with faster migrations and debugging.
 
 ### ⏸ PAUSE
 
-**If Joe asks about Ada:** Ada tells me they care about codebase context. I would not lead with it on a first call. I let them tell me what is deployed and bridge from there.
+Brief. Slow down here.
 
 ### ▶ NEXT
 
-Advance to Slide 4.
+Slide 4. "Same scaling story, different vertical: Ashby."
 
 ---
 
 ## SLIDE 4 · Ashby
-**Topic:** 1 | **Depth:** TIER 1  
-**Target time:** 45 sec | **Running total:** 3:30
 
-**On screen:** Ashby · ~60→120 eng · Rippling/monday DNA
+**Topic 1 · Tier 1 · Target 40 sec · Running 3:25**
 
-### YOU SAY:
+**On screen:** WHY NOW: double eng 2026, >100% growth + Talent Llama · WHY CURSOR: onboarding at scale, one AI standard · PROOF: Rippling.
 
-> Ashby, recruiting SaaS, roughly 60 engineers heading toward 120 by end of year. DNA is Rippling and monday.com. Why now: public plan to double the eng team, plus Talent Llama for AI interviewing. Why Cursor: one AI standard before habits fragment at scale. Proof: Rippling, 150 to 500 engineers, 60% adoption in weeks.
+### 🗣 WHO
+
+Ashby, recruiting SaaS. I would lead with their own story: they have talked about doubling the eng team again in 2026, after going from about 30 to 60.
+
+### 🗣 WHY NOW
+
+That doubling is the moment to set one AI standard, before every new squad picks its own. They are leaning into AI too, over 100 percent revenue growth and they just bought Talent Llama.
+
+### 🗣 WHY CURSOR
+
+DNA is Rippling and monday. Cursor fits the scaling story, structured onboarding so new hires ramp on the real codebase, and one standard as the team grows.
+
+### 🗣 PROOF
+
+Rippling went 150 to over 500 engineers, about 60 percent adoption in weeks.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 5.
+Slide 5. "Next, a company rebuilding around AI: Retool."
 
 ---
 
 ## SLIDE 5 · Retool
-**Topic:** 1 | **Depth:** TIER 1  
-**Target time:** 40 sec | **Running total:** 4:10
 
-**On screen:** Retool · ~128 technical · Faire/Amplitude DNA · AI agents
+**Topic 1 · Tier 1 · Target 40 sec · Running 4:10**
 
-### YOU SAY:
+**On screen:** WHY NOW: AI agents in product, platform roadmap hiring · WHY CURSOR: task completion across repos, cloud agents for migrations · PROOF: Faire.
 
-> Retool, internal tools platform, about 128 in technical roles. DNA is Faire and Amplitude. Why now: shipping AI agents in the core product and hiring against a major platform roadmap. Why Cursor: task completion across repos and cloud agents for large migrations. Proof: Faire doubled PR throughput and ran an 18-month migration with one engineer plus agents.
+### 🗣 WHO
+
+Retool, internal tools and dev platform, so engineering basically is the product. DNA is Faire and Amplitude.
+
+### 🗣 WHY NOW
+
+They are shipping AI agents in the product and hiring for a big platform roadmap. A team building AI into its product cares how its own engineers build with AI.
+
+### 🗣 WHY CURSOR
+
+Cursor fits task completion across repos, and cloud agents for large migrations.
+
+### 🗣 PROOF
+
+Faire built their own agent system, then swapped it for Cursor and doubled PR throughput. One engineer ran an 18-month migration on a fleet of agents.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 6.
+Slide 6. "PostHog, where codebase breadth and model choice bite."
 
 ---
 
 ## SLIDE 6 · PostHog
-**Topic:** 1 | **Depth:** TIER 1  
-**Target time:** 40 sec | **Running total:** 4:50
 
-**On screen:** PostHog · ~124 eng · Sentry/Decagon DNA · 15+ teams
+**Topic 1 · Tier 1 · Target 40 sec · Running 4:55**
 
-### YOU SAY:
+**On screen:** WHY NOW: 15+ small teams, ~60% engineers · WHY CURSOR: large-codebase performance, model neutrality · PROOF: Sentry.
 
-> PostHog, product-led devtools, about 124 engineers across 15 plus small autonomous teams. DNA is Sentry and Decagon. Why Cursor: large-codebase performance and model neutrality for opinionated engineers. Proof: Sentry calls Cursor a scale-multiplier for the whole org.
+### 🗣 WHO
+
+PostHog, product-led devtools, so engineers are the buyers and the users, adoption is bottom-up. DNA is Sentry and Decagon.
+
+### 🗣 WHY NOW
+
+15-plus small teams across a lot of products means cross-repo complexity, and about 60 percent of the company are engineers. Big, opinionated technical audience.
+
+### 🗣 WHY CURSOR
+
+Cursor fits large-codebase performance, and model neutrality for power users.
+
+### 🗣 PROOF
+
+Sentry called Cursor a scale-multiplier for the whole org. You land with the power users and expand.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 7.
+Slide 7. "Last one, where review is the bottleneck: Supabase."
 
 ---
 
 ## SLIDE 7 · Supabase
-**Topic:** 1 | **Depth:** TIER 1  
-**Target time:** 45 sec | **Running total:** 5:35
 
-**On screen:** Supabase · Series F · PlanetScale DNA · Agent Skills
+**Topic 1 · Tier 1 · Target 45 sec · Running 5:40**
 
-### YOU SAY:
+**On screen:** WHY NOW: DB launches +600%, Claude Code drives most, Agent Skills · WHY CURSOR: Bugbot review at scale, codebase context for infra/OSS monorepo · PROOF: PlanetScale.
 
-> Supabase, database dev platform, Series F, about 350 employees. I would validate developer count against the 250 rule in discovery. DNA is PlanetScale. Why now: DB launches up 600% year over year, CEO citing AI coding tools as the largest source of new databases, and they shipped Agent Skills because agents were using Supabase incorrectly. Why Cursor: Bugbot for review at scale and codebase context for their monorepo. Proof: PlanetScale, 80% Bugbot resolution, CEO said it would be a mutiny to take it away.
+### 🗣 WHO
+
+Supabase, database and dev platform, where reliability is the product. DNA is PlanetScale.
+
+### 🗣 WHY NOW
+
+AI agents are building most of their new databases, and their CEO points to Claude Code as the biggest single source. Launches are up around 600 percent, and they shipped Agent Skills because agents were using Supabase wrong. AI code quality is already a live problem.
+
+### 🗣 WHY CURSOR
+
+Cursor fits Bugbot, review at scale as agent output grows, plus codebase context for their infra and open-source monorepo.
+
+### 🗣 PROOF
+
+PlanetScale resolves 80 percent of Bugbot's comments, and their CEO said taking it away would cause a mutiny.
+
+### 🗣 CAVEAT
+
+They are closest to the 250-developer line, so I would confirm dev count before committing.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 8.
+Slide 8. "So how do the five stack up? The scorecard."
 
 ---
 
-## SLIDE 8 · Account Scoring
-**Topic:** 1 | **Depth:** TIER 1  
-**Target time:** 60 sec | **Running total:** 6:35
+## SLIDE 8 · Why Mercury goes first
 
-**On screen:** Scoring table · Mercury 24/25
+**Topic 1 · Tier 1 · Target 40 sec · Running 6:20**
 
-### YOU SAY:
+**On screen:** Scoring matrix. Mercury 24 out of 25.
 
-> Here is how they stack up. Five criteria, my judgment: segment fit, use-case strength, AI pain signals, access and PG path, and Customer DNA match. Mercury tops the list at 24 out of 25. Three concrete public signals plus the cleanest Brex proof. That is why it is my deep dive. If access and PG path matters most to you, PostHog rises, but Mercury still leads on signals and DNA.
->
-> Topic 2, I will show the five people inside Mercury and how I earn the VP meeting.
+### 🗣 THE MODEL
+
+This is my prioritization model, scored one to five on segment fit, use-case strength, AI pain signals, access and PG path, and customer DNA.
+
+### 🗣 RESULT
+
+All five clear the bar. Mercury clears it highest at 24 out of 25.
+
+### 🗣 HONEST CAVEAT
+
+The scores are my judgment, not data, so I am happy to reweight live. Weight access and PG path highest and PostHog rises.
+
+### 🗣 WHY MERCURY
+
+Mercury still leads on DNA and on three public signals: the Central acquisition, the AI Enablement hire, and the codebase-merge inflection as they integrate Central. That is my deep dive.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+Invite a reaction. Checkpoint before Topic 2.
 
 ### ▶ NEXT
 
-Advance to Topic 2 · Slide 9.
+Slide 9. "Now the five people inside Mercury."
 
 ---
 
 ## SLIDE 9 · Five People at Mercury
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 30 sec | **Running total:** 7:05
 
-**On screen:** Topic 2 divider · Primary target Ashwin
+**Topic 2 · Tier 2 · Target 30 sec · Running 6:50**
 
-### YOU SAY:
+**On screen:** Topic 2 overview. Primary target, Ashwin Baskaran.
 
-> Topic 2: five people at Mercury, in the order I would work them. The whole sequence is built to earn a meeting with Ashwin Baskaran, VP of Engineering. I am not cold-emailing the VP first.
+### 🗣 WHAT THIS IS
+
+Topic 2 is the five people I would target inside Mercury, in the order I would reach them.
+
+### 🗣 THE GOAL
+
+The whole sequence earns one meeting, with the VP of Engineering, Ashwin Baskaran. I am not cold-emailing the VP first. I earn it from inside his org.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 10.
+Slide 10. "Quick recap, then the people."
 
 ---
 
-## SLIDE 10 · Recap
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 45 sec | **Running total:** 7:50
+## SLIDE 10 · Why Mercury, and who is inside
 
-**On screen:** Mercury recap · THE PLAY · Ashwin primary target
+**Topic 2 · Tier 2 · Target 40 sec · Running 7:30**
 
-### YOU SAY:
+**On screen:** Recap and the play. Signals: Central, AI Enablement.
 
-> Quick recap from Topic 1. Mercury, fintech, roughly 58 engineers, DNA Brex and OnePay. Signals: Central integration and the AI Enablement hire. The play: earn the VP meeting, validate themes inside his org first, then approach Ashwin with aligned signal and Brex proof.
+### 🗣 RECAP
+
+Mercury, fintech SaaS, about 58 engineers, DNA Brex and OnePay, timely because of Central integration and the AI Enablement hire.
+
+### 🗣 THE PLAY
+
+I do not cold-open the VP, I earn it. Validate the themes inside his org first, then go to Ashwin with the Brex proof.
+
+### 🗣 FRAME FOR HIM
+
+Five moves, days not weeks. I will walk the people first, then show the sequence at the end.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 11.
+Slide 11. "First touch: Matt."
 
 ---
 
-## SLIDE 11 · Matt Parsons · 1st Touch
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 40 sec | **Running total:** 8:30
+## SLIDE 11 · Matt Parsons (1st touch)
 
-**On screen:** Matt · Staff SWE AI Enablement & DevEx · PG angle · champion seed
+**Topic 2 · Tier 2 · Target 40 sec · Running 8:10**
 
-### YOU SAY:
+**On screen:** Matt Parsons, Staff SWE, AI Enablement and DevEx.
 
-> First touch: Matt Parsons, Staff Engineer in AI Enablement and Developer Experience, inside Ashwin's org. He sits on Mercury's shared-infrastructure mandate, not just tooling friction. I am not pitching. I am validating a theme: shared AI standards across squads vs team-by-team experiments as Central integrates. He is my champion seed.
+### 🗣 WHO
+
+First touch is Matt Parsons, a Staff Engineer in AI Enablement and Developer Experience, inside Ashwin's org.
+
+### 🗣 WHY HIM
+
+AI Enablement is Mercury's shared-infrastructure mandate, turning squad-by-squad experiments into one standard, so he feels this first and he is reachable.
+
+### 🗣 THE MOVE
+
+I am not pitching. I am validating one theme, how engineering standardizes AI across squads as Central integrates. That gives me a credible signal to carry upward.
+
+### 🗣 ROLE
+
+Technical influencer and champion seed.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 12.
+Slide 12. "His signal ladders up to Lev."
 
 ---
 
-## SLIDE 12 · Lev Dubinets · 2nd Touch
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 35 sec | **Running total:** 9:05
+## SLIDE 12 · Lev Dubinets (2nd touch)
 
-**On screen:** Lev · Head of Eng Banking · ~50+ eng · amplifier
+**Topic 2 · Tier 2 · Target 40 sec · Running 8:50**
 
-### YOU SAY:
+**On screen:** Lev Dubinets, Head of Engineering, Banking.
 
-> Second: Lev Dubinets, Head of Engineering for Banking, 50 plus engineers. Revenue-critical area, cares about velocity. He bridges IC signal up to the VP. Same theme, higher altitude.
+### 🗣 WHO
+
+Second touch is Lev Dubinets, Head of Engineering for Banking, 50-plus engineers, also under Ashwin.
+
+### 🗣 WHY HIM
+
+He owns a revenue-critical area, so he cares about velocity and consistency at scale. And he is the bridge, he turns IC-level signal into a leadership conversation.
+
+### 🗣 ROLE
+
+Influencer and internal amplifier.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 13.
+Slide 13. "Both ladder to my primary target."
 
 ---
 
-## SLIDE 13 · Ashwin Baskaran · Primary
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 45 sec | **Running total:** 9:50
+## SLIDE 13 · Ashwin Baskaran (primary)
 
-**On screen:** Ashwin ★ · VP Eng · Brex proof angle · pilot sponsor
+**Topic 2 · Tier 2 · Target 45 sec · Running 9:35**
 
-### YOU SAY:
+**On screen:** Ashwin Baskaran, VP of Engineering. Primary target.
 
-> Primary target: Ashwin, VP of Engineering, reports to Max Tagher. He owns productivity and standardization and can sponsor a pilot. I do not cold-open him. By the time I reach him, Matt and Lev have surfaced consistent themes and I bring Brex as peer proof. Frame: your team is hearing the same thing, here is a fintech that solved it.
+### 🗣 WHO
+
+Ashwin Baskaran, my primary target. VP of Engineering, reports to Max, the CTO. He owns eng productivity and standardization, and he can sponsor a pilot.
+
+### 🗣 THE MOVE
+
+I do not cold-open him. By the time I reach him, Matt and Lev have surfaced the same theme, so the frame is simple: your team is hearing this, and here is a fintech peer who solved it, Brex.
+
+### 🗣 ROLE
+
+Champion and pilot sponsor. That warm, aligned entry is the whole reason a VP takes the meeting.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 14.
+Slide 14. "One thread runs in parallel: security."
 
 ---
 
-## SLIDE 14 · Branden Wagner · Parallel
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 35 sec | **Running total:** 10:25
+## SLIDE 14 · Branden Wagner (parallel)
 
-**On screen:** Branden · Head of InfoSec · parallel · not under Ashwin
+**Topic 2 · Tier 2 · Target 40 sec · Running 10:15**
 
-### YOU SAY:
+**On screen:** Branden Wagner, Head of Information Security.
 
-> Parallel thread from day one: Branden Wagner, Head of Information Security. Not in Ashwin's chain. In fintech, security is the long pole. Theme: how do you govern AI tools that touch source code. De-risk before it becomes a blocker.
+### 🗣 WHO
+
+Branden Wagner, Head of Information Security. He is not under Ashwin, he is in the compliance and InfoSec chain.
+
+### 🗣 WHY NOW
+
+For a fintech, security review is the long pole that stalls deals, so I run this in parallel from day one. The theme is governing AI tools that touch source code: Privacy Mode, SOC 2, retention.
+
+### 🗣 ROLE
+
+Influencer. The goal is to clear a potential blocker early by making him an ally.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 15.
+Slide 15. "Last, the economic buyer."
 
 ---
 
-## SLIDE 15 · Max Tagher · Economic Buyer
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 40 sec | **Running total:** 11:05
+## SLIDE 15 · Max Tagher (economic buyer)
 
-**On screen:** Max · CTO · economic buyer
+**Topic 2 · Tier 2 · Target 40 sec · Running 10:55**
 
-### YOU SAY:
+**On screen:** Max Tagher, CTO and co-founder.
 
-> Max Tagher, CTO and co-founder, economic buyer. I do not lead with a cold exec pitch. Ashwin scopes the pilot first. But Max gets a light executive awareness track in Topic 3 so his name is not cold when this reaches his desk.
+### 🗣 WHO
+
+Max Tagher, CTO and co-founder. He runs engineering and holds the budget and the board narrative, so he is the economic buyer.
+
+### 🗣 THE MOVE
+
+I approach him after Ashwin, with a scoped pilot and early results. Going to Max first is a cold top-down pitch. Going after Ashwin makes it your VP and team already validated this.
+
+### 🗣 ROLE
+
+Economic buyer, after pilot scope.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 16.
+Slide 16. "Here is the whole committee."
 
 ---
 
-## SLIDE 16 · Buying Committee Map
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 45 sec | **Running total:** 11:50
+## SLIDE 16 · The committee, and my order
 
-**On screen:** Org map · 1 → 2 → 3 · P parallel · EB
+**Topic 2 · Tier 2 · Target 45 sec · Running 11:40**
 
-### YOU SAY:
+**On screen:** Org map, order 1, 2, 3, P, EB.
 
-> Walk the map slowly. Enter at Matt on AI Enablement, then Lev, build signal, then Ashwin as primary sponsor. Branden runs parallel. Max is EB with light exec awareness, not zero touches. Matt is technical influencer, Lev amplifier, Ashwin champion, Branden security gate, Max sign-off.
+### 🗣 THE MAP
+
+I enter at the eng-org layer, Matt, who sits in AI Enablement, then Lev, build a consistent signal, then go to Ashwin, who can sponsor a pilot. Branden runs in parallel. Max is the buyer after a pilot is scoped.
+
+### 🗣 THE ROLES
+
+Matt influencer, Lev amplifier, Ashwin champion and sponsor, Branden the security gate, Max the buyer. Sequenced, not scattered. That is how I book the right meeting once.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 17.
+Slide 17. "So concretely, the steps."
 
 ---
 
-## SLIDE 17 · Path to the Meeting
-**Topic:** 2 | **Depth:** TIER 2  
-**Target time:** 45 sec | **Running total:** 12:35
+## SLIDE 17 · How the Ashwin meeting gets booked
 
-**On screen:** Five sequenced moves · days not weeks
+**Topic 2 · Tier 2 · Target 45 sec · Running 12:25**
 
-### YOU SAY:
+**On screen:** Five sequenced moves.
 
-> Five moves to book Ashwin. One, touch Matt and Lev to validate themes. Two, build consistent signal. Three, approach Ashwin with aligned room and Brex proof. Four, Branden in parallel from day one. Five, Max on a light exec track, not a cold open and not invisible until signature.
->
-> Topic 3: how I execute outbound, prep for the meeting, and run discovery.
+### 🗣 THE STEPS
+
+Five moves, days not weeks. One, touch Matt and Lev to validate the themes. Two, build a consistent signal across the org. Three, approach Ashwin with an aligned room and the Brex proof. Four, run Branden for security in parallel. Five, after a pilot is scoped, bring in Max.
+
+### 🗣 BRIDGE
+
+Topic 3 is how I execute outbound, prep, and open the call. Topic 4 is the live role play.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Topic 3 · Slide 18.
+Slide 18. "Topic 3: outreach and discovery."
 
 ---
 
 ## SLIDE 18 · From Committee to Conversation
-**Topic:** 3 | **Depth:** TIER 3  
-**Target time:** 30 sec | **Running total:** 13:05
 
-**On screen:** Topic 3 divider
+**Topic 3 · Tier 3 · Target 30 sec · Running 12:55**
 
-### YOU SAY:
+**On screen:** Topic 3 divider.
 
-> Topic 3 is execution. How I go wide to earn the meeting, how I prep once it is booked, how I open the call, and how I run discovery. Topic 4 is the live role play with you as Ashwin.
+### 🗣 SET IT UP
 
-### ⏸ PAUSE
+Topic 3 is where the plan becomes execution. I do not expect one email to book Ashwin. Each contact gets a multi-touch cadence over about two weeks, run in parallel.
 
-None — advance immediately.
+### 🗣 PREVIEW
 
-### ▶ NEXT
-
-Advance to Slide 19.
-
----
-
-## SLIDE 19 · Go Wide Before You Go Up
-**Topic:** 3 | **Depth:** TIER 3  
-**Target time:** 60 sec | **Running total:** 14:05
-
-**On screen:** Four pillars · multi-thread · channels · lower levels · goal
-
-### YOU SAY:
-
-> I do not lead with the VP. I go wide inside the account. Every persona gets their own cadence, sequenced by role. Channels: email, LinkedIn, cold call, and short Loom videos. Different angle each touch.
->
-> I start at the IC layer to validate themes and create internal dialogue. By the time Ashwin gets my note, his org is already talking about the same problem. The meeting is warm, not cold.
+I will show the philosophy, the cadence, the timing, one sample email, how I open the call, and my discovery map.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 20.
+Slide 19. "Go wide before you go up."
 
 ---
 
-## SLIDE 20 · Cadence Blueprint
-**Topic:** 3 | **Depth:** TIER 3  
-**Target time:** 90 sec | **Running total:** 15:35
+## SLIDE 19 · Go wide before you go up
 
-**On screen:** 7-touch table · Email first · Loom last
+**Topic 3 · Tier 3 · Target 45 sec · Running 13:40**
 
-### YOU SAY:
+**On screen:** Four pillars.
 
-> Same engine for every persona, different theme per person. Email sets context first, fifty to seventy-five words, their moment plus a peer reference plus one ask. Day three, LinkedIn connect with a one-line mirror. Day five, first call, reference prior touches, one question, no pitch.
->
-> Day seven, second email, new angle. Day nine, second call, voicemail is fine. Day eleven, close-the-loop email. Day twelve, a 60-second personalized Loom if nothing has landed. Email, LinkedIn, call, repeat. Loom closes.
+### 🗣 PRINCIPLE
+
+Go wide before you go up. I multi-thread the account at the IC layer first, so the VP meeting is already warm.
+
+### 🗣 HOW
+
+Every persona on their own cadence. A mix of channels, email, LinkedIn, calls, short Looms, a different angle each touch. Lower levels first to create internal dialogue.
+
+### 🗣 THE GOAL
+
+Ashwin takes the meeting because his own org is already talking about it. Sequenced and themed, not spray-and-pray.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None. Room to riff.
 
 ### ▶ NEXT
 
-Advance to Slide 21.
+Slide 20. "The cadence engine."
 
 ---
 
-## SLIDE 21 · Five Tracks, One Goal
-**Topic:** 3 | **Depth:** TIER 3  
-**Target time:** 90 sec | **Running total:** 17:05
+## SLIDE 20 · Same engine, themed per persona
 
-**On screen:** Swim lanes · Matt/Lev/Branden/Ashwin/Max
+**Topic 3 · Tier 3 · Target 50 sec · Running 14:30**
 
-### YOU SAY:
+**On screen:** 7-touch cadence table.
 
-> Four full cadences plus one exec track. Matt, Lev, and Branden: full seven-touch from day one. Matt validates AI Enablement themes, Lev amplifies upward, Branden runs security intel in parallel.
->
-> Ashwin: full seven-touch starting day five to seven, warmed by signal from his org.
->
-> Max: executive cadence, three touches, day seven to ten. LinkedIn engage, short note after Ashwin's meeting is booked, brief sync before pilot needs sign-off. Not a cold blitz, not invisible until signature.
+### 🗣 THE PATTERN
+
+Same engine, different theme per person. Email sets context, LinkedIn builds familiarity, calls create conversation, a Loom closes if the earlier touches have not landed.
+
+### 🗣 THE RHYTHM
+
+Roughly, day one email, day three LinkedIn, day five call, day seven a new-angle email, day nine call, day eleven close the loop, day twelve a Loom.
+
+### 🗣 HOLD BACK
+
+The exact openers and angles are in my notes. I will not read all of them here.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 22.
+Slide 21. "Who starts when?"
 
 ---
 
-## SLIDE 22 · Building Internal Dialogue · Sample Copy
-**Topic:** 3 | **Depth:** TIER 3  
-**Target time:** 90 sec | **Running total:** 18:35
+## SLIDE 21 · Five tracks, one goal
 
-**On screen:** Matt Email 1 · How this compounds
+**Topic 3 · Tier 3 · Target 45 sec · Running 15:15**
 
-### YOU SAY:
+**On screen:** Swim lane, five tracks.
 
-> I will not read five emails on slides. Matt is the foundation. Read or paraphrase the email on screen:
->
-> Subject, AI Enablement plus Central. Hi Matt. As Mercury integrates Central, how is AI Enablement thinking about shared standards across squads vs team-by-team experiments? Brex hit a similar moment in fintech before aligning the org on one workspace. Worth 15 minutes to compare notes?
->
-> How this compounds: Matt validates the theme in AI Enablement language. Lev amplifies from Banking. Internal dialogue builds. Ashwin hears a consistent signal before I ever get on with him.
->
-> Good outbound at the IC layer creates the meeting at the VP layer. Ashwin's email references what his org flagged plus Brex as fintech proof. Full copy for all personas is in my talk track appendix. Matt's second email, day seven, uses the Rippling DevEx scale story so I am not repeating Brex back to back. Happy to read Ashwin's if you want it.
+### 🗣 THE TIMING
+
+Five tracks, one goal. Matt, Lev, and Branden start day one. Branden in parallel because security is the long pole. Ashwin's full cadence starts day five to seven, once his org is warm.
+
+### 🗣 THE MAX NUANCE
+
+Max is not in a cold blitz, but not invisible either. A light exec track, three touches, so when this reaches his desk my name is not new. I am not going over Ashwin's head, just keeping the buyer aware.
 
 ### ⏸ PAUSE
 
-**If Joe asks for Ashwin's email:** See appendix below. Happy to read it.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 23.
+Slide 22. "What good copy looks like."
 
 ---
 
-## SLIDE 23 · Pre-Call Preparation
-**Topic:** 3 | **Depth:** TIER 3  
-**Target time:** 90 sec | **Running total:** 20:05
+## SLIDE 22 · Building internal dialogue, sample copy
 
-**On screen:** Four buckets · Account · Person · Org · Call · "Internal brief, not the sales room"
+**Topic 3 · Tier 3 · Target 60 sec · Running 16:15**
 
-### YOU SAY:
+**On screen:** Matt Email 1, plus how this compounds.
 
-> This answers: show us your preparation for the meeting. All of this stays in my internal brief, not the sales room.
->
-> Account: latest news and triggers. Central integration, AI Enablement hire. Customer DNA proof ready, Brex and OnePay. I label sourced facts vs hypotheses. I do not assume their AI stack.
->
-> Person: Ashwin specifically. LinkedIn activity, his VP Eng interview where he asks candidates to define the product. That gives me rapport hooks and POC-specific questions.
->
-> Org: committee mapped, Matt on AI Enablement and Lev on Banking themes captured for level-set, Branden security angle prepped, Max exec track running.
->
-> Call: upfront contract scripted, MEDDPICC as questions not answers, competition early, pilot next step ready.
->
-> Research shapes the call. Discovery validates it. The sales room is separate. That is what I use with Ashwin: aligned signal from Matt and Lev, not my homework.
+### 🗣 SET UP
+
+I will not read five emails. Matt is the foundation, so here is his first one.
+
+### 🗣 THE EMAIL (read it)
+
+Subject, AI Enablement plus Central. Hi Matt. As Mercury integrates Central, how is AI Enablement thinking about shared standards across squads vs team-by-team experiments? Brex hit a similar moment in fintech before aligning the org on one workspace. Worth 15 minutes to compare notes?
+
+### 🗣 HOW IT COMPOUNDS
+
+Matt validates the theme, Lev amplifies it from the Banking lens, and Ashwin hears a consistent signal before my email ever lands. Good outbound at the IC layer creates the meeting at the VP layer. Full copy is in my appendix, happy to read Ashwin's if you want it.
 
 ### ⏸ PAUSE
 
-None — advance immediately.
+None.
 
 ### ▶ NEXT
 
-Advance to Slide 24.
+Slide 23. "Before the call, my prep."
 
 ---
 
-## SLIDE 24 · Opening the Ashwin Call
-**Topic:** 3 | **Depth:** TIER 3  
-**Target time:** 2 min | **Running total:** 22:05
+## SLIDE 23 · Pre-call preparation
 
-**On screen:** Block A upfront contract · Block B Matt/Lev level-set
+**Topic 3 · Tier 3 · Target 90 sec · Running 17:45**
 
-### YOU SAY · Block A (read from slide):
+**On screen:** Four buckets. Internal brief, not the sales room.
 
-> Ashwin, thanks for making the time. I know calendars are tight.
->
-> Here is what I was thinking for our 30 minutes. I will set a quick agenda, give you a high-level view of Cursor and why Mercury was worth a conversation, and share what I picked up from a few conversations in your org so you can tell me if I am on or off. Then I would love to spend most of the time on your priorities: eng productivity and AI, especially with Central integration. By the end, you will know if this is worth exploring further, and we will agree on a clear next step either way.
->
-> Does that work?
+### 🗣 FRAME
+
+Before the call I run four prep buckets, and this is my internal brief, not the sales room.
+
+### 🗣 ACCOUNT
+
+News and triggers, Central and the AI Enablement hire, facts separated from hypotheses. Brex and OnePay proof ready.
+
+### 🗣 PERSON
+
+What Ashwin has said publicly, his LinkedIn, his interview where he asks candidates to define the product. Rapport hooks and sharper questions.
+
+### 🗣 ORG
+
+The committee mapped, the themes from Matt on AI Enablement and Lev on Banking ready to validate, Branden's security angle prepped, Max on light awareness.
+
+### 🗣 CALL
+
+Upfront contract, MEDDPICC as questions not answers, competition early, a clear next step.
+
+### 🗣 THE DISTINCTION
+
+This prep is my homework. The sales room is the customer-facing piece I use with Ashwin. Research shapes the call, discovery validates it.
+
+### ⏸ PAUSE
+
+None.
+
+### ▶ NEXT
+
+Slide 24. "How I open the call."
+
+---
+
+## SLIDE 24 · Opening the Ashwin call
+
+**Topic 3 · Tier 3 · Target 2 min · Running 19:45**
+
+**On screen:** Block A contract, Block B level-set.
+
+### 🗣 BLOCK A · CONTRACT (read from slide)
+
+Ashwin, thanks for making the time. I know calendars are tight.
+
+Here is what I was thinking for our 30 minutes. I will set a quick agenda, give you a high-level view of Cursor and why Mercury was worth a conversation, and share what I picked up from a few conversations in your org so you can tell me if I am on or off. Then I would love to spend most of the time on your priorities: eng productivity and AI, especially with Central integration. By the end, you will know if this is worth exploring further, and we will agree on a clear next step either way.
+
+Does that work?
 
 ### ⏸ PAUSE
 
 Get the yes.
 
-### YOU SAY · Cursor overview (~45 sec, NOT on slide):
+### 🗣 CURSOR OVERVIEW (not on slide)
 
-> Let me give you a quick picture of what Cursor is and how I want you to think about it.
->
-> Cursor is an AI-native development environment. The shift is that the AI does not just suggest code, it does the work with you.
->
-> Two things make that possible. It builds a complete understanding of your codebase, at any scale, and you use the best model for each task, whether that is OpenAI, Anthropic, Gemini, or others. That means write, review, and iteration across the whole project, not autocomplete on a single file.
->
-> Most teams already have engineers using AI in different places. Cursor puts that in one workspace, with guardrails the org can set once instead of every squad running its own experiments.
->
-> Hopefully that gives you a solid sense of what Cursor is.
+Let me give you a quick picture of what Cursor is and how I want you to think about it.
+
+Cursor is an AI-native development environment. The shift is that the AI does not just suggest code, it does the work with you.
+
+Two things make that possible. It builds a complete understanding of your codebase, at any scale, and you use the best model for each task, whether that is OpenAI, Anthropic, Gemini, or others. That means write, review, and iteration across the whole project, not autocomplete on a single file.
+
+Most teams already have engineers using AI in different places. Cursor puts that in one workspace, with guardrails the org can set once instead of every squad running its own experiments.
+
+Hopefully that gives you a solid sense of what Cursor is.
 
 ### ⏸ PAUSE
 
 Hand it back briefly.
 
-### YOU SAY · Block B (read from slide):
+### 🗣 BLOCK B · LEVEL-SET (read from slide)
 
-> Before I ask a bunch of questions, I want to level-set on what I have heard.
->
-> I spoke with Matt on AI Enablement and Lev on Banking. A consistent theme: AI usage is active, but standardizing across squads is the harder problem, especially with Central integration. Matt framed it from AI Enablement. Lev from Banking velocity and onboarding.
->
-> From your seat, does that match what you are seeing, or is it different?
+Before I ask a bunch of questions, I want to level-set on what I have heard.
+
+I spoke with Matt on AI Enablement and Lev on Banking. A consistent theme: AI usage is active, but standardizing across squads is the harder problem, especially with Central integration. Matt framed it from AI Enablement. Lev from Banking velocity and onboarding.
+
+From your seat, does that match what you are seeing, or is it different?
 
 ### ⏸ PAUSE · STOP
 
-Let him respond in role play.
+Let him respond. Then discovery.
 
 ### ▶ NEXT
 
-Advance to Slide 25.
+Slide 25. "Here is my discovery flow."
 
 ---
 
-## SLIDE 25 · Discovery Flow
-**Topic:** 3 | **Depth:** TIER 3  
-**Target time:** 90 sec | **Running total:** 23:35
+## SLIDE 25 · Discovery flow
 
-**On screen:** 10-step discovery table · competition at step 3
+**Topic 3 · Tier 3 · Target 90 sec · Running 21:15**
 
-### YOU SAY:
+**On screen:** Discovery flow. Topic 4 is the live role play.
 
-> Once level-set is done, I run discovery in this order. Not alphabetical MEDDPICC. First I validate Matt and Lev. Then current state first: what are engineers actually using today, formally or ad hoc. That is my pivot trigger if they name Copilot or something else. Listen, do not lead.
->
-> Then I calibrate: where is AI working well and where is it noisiest. That sets demo targets. Pain next: biggest drag, where consistency breaks, and if Ashwin keeps it inside eng I ask who else feels it when standardization slips.
->
-> Then I quantify: when this blocks shipping, missed deadlines, product or customers waiting, what does that cost him. I do not ask what success looks like in 90 days. I already have his improvement areas from calibration. I use those at the end to bridge to demo.
->
-> Then decision criteria, decision process, paper process with Branden in mind, champion, economic buyer, and a clear next step: scoped two-week pilot, success metrics upfront, Branden looped, Max aware.
->
-> Joe, before the role play I will switch to my sales room tab for sixty seconds. That is Ashwin-facing: what Matt and Lev flagged. Not my internal prep. Then I will run this live with you as Ashwin.
+### 🗣 OPEN
+
+Last slide before the role play, my discovery flow, in order.
+
+### 🗣 LEVEL-SET
+
+I open on what Matt on AI Enablement and Lev on Banking flagged, and check it against what he is actually seeing.
+
+### 🗣 CURRENT STATE FIRST
+
+Then current state early, what are engineers using today, formally or ad hoc. That is my trigger to adapt to whatever he names.
+
+### 🗣 CALIBRATE, THEN PAIN, THEN COST
+
+From there I calibrate, where AI works well and where it is noisy. Then pain, the real drag with Central integrating. And when something slows them down, I want the cost, what it means for shipping.
+
+### 🗣 BUYING MECHANICS
+
+Then decision criteria, decision process, the security review for Branden, who would champion it, and the economic buyer, you or Max. And I close on a clear next step.
+
+### 🗣 MANTRA
+
+Competition early, process late, next step always.
 
 ### ⏸ PAUSE
 
-None — tab switch next.
+Out of character: before Topic 4, switch to the sales room tab for 60 to 90 seconds. Sales room is the Ashwin-facing Matt and Lev themes, not the internal prep.
 
 ### ▶ NEXT
 
-Tab switch: Sales room (~60–90 sec) → Topic 4 role play.
+Topic 4. "Then I switch to the sales room tab and we run the live call."
 
 ---
 
-## IF JOE INTERRUPTS (Topics 1–3 only)
+## APPENDIX · IF JOE INTERRUPTS (Topics 1–3)
 
-| If Joe says… | You say… |
-|--------------|----------|
-| Why these five accounts? | Each clears four filters on slide 2. Not random logos. |
-| Why not email the VP first? | I will reach the VP, but warm. Validate themes below first. |
-| Isn't that a lot of touches? | Sequenced and themed. Goal is one well-set meeting. |
-| Can I see the Ashwin email? | In appendix below. Happy to read it. |
-| Why not put prep in the sales room? | Sales room is for Ashwin. Prep is my internal homework. |
-| What if he wants a demo? | Two questions first, then show the right thing. |
-| Supabase over 250 employees? | I would validate developer count in discovery against the segment rule. |
+| If Joe says | You say |
+|-------------|---------|
+| Why these five accounts? | Each clears four filters: under 250 developers, software is the product, real AI pain signals, and a Customer DNA match to a Cursor win. Not logos, pattern-matches. |
+| Why not email the VP first? | I will reach the VP, but warm. I validate the theme with his own org first, so the meeting is aligned, not a cold pitch. |
+| Isn't that a lot of touches? | It is sequenced and themed, not spray-and-pray. Each person has one track, and the goal is a single well-set VP meeting. |
+| Why not put prep in the sales room? | The sales room is for Ashwin, the aligned signal from Matt and Lev. The prep is my homework. Mixing them blurs internal research with the customer-facing piece. |
+| Supabase is over 250 employees. | Employees, not developers. The rule is 250 developers. Supabase is closest to the ceiling, so I confirm dev count first, and if it is over it routes to enterprise. |
+| What about Ada, they built their own tool? | Ada tells me they care about codebase context. I would not lead with it on a first call. I let them tell me what is deployed and bridge from there. |
+| Can I see the Ashwin email? | Absolutely, it is in my appendix. Want me to read it now? |
+| Can you show a demo? | Happy to, and in a real call the back half is in the platform. For today I would narrate it so it stays grounded in your world. Let me ask two questions first so I show the right thing. |
 
 ---
 
 ## APPENDIX · OUTBOUND COPY (if Joe asks)
 
-**Matt · Email 2 · Day 7 (speak only):** Second angle uses Rippling DevEx standardization at scale. Different peer proof from Touch 1.
-
 **Ashwin · Email 1 · Subject: Matt, Lev, and Brex**
 
-> Hi Ashwin,
->
-> Matt on AI Enablement and Lev on Banking both flagged the same theme: AI usage is strong, but standardizing across squads is harder with Central integration underway.
->
-> Brex was in a similar spot in fintech. James Reggio (CTO) aligned the org and saw faster migrations and debugging at scale.
->
-> Worth 30 minutes to hear how you are thinking about eng productivity?
+Hi Ashwin,
+
+Matt on AI Enablement and Lev on Banking both flagged the same theme: AI usage is strong, but standardizing across squads is harder with Central integration underway.
+
+Brex was in a similar spot in fintech. James Reggio, CTO, aligned the org and saw faster migrations and debugging at scale.
+
+Worth 30 minutes to hear how you are thinking about eng productivity?
 
 **Lev · Email 1 · Subject: Banking eng at scale**
 
-> Hi Lev,
->
-> A few conversations in the Mercury eng org surfaced a consistent theme.
->
-> AI is active, but standardizing across teams gets harder as the codebase grows, especially with Central in flight.
->
-> Brex and OnePay described the same moment in fintech.
->
-> From Banking, is inconsistency or onboarding the bigger drag on velocity right now?
->
-> Open to a short call?
+Hi Lev,
 
-**Branden · Email 1 · Subject: AI + source code governance**
+A few conversations in the Mercury eng org surfaced a consistent theme.
 
-> Hi Branden,
->
-> As Mercury scales AI-assisted development, how is InfoSec thinking about governance for tools that touch source code?
->
-> Retention, training data, and SOC 2 come up early with other fintech teams in a similar spot.
->
-> Worth a brief conversation to understand your requirements?
+AI is active, but standardizing across teams gets harder as the codebase grows, especially with Central in flight.
 
-**LinkedIn connection notes (one line each):**
-- Matt: Researching how AI Enablement teams standardize shared infrastructure post-acquisition. Mercury + Central caught my eye.
-- Lev: Curious how Banking eng thinks about AI consistency as the codebase scales.
-- Ashwin: Matt and Lev surfaced a theme on AI standardization I would love your perspective on.
-- Branden: Curious how Mercury InfoSec governs AI tools that touch source code.
+Brex and OnePay described the same moment in fintech.
+
+From Banking, is inconsistency or onboarding the bigger drag on velocity right now?
+
+Open to a short call?
+
+**Branden · Email 1 · Subject: AI plus source code governance**
+
+Hi Branden,
+
+As Mercury scales AI-assisted development, how is InfoSec thinking about governance for tools that touch source code?
+
+Retention, training data, and SOC 2 come up early with other fintech teams in a similar spot.
+
+Worth a brief conversation to understand your requirements?
+
+**Matt · Email 2 note (Day 7, speak only):** Rippling DevEx standardization at scale, a different angle from the Touch 1 Brex email.
+
+**LinkedIn notes:**
+
+- Matt: Looking at how AI Enablement sets shared standards as codebases merge. Mercury and Central caught my eye. Open to a quick chat?
+- Lev: Curious how Banking eng thinks about AI consistency as the codebase scales. Worth a brief conversation?
+- Ashwin: Matt and Lev surfaced a theme on AI standardization I would love your perspective on. Open to 30 minutes?
+- Branden: Curious how Mercury InfoSec governs AI tools that touch source code. Brief call?
 
 ---
 
 ## TIMING CHECK
 
-| Slide | Topic | Tier | Target | Running total | Cut if behind |
-|-------|-------|------|--------|---------------|---------------|
-| 1–2 | 1 | T1 | 1:15 | 1:15 | — |
-| 3 | 1 | T1 | 90 sec | 2:45 | Trim Ada answer unless asked |
-| 4–7 | 1 | T1 | 2:50 | 5:35 | Shorten Retool/PostHog to 30 sec each |
-| 8 | 1 | T1 | 60 sec | 6:35 | — |
-| 9–17 | 2 | T2 | 6:00 | 12:35 | Tighten persona slides to 30 sec |
-| 18–21 | 3 | T3 | 4:30 | 17:05 | Riff less on cadence detail |
-| 22–25 | 3 | T3 | 6:30 | 23:35 | Skip appendix reads unless asked |
+| Slide | Target | Running | Cut if behind |
+|-------|--------|---------|---------------|
+| 1–2 | 1:10 | 1:10 | Keep |
+| 3 Mercury | 1:15 | 2:40 | Keep (anchor) |
+| 4–7 accounts | 2:45 | 5:40 | Trim each to why-now plus proof |
+| 8 Scoring | 0:40 | 6:20 | Keep (handles pushback) |
+| 9–10 | 1:10 | 7:30 | Merge into one breath |
+| 11–15 personas | 3:25 | 10:55 | Matt, Ashwin, Branden core; Lev and Max one line |
+| 16–17 | 1:30 | 12:25 | Walk map, skip 17 if tight |
+| 18–21 | 2:50 | 15:15 | Name the pattern, skip detail |
+| 22–23 | 2:30 | 17:45 | Read Matt email, name the buckets |
+| 24–25 | 3:30 | 21:15 | Keep Block A and B verbatim |
 
-**Target:** ~30 min Topics 1–3 · ~23:35 at Slide 25 before sales room tab.
+**Spoken total about 21 minutes. With pauses and interrupts, plan for about 30.**
+
+**Google Doc source:** https://docs.google.com/document/d/13QH_YdCkjKlrDLhi237YDoOgXaMy_QwE4cxQe1hbAgA/edit

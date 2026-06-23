@@ -1,7 +1,11 @@
 # Alex Padilla · Cursor Commercial AE Challenge
 ## Slide-by-Slide Talk Track & Pacing Guide
 
-**Format:** Present in slideshow. **This doc is your master script.** Slides are visual only. Alex does not use speaker notes.
+**Format:** Present in slideshow. Slides are visual only. Alex does not use speaker notes.
+
+**Topics 1–3 spoken delivery:** Use **`Topic1-3_Presentation_Teleprompter.md`** as source of truth (synced from [Google Doc](https://docs.google.com/document/d/13QH_YdCkjKlrDLhi237YDoOgXaMy_QwE4cxQe1hbAgA/edit)). This file retains SAY-format backup and appendix reference for slides 1–25.
+
+**Topic 4 role play:** **`Topic4_Master_Teleprompter.md`** only.
 
 **Total presentation target:** ~60 minutes (Topics 1–5)  
 **Feedback buffer:** ~15 minutes
@@ -394,20 +398,24 @@ From your seat, does that match what you are seeing, or is it different?"
 ---
 
 ### SLIDE 25 · Discovery Flow
-**Time:** 90 sec | **Running total:** 23:35
+**Time:** 90 sec | **Running total:** 21:15
 
-**On screen:** 10-step discovery table · current state at step 2 · calibrate at step 3
+**On screen:** Discovery flow · Topic 4 = live role play
 
 **SAY:**
-"Once level-set is done, I run discovery in this order. Not alphabetical MEDDPICC. First I validate Matt and Lev. Then current state first: what are engineers actually using today, formally or ad hoc. That is my pivot trigger if they name Copilot or something else. Listen, do not lead.
+"Last slide before the role play, my discovery flow, in order.
 
-Then I calibrate: where is AI working well and where is it noisiest. That sets demo targets. Pain next: biggest drag, where consistency breaks, and if Ashwin keeps it inside eng I ask who else feels it when standardization slips.
+I open on what Matt on AI Enablement and Lev on Banking flagged, and check it against what he is actually seeing.
 
-Then I quantify: when this blocks shipping, missed deadlines, product or customers waiting, what does that cost him. I do not ask what success looks like in 90 days. I already have his improvement areas from calibration. I use those at the end to bridge to demo.
+Then current state early, what are engineers using today, formally or ad hoc. That is my trigger to adapt to whatever he names.
 
-Then decision criteria, decision process, paper process with Branden in mind, champion, economic buyer, and a clear next step: scoped two-week pilot, success metrics upfront, Branden looped, Max aware.
+From there I calibrate, where AI works well and where it is noisy. Then pain, the real drag with Central integrating. And when something slows them down, I want the cost, what it means for shipping.
 
-Joe, before the role play I will switch to my sales room tab for sixty seconds. That is Ashwin-facing: what Matt and Lev flagged. Not my internal prep. Then I will run this live with you as Ashwin."
+Then decision criteria, decision process, the security review for Branden, who would champion it, and the economic buyer, you or Max. And I close on a clear next step.
+
+Competition early, process late, next step always.
+
+Joe, before the role play I will switch to my sales room tab for sixty to ninety seconds. That is Ashwin-facing Matt and Lev themes, not my internal prep. Then we run the live call."
 
 **→ TAB SWITCH: Sales room (~60–90 sec) → TOPIC 4 ROLE PLAY**
 
