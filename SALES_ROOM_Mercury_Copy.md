@@ -16,9 +16,7 @@ Hi Ashwin and team,
 
 I'm Alex Padilla, Account Executive at Cursor.
 
-This is a shared space for everyone on this thread — Matt, Lev, Ashwin, Branden, and Max — so you're looking at the same context, not separate email chains.
-
-It's a quick way to see what I've learned so far from conversations in your org, skim what's relevant to your role, and decide if a deeper conversation is worth your time.
+This is a shared space for everyone at Mercury — a quick way to see what I've learned from conversations in your org so far, figure out what's relevant to you, and decide if a deeper conversation is worth your time.
 
 **What's inside**
 - Themes from Matt (AI Enablement) and Lev (Banking)
@@ -26,7 +24,7 @@ It's a quick way to see what I've learned so far from conversations in your org,
 - Fintech peer stories (Brex, OnePay)
 - Security resources and FAQs
 
-Share the link internally if helpful. Reply here, @mention me, or book time when you're ready.
+Reply here, @mention me, or book time when you're ready.
 
 Alex Padilla  
 Account Executive · Cursor  
@@ -232,8 +230,8 @@ Reply in this room or book time. **No meeting assumed** — earn it person by pe
 
 **FAQ**
 
-**I'm on this thread but haven't talked to Alex yet — why me?**  
-This room goes to everyone who might touch a decision: eng validation (Matt, Lev), sponsorship (Ashwin), security (Branden), budget (Max). Skim your section; ignore the rest.
+**Why was this shared with me?**  
+This room is for anyone who might touch a decision on eng tooling or security. Skim what's relevant to your role; ignore the rest.
 
 **Do we have to replace what engineers use today?**  
 No. Scoped pilot on hard workflows — integration, cross-repo — compare outcomes. Discovery tells us what to test.
@@ -264,9 +262,9 @@ Comment or @mention me in this room — I'll route to the right conversation.
 
 Read on camera. Pre-meeting · all five personas.
 
-> Hi Mercury team — I'm Alex, and I work with Cursor. I put this room together for Matt, Lev, Ashwin, Branden, and Max so you're all looking at the same context, not five different email threads.
+> Hi Mercury team — I'm Alex, and I work with Cursor. I put this room together so everyone at Mercury can see the same context in one place.
 >
-> This isn't a pitch deck, and it isn't homework on Mercury. It's a short space to see why I reached out — and decide if a conversation is worth your time — before anyone gets on a call.
+> This isn't a pitch deck, and it isn't a homework dump on Mercury. It's a quick way to see what I've learned from conversations in your org so far — and decide if a deeper conversation is worth your time.
 >
 > Matt on AI Enablement and Lev on Banking surfaced a consistent theme: AI usage is active, but standardizing it across squads is the harder problem — especially with Central integration underway. I might be off. That's what this room is for: tell me if it resonates from your seat.
 >
