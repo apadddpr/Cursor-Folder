@@ -365,16 +365,22 @@ Does that work?"
 
 **Pause. Get yes.**
 
-**Then say (Cursor overview, NOT on slide · ~45 sec · general · `Cursor_Overview_First_Meeting.md`):**
-"Ashwin, quick context on Cursor so we are on the same page.
+**Then say (Cursor overview, NOT on slide · ~90 sec · Coast-style · `Cursor_Overview_First_Meeting.md`):**
+"Let me give you a quick picture of what Cursor is and how I want you to think about it.
 
-Cursor is an AI-native development environment. It is where engineers write and ship code — built for AI from the ground up, not a plugin on top of another editor.
+Cursor is an AI-native development environment. It really brings three things into one: the editor where engineers work, full codebase context across the repo, and AI across the full development cycle — not just autocomplete on a single file.
 
-The way I think about it: most orgs already have engineers using AI somewhere. The question Cursor answers is whether you can standardize that — one workspace, full codebase context, model choice in one place, and the full dev cycle in one environment. Write, review, iterate. Not autocomplete on a single file.
+Instead of engineers juggling Copilot in one place, ChatGPT in the browser, and everyone building their own setup, your team works in one environment. Model choice stays flexible, so you are not locked to one provider. And the org can set standards once — how AI gets used, guardrails, rules — instead of every squad running their own experiments.
 
-That is the category. Does that land, or do you want me to go deeper on any piece?"
+On the individual developer side, you get an IDE built for AI from the ground up — not a plugin bolted onto another editor. It understands the whole codebase, so when someone is working across files or onboarding to a large repo, the tool actually has context.
 
-**If he asks to go deeper (~20 sec):** Brex and OnePay in fintech — hard part is consistency across squads, not whether AI works.
+On the org side, the difference is standardization. Most companies already have engineers using AI somewhere. The question is whether the org can govern it — one workspace, one standard, visibility across teams — instead of a mix of tools nobody can fully control.
+
+The big idea is pretty simple: bring the pieces that are usually siloed — individual AI experiments, different models, different setups — into one environment that gives you better consistency, better context on complex codebases, and makes AI-assisted development something the whole org can actually run on.
+
+Hopefully that gives you a solid sense of what Cursor is."
+
+**If he asks to go deeper:** Brex and OnePay — consistency across squads, not whether AI works.
 
 **Pause. Then Block B level-set (Matt/Lev, why Mercury).**
 

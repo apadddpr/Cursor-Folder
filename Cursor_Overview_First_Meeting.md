@@ -1,62 +1,54 @@
 # Cursor Overview · First Meeting (Canonical)
-## General · ~45 sec · Use before discovery · Ashwin has never heard of Cursor
+## Modeled on Alex's Coast Pay overview · ~90 sec · General · First time hearing about Cursor
 
-**Job of this section:** What Cursor is and how to think about it. Not why Mercury, not four numbered features, not a product tour.
+**Job:** What Cursor is and how to think about it. Not why Mercury — that is level-set.
 
-**Mercury personalization lives in:** level-set (Matt/Lev), discovery, sales room. Not here.
-
----
-
-## How to think about Cursor (mental model)
-
-| Not this | This |
-|----------|------|
-| Plugin on another editor | AI-native environment where engineers work |
-| Autocomplete on one file | Full codebase context |
-| Each engineer picks their own AI stack | One workspace the org can standardize on |
-| "Does AI work?" | "Can we make AI consistent at scale?" |
-
-**One sentence:**
-> "Cursor is where engineers write code, built for AI from the ground up — one environment with full repo context, so a team can standardize how AI gets used instead of everyone running their own experiments."
+**Structure (same as Coast):** Opening frame → category + three-in-one → instead of juggling → two lenses → big idea → soft close
 
 ---
 
-## Full script (~45 sec · say verbatim)
+## Full script (say verbatim)
 
-> Ashwin, quick context on Cursor so we are on the same page.
+> Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >
-> Cursor is an AI-native development environment. It is where engineers write and ship code — built for AI from the ground up, not a plugin on top of another editor.
+> Cursor is an AI-native development environment. It really brings three things into one: the editor where engineers work, full codebase context across the repo, and AI across the full development cycle — not just autocomplete on a single file.
 >
-> The way I think about it: most orgs already have engineers using AI somewhere. The question Cursor answers is whether you can standardize that — one workspace, full codebase context, model choice in one place, and the full dev cycle in one environment. Write, review, iterate. Not autocomplete on a single file.
+> Instead of engineers juggling Copilot in one place, ChatGPT in the browser, and everyone building their own setup, your team works in one environment. Model choice stays flexible, so you are not locked to one provider. And the org can set standards once — how AI gets used, guardrails, rules — instead of every squad running their own experiments.
 >
-> That is the category. Does that land, or do you want me to go deeper on any piece?
+> On the individual developer side, you get an IDE built for AI from the ground up — not a plugin bolted onto another editor. It understands the whole codebase, so when someone is working across files or onboarding to a large repo, the tool actually has context.
+>
+> On the org side, the difference is standardization. Most companies already have engineers using AI somewhere. The question is whether the org can govern it — one workspace, one standard, visibility across teams — instead of a mix of tools nobody can fully control.
+>
+> The big idea is pretty simple: bring the pieces that are usually siloed — individual AI experiments, different models, different setups — into one environment that gives you better consistency, better context on complex codebases, and makes AI-assisted development something the whole org can actually run on.
+>
+> Hopefully that gives you a solid sense of what Cursor is.
 
 **Pause.** Brief response. → Level-set (Matt/Lev, why Mercury).
 
 ---
 
-## If he says "go deeper" (~20 sec add-on · only if asked)
+## If he asks to go deeper (~15 sec)
 
 > Teams like Brex and OnePay in fintech use it when the hard part is consistency across squads on a complex codebase — not whether AI works, but whether the whole org can run on one standard.
 
-Stop there. Do not stack four feature bullets unless he asks again.
+---
+
+## Coast → Cursor mapping (for you, not to say out loud)
+
+| Coast | Cursor |
+|-------|--------|
+| "Quick picture... how I want you to think about it" | Same opening frame |
+| Spend platform · three things into one | AI-native dev environment · three things into one |
+| Instead of juggling separate tools | Instead of juggling Copilot, ChatGPT, own setups |
+| Corporate card paragraph (control, visibility) | Individual developer paragraph (IDE, codebase context) |
+| Fleet/fuel paragraph (integration) | Org side paragraph (standardization, govern) |
+| "Big idea is pretty simple..." | Same synthesis close |
+| "Hopefully that gives you a solid sense..." | Same soft close |
 
 ---
 
-## Do not use
+## Do not use in overview
 
-- Numbered lists ("One, model neutral. Two...")
-- Jargon one-liners ("model-neutral IDE, full platform across the dev cycle")
-- Mercury signals in the overview (Central, AI Enablement) — that is level-set
-- Feature soup (Bugbot, Semantic Search, MCP)
-
----
-
-## Where other resources fit
-
-| Resource | When |
-|----------|------|
-| **This doc · Section 2** | First-time overview |
-| **Level-set · Section 3** | Why Mercury, Matt/Lev themes |
-| **Sales room · About Cursor** | Written version of the four beats (async skim) |
-| **Competitive pivots** | After he names what engineers use today |
+- Numbered feature lists ("One, model neutral. Two...")
+- Mercury signals (Central, AI Enablement) — level-set only
+- Jargon one-liners or competitive battle cards
