@@ -2,7 +2,7 @@
 ## Joe as Ashwin · Simulated 45-min call · ~18–22 min in take-home
 ## Read left to right, top to bottom. Every quote = say out loud.
 
-**Discovery only:** This script is your live call flow. Do not add question clusters from pivot docs or the run sheet. "Working well vs want to improve" happens at level-set. Q5 quantifies cost only. Demo bridge maps back to his improvement areas.
+**Discovery only:** This script is your live call flow. Do not add question clusters from pivot docs or the run sheet. For a 10–15 min window, hit the PRIORITY block in Section 4. "Working well vs want to improve" at level-set. Q5 quantifies cost. Demo bridge maps back to his improvement areas.
 
 ---
 
@@ -86,12 +86,23 @@ These become your demo targets later. Capture his exact words.
 ## SECTION 4 · DISCOVERY (MEDDPICC order)
 **~10–12 min · One question at a time · Listen fully between each**
 
+### 10–15 MIN PRIORITY (recruiter bar: layered pain + quantify)
+**Must hit in any take-home window:** Level-set → Q1–2 (layer pain) → optional widen → Q5 (cost) → summarize → demo bridge → one next-step line.
+
+**If Joe gives you time:** Q3–4 competition · then pick **two** from Q6–10 (champion + EB, or criteria + process).
+
+**Skip or shorten first if rushed:** Q8 paper (unless Branden comes up) · long MEDDPICC tail.
+
 ---
 
 ### QUESTION 1 · PAIN (I)
-**Identify Pain**
+**Identify Pain · layer on level-set**
 
-### YOU SAY:
+### YOU SAY (preferred — if he named an improvement area):
+
+> You mentioned **[want to improve from level-set]** as something you want to improve. Walk me through what is making that hard in practice.
+
+### OR YOU SAY (fallback — if level-set was thin):
 
 > With Central integration underway, what is the single biggest drag on engineering productivity right now?
 
@@ -103,11 +114,11 @@ Listen. Do not jump to solution.
 ---
 
 ### QUESTION 2 · PAIN (I)
-**Identify Pain · consistency**
+**Identify Pain · where it shows up**
 
 ### YOU SAY:
 
-> Where does that inconsistency show up first? Reviews, onboarding, cross-squad handoffs, somewhere else?
+> Where does that show up first? Reviews, onboarding, cross-squad handoffs, somewhere else?
 
 ### ⏸ PAUSE
 
