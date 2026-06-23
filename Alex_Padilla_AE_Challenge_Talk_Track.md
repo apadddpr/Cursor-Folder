@@ -481,14 +481,13 @@ Worth a brief conversation to understand your requirements?
 
 **Your opening:** Slide 24 script (contract → Cursor overview → Matt/Lev level-set)
 
-**Discovery order:** Level-set → **Q1 current state** ("What are engineers using today?") → Q2 calibrate → Q3 pain → Q5 cost only → summarize → demo. Pick 6–8 questions, not all 10. Pivot: acknowledge only, return at Q2.
+**Discovery order:** Level-set → **Q1 current state** → Q2 calibrate → Q3 pain → Q5 cost only → summarize (A–D) → demo bridge. Pick 6–8 questions, not all 10. Pivot: Section 1 only, return at Q2.
 
 **If Joe pushes competition:** "I hear you on [X]. Helpful to understand what is working and where it breaks down on your codebase."
 
-**If Joe wants demo:** "Happy to. Let me ask two questions first so I show the right thing."
+**If Joe wants demo early:** "Happy to. Let me ask two questions first so I show the right thing."
 
-**Close (~last 3 min):**
-"Based on what you shared, a scoped two-week pilot with one squad makes sense. We define success metrics upfront and loop Branden in on security. Worth scheduling?"
+**Close (~last 3 min):** Summarize A–D from discovery jots, demo bridge, then live highlight of how Cursor addresses those themes.
 
 **Target time:** 18–22 min
 
@@ -519,4 +518,4 @@ Worth a brief conversation to understand your requirements?
 
 ---
 
-*Last updated: Topics 1–3 synced to AI Enablement + Mercury Why Cursor (no Ada lead). Master script only; no speaker notes.*
+*Last updated: Topics 1–3 teleprompter is source of truth for slides 1–25. Topic 4: Topic4_Master_Teleprompter.md.*

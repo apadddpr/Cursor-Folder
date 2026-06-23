@@ -5,13 +5,13 @@
 - `Topic4_Pivot_Copilot.md`
 - `Topic4_Pivot_Claude_Code.md`
 
-**Discovery order:** Level-set → **Q1 current state (pivot)** → Q2 calibrate → Q3–Q4 pain → Q5 cost → Q6–Q10 → summarize → demo
+**Discovery order:** Level-set → **Q1 current state (pivot)** → Q2 calibrate → Q3–Q4 pain → Q5 cost → Q6–Q10 → summarize → demo bridge
 
 ---
 
 ## BEFORE YOU START (out of character · say to Joe)
 
-> I will run this as a real first call. I play myself, you are Ashwin. It is a 45 minute meeting, discovery then a quick narrated view of what a demo would show. I will not screen share, I will narrate. Ready when you are?
+> I will run this as a real first call. I play myself, you are Ashwin. It is a 45 minute meeting, discovery then a quick live look at how Cursor would address what we uncover. Ready when you are?
 
 **STAGE:** Optional 60 sec sales room tab (Matt/Lev only). Switch back.
 
@@ -107,7 +107,7 @@ Listen fully. Do not lead.
 | Claude Code / Anthropic / terminal-first | `Topic4_Pivot_Claude_Code.md` |
 | Mix / GPT / internal / vague / nothing formal | **Stay here.** Ask: "Where does that setup work well, and where does it fall short on Mercury's codebase?" Then → Q2 |
 
-Run pivot Sections 1–2. **Return at Q2 · calibrate.**
+Run pivot Section 1 only. **Return at Q2 · calibrate.**
 
 ---
 
@@ -129,11 +129,13 @@ Run pivot Sections 1–2. **Return at Q2 · calibrate.**
 
 ### YOU SAY:
 
-> With Central integrating, what is the single biggest drag on engineering productivity right now?
+> What is the single biggest drag on engineering productivity right now?
 
 ### ⏸ PAUSE
 
 **Peel:** "Where does it show up first, reviews, onboarding, cross-squad handoffs?"
+
+**Peel (only if needed):** "Does that tie to integration work you have in flight, or somewhere else?"
 
 **Widen (only if stayed inside eng):** "Does that stay in engineering, or do product, GTM, or customers feel it when standardization slips?"
 
@@ -145,11 +147,11 @@ Run pivot Sections 1–2. **Return at Q2 · calibrate.**
 
 ### YOU SAY:
 
-> As the codebase grows with Central in it, where does consistency break down between squads?
+> Where does consistency break down between squads as the codebase grows?
 
 ### ⏸ PAUSE
 
-**JOT:** ____________________
+**JOT (consistency gap):** ____________________
 
 ---
 
@@ -157,13 +159,17 @@ Run pivot Sections 1–2. **Return at Q2 · calibrate.**
 
 ### YOU SAY:
 
-> When that gets in the way of shipping — missing a deadline, or product, GTM, or a customer waiting on something stuck — what does that actually cost you?
+> When that kind of thing gets in the way of shipping, have you ever tried to quantify what it cost you, even roughly?
 
 ### ⏸ PAUSE
 
+**Peel (only if vague or he engages):**
+
+> Something I have seen teams do is walk through a past slip, a feature or unlock that missed the window and pushed customer or revenue impact out. Curious if you have looked at it that way, even back-of-napkin.
+
 **JOT (cost):** ____________________
 
-**Do not ask:** 90-day success or "how do you track that today."
+**Do not ask:** 90-day success or a full incident-cost lecture upfront.
 
 ---
 
@@ -171,11 +177,13 @@ Run pivot Sections 1–2. **Return at Q2 · calibrate.**
 
 ### YOU SAY:
 
-> If you standardized on one approach, what would it have to satisfy? Security, IDE fit, monorepo performance, something else?
+> When you think about bringing something like this in, what would need to be true for you to say it is worth a pilot?
 
 ### ⏸ PAUSE
 
-**JOT (must-haves):** ____________________
+**Peel (if he leads with security only):** "Totally fair, that is table stakes. What else beyond security would you need to see?"
+
+**JOT (pilot bar):** ____________________
 
 ---
 
@@ -197,7 +205,7 @@ Run pivot Sections 1–2. **Return at Q2 · calibrate.**
 
 ### YOU SAY:
 
-> For anything that touches source code, what does security review look like, and would Branden need to weigh in early?
+> For anything that touches source code, what does security review look like on your end, and would Branden need to weigh in early?
 
 ### ⏸ PAUSE
 
@@ -205,7 +213,7 @@ Run pivot Sections 1–2. **Return at Q2 · calibrate.**
 
 > Since you are fintech, the relevant pieces are Privacy Mode, so code is not stored or trained on, and SOC 2. I would bring Branden in early so it is settled up front.
 
-**JOT:** ____________________
+**JOT (paper process):** ____________________
 
 ---
 
@@ -235,13 +243,24 @@ Run pivot Sections 1–2. **Return at Q2 · calibrate.**
 
 ## SECTION 5 · SUMMARIZE (~1 min)
 
+**Fill these during discovery. Your recap pulls from here — do not scramble for notes.**
+
+| Slot | Source | Your jot |
+|------|--------|----------|
+| **A** | Q1 stack / current state | ____________________ |
+| **B** | Q2 working well / noisy | ____________________ |
+| **C** | Q3 biggest drag (+ Q4 if relevant) | ____________________ |
+| **D** | Q5 cost / why it matters | ____________________ |
+
 ### YOU SAY:
 
-> Let me play that back. Working well is **[Q2 calibration]**. You are on **[Q1 stack]**. The biggest drag is **[Q3]**. When it slips it costs you **[Q5 cost]**. The areas you want to improve are **[Q2 noisy / pain threads]**.
+> Okay, let me reiterate what we heard. It sounds like **A**, **B**, **C**, and **D**, right?
 >
-> Did I get that right?
+> If we can address those, this is worth entertaining further.
 
 ### ⏸ PAUSE
+
+Get the yes or correction.
 
 ---
 
@@ -249,41 +268,17 @@ Run pivot Sections 1–2. **Return at Q2 · calibrate.**
 
 ### YOU SAY:
 
-> Based on what you shared, the part worth showing is the piece tied to that drag. I will not screen share today. Let me narrate what you would see so it is grounded in your world. Does that work?
+> What I want to do now is highlight some of these areas live for you, so you get a real-life example of how we would anticipate Cursor addressing them. Does that work?
 
 ### ⏸ PAUSE
 
-Get a yes.
+Get a yes. Transition to live demo (or narrated demo if no screen share in this session).
+
+**STAGE (after demo):** "What stood out, or what would you want to see for real?"
 
 ---
 
-## SECTION 7 · NARRATE DEMO (~60 to 90 sec)
-
-### YOU SAY:
-
-> Picture a change that touches several files across the Central boundary. Instead of a snippet, the agent reads the whole repo, pulls the right context, drafts the change across those files, and you review it like any other pull request.
->
-> Because you are not locked to one model, you are on the best one for that task underneath. Your standards are set once and applied to every engineer and every AI session, so it stays consistent across squads. And review keeps pace, because it can look at the diff before it merges.
->
-> That is the difference between writing one line faster and doing the whole task across the codebase.
-
-### ⏸ PAUSE
-
-**STAGE:** "That is the narrated version. What stands out, or what would you want to see for real?"
-
----
-
-## SECTION 8 · NEXT STEP (~30 sec)
-
-### YOU SAY:
-
-> If this is worth a closer look, the natural next step is a short working session with whoever owns developer experience, scoped against your codebase and what you mentioned today. Would that be useful, and who would you want in the room?
-
-### ⏸ PAUSE
-
----
-
-## SECTION 9 · BREAK CHARACTER
+## SECTION 7 · BREAK CHARACTER
 
 ### YOU SAY (to Joe):
 
@@ -293,12 +288,13 @@ Get a yes.
 
 ## 10–15 MIN PRIORITY
 
-Level-set → **Q1 stack** → Q2 calibrate → Q3 pain → **Q5 cost** → summarize → demo bridge
+Level-set → **Q1 stack** → Q2 calibrate → Q3 pain → **Q5 cost** → summarize (A–D) → demo bridge
 
 ---
 
 ## RULES
 
 - One question per pause
-- Q1 = pivot trigger. Return at Q2 after Copilot or Claude tab
+- Q1 = pivot trigger. Return at Q2 after Copilot or Claude tab. Pivot Section 1 only in short mock
 - No em dashes in spoken copy
+- Q6 = pilot bar. Q8 = security process. Do not duplicate

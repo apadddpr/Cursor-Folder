@@ -30,7 +30,7 @@
 
 ## Topic 4 discovery (10–15 min mock)
 
-Level-set → Q1 stack → Q2 calibrate → Q3 pain → Q5 cost → summarize → demo
+Level-set → Q1 stack → Q2 calibrate → Q3 pain → Q5 cost → summarize (A–D) → demo bridge
 
 **Pivot:** Section 1 only (flowers + wedge). Skip pivot discovery questions. Return to master Q2 calibrate.
 
