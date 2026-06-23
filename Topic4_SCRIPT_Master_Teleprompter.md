@@ -2,7 +2,7 @@
 ## Joe as Ashwin · Simulated 45-min call · ~18–22 min in take-home
 ## Read left to right, top to bottom. Every quote = say out loud.
 
-**Discovery only:** This script is your live call flow. Do not add question clusters from pivot docs or the run sheet. Optional widen after Pain Q2, then quantify cost of delay at Metrics Q5.
+**Discovery only:** This script is your live call flow. Do not add question clusters from pivot docs or the run sheet. "Working well vs want to improve" happens at level-set. Q5 quantifies cost only. Demo bridge maps back to his improvement areas.
 
 ---
 
@@ -68,9 +68,16 @@ Let him respond briefly. Acknowledge. Do not pitch further.
 > From your seat, does that match what you are seeing, or is it different?
 
 ### ⏸ PAUSE · STOP
-Let him confirm or correct. Mirror back what he says in one sentence before moving on.
+Let him confirm or correct. Mirror back what he says in one sentence.
 
-**JOT:** Note his correction or confirmation verbatim.
+### YOU SAY:
+
+> Help me calibrate: what is working well today, and what are the one or two areas you most want to improve?
+
+### ⏸ PAUSE · STOP
+These become your demo targets later. Capture his exact words.
+
+**JOT:** Working well = _______________ · Want to improve = _______________
 
 ### ▶ NEXT → Section 4 · Question 1
 
@@ -176,13 +183,15 @@ Listen for time, revenue, risk, or trust in his words. Do not fill in the number
 
 **JOT:** Cost of delay = _______________
 
+### OPTIONAL · only if his answer was vague
+
 ### YOU SAY:
 
-> How do you track that today, and what would success look like in the next 90 days?
+> How do you track that today?
 
 ### ⏸ PAUSE
 
-**JOT:** Metric = _______________
+**JOT:** How tracked = _______________
 
 ---
 
@@ -266,7 +275,7 @@ Listen for time, revenue, risk, or trust in his words. Do not fill in the number
 
 > Ashwin, let me play that back to make sure I have it.
 >
-> You said **[Pain A in his words]**, **[Pain B or stack gap in his words]**, and when that slips it costs **[cost of delay in his words]**. Success in 90 days looks like **[Metric in his words]**.
+> **What's working:** **[Working well in his words]**. **Areas you want to improve:** **[Want to improve + Pain A/B in his words]**. When those slip, it costs **[cost of delay in his words]**.
 >
 > If I am hearing you correctly, the issue is not whether AI is useful. It is **[one-line synthesis]**.
 >
@@ -284,11 +293,9 @@ Let him confirm or correct.
 
 ### YOU SAY:
 
-> Based on what you shared, those are exactly the areas I would want to show you, not tell you.
+> Based on what you shared — if we could move the needle on **[improvement area 1]**, **[improvement area 2]**, and **[stack gap or third area he named]** — those are exactly what I would want to show you in Cursor, not a generic tour.
 >
-> We still have time in our 45 minutes. Rather than a generic tour, I would like to walk you through how Cursor handles **[Pain A, B, and the gap he named]** in an environment like yours.
->
-> Does that work?
+> We still have time in our 45 minutes. Want me to walk you through how that would look in an environment like yours?
 
 ### ⏸ PAUSE
 Wait for yes.

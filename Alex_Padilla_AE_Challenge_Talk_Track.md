@@ -387,11 +387,11 @@ From your seat, does that match what you are seeing, or is it different?"
 **On screen:** 10-step discovery table · competition at step 3
 
 **SAY:**
-"Once level-set is done, I run discovery in this order. Not alphabetical MEDDPICC. Pain first after validation: biggest drag, where inconsistency shows up, and if Ashwin keeps it inside eng I ask who else feels it when standardization slips. Competition early, step three: what are engineers using today, is there an eval underway, what works and where does it break down on your codebase. Listen, do not lead.
+"Once level-set is done, I run discovery in this order. Not alphabetical MEDDPICC. First I validate Matt and Lev, then I ask what is working well and what he most wants to improve. That sets the demo targets up front. Pain next: biggest drag, where inconsistency shows up, and if Ashwin keeps it inside eng I ask who else feels it when standardization slips. Competition early, step three: what are engineers using today, is there an eval underway, what works and where does it break down on your codebase. Listen, do not lead.
 
-Then I quantify before moving on: when this blocks shipping — missed deadlines, product or customers waiting — what does that cost him. Then how he tracks it and what success looks like in 90 days.
+Then I quantify: when this blocks shipping — missed deadlines, product or customers waiting — what does that cost him. I do not ask what success looks like in 90 days here. I already have his improvement areas. I use those at the end to bridge to demo.
 
-Then metrics, decision criteria, decision process, paper process with Branden in mind, champion, economic buyer, and a clear next step: scoped two-week pilot, success metrics upfront, Branden looped, Max aware.
+Then decision criteria, decision process, paper process with Branden in mind, champion, economic buyer, and a clear next step: scoped two-week pilot, success metrics upfront, Branden looped, Max aware.
 
 Joe, before the role play I will switch to my sales room tab for sixty seconds. That is Ashwin-facing: what Matt and Lev flagged. Not my internal prep. Then I will run this live with you as Ashwin."
 
