@@ -1,70 +1,62 @@
 # Cursor Overview · First Meeting (Canonical)
-## Use this everywhere · ~90 seconds spoken · Ashwin / VP first time hearing about Cursor
+## General · ~45 sec · Use before discovery · Ashwin has never heard of Cursor
 
-**Do not use for this moment:** competitive pivot docs, demo scripts, numbered feature lists, prep doc battle cards. Those are for *after* he names Copilot or Claude Code.
+**Job of this section:** What Cursor is and how to think about it. Not why Mercury, not four numbered features, not a product tour.
 
-**Do not use Claude's numbered format** ("One, model neutral. Two, large codebases..."). It sounds like a webinar, not a VP conversation.
-
----
-
-## Mental model (what you want him thinking)
-
-| Layer | What to land |
-|-------|----------------|
-| **Category** | Where engineers write code, built for AI from the ground up — not a plugin |
-| **Problem** | AI is already happening; the hard part is consistency across squads on a complex codebase |
-| **Why Mercury** | Central integration + AI Enablement hire |
-| **Proof** | Brex and OnePay in fintech |
-| **Exit** | "Does any of that resonate?" |
-
-**One sentence if he asks "so what is Cursor?":**
-> "It is the workspace where your engineers write code, but AI-native — one environment for the whole org, with full codebase context, so you can standardize how AI gets used instead of every squad running their own experiments."
+**Mercury personalization lives in:** level-set (Matt/Lev), discovery, sales room. Not here.
 
 ---
 
-## Full script (~90 sec · say verbatim in role play)
+## How to think about Cursor (mental model)
 
-> Ashwin, quick context so we are starting from the same place.
->
-> Cursor is where your engineers write code, but built for AI from the ground up. Not a plugin on top of another editor — one environment for the whole org.
->
-> We work with fintechs like Brex and OnePay. The pattern we usually see at your stage: AI is already happening, but every squad has their own tools and their own setup. The hard part is not getting engineers to try AI. It is getting the org on one standard — especially when the codebase is getting more complex with Central integration.
->
-> That is what Cursor is built for. Your team is not locked to one AI provider. It understands the full repo, not just whatever file someone has open — that is where lighter tools tend to break down. AI Enablement can set guardrails once instead of every engineer building their own stack. And it covers the full cycle — writing, review, iteration — not just autocomplete.
->
-> I reached out because Mercury looked like that profile: Central integrating, the AI Enablement hire, moving from experiments to shared infrastructure.
->
-> Does any of that resonate, or am I off?
+| Not this | This |
+|----------|------|
+| Plugin on another editor | AI-native environment where engineers work |
+| Autocomplete on one file | Full codebase context |
+| Each engineer picks their own AI stack | One workspace the org can standardize on |
+| "Does AI work?" | "Can we make AI consistent at scale?" |
 
-**Pause.** Let him respond briefly. Acknowledge. Do not pitch further. → Level-set.
+**One sentence:**
+> "Cursor is where engineers write code, built for AI from the ground up — one environment with full repo context, so a team can standardize how AI gets used instead of everyone running their own experiments."
 
 ---
 
-## Short script (~45 sec · if Joe is rushing you)
+## Full script (~45 sec · say verbatim)
 
-> Quick context. Cursor is where your engineers write code, AI-native, with full repo context — so the org can standardize instead of every squad doing their own thing. Brex and OnePay in fintech fit that pattern. I reached out because of Central integration and the AI Enablement hire. Does that resonate?
+> Ashwin, quick context on Cursor so we are on the same page.
+>
+> Cursor is an AI-native development environment. It is where engineers write and ship code — built for AI from the ground up, not a plugin on top of another editor.
+>
+> The way I think about it: most orgs already have engineers using AI somewhere. The question Cursor answers is whether you can standardize that — one workspace, full codebase context, model choice in one place, and the full dev cycle in one environment. Write, review, iterate. Not autocomplete on a single file.
+>
+> That is the category. Does that land, or do you want me to go deeper on any piece?
 
-**Do not use as short version:** "Model-neutral IDE, fast to standardize, full platform across the dev cycle." That is jargon. Use the script above.
-
----
-
-## How other resources map (stop cross-reading)
-
-| Resource | When to use |
-|----------|-------------|
-| **This doc** | First meeting overview · Slide 24 · Topic 4 Section 2 |
-| **Sales room · About Cursor** | Same four beats, written for async skim |
-| **Topic4_Prep_Doc_Cheat_Sheet** | After he names Copilot / Claude Code |
-| **Competitive pivot tabs** | Only when stack comes up in discovery |
-| **Demo scripts** | After demo bridge, not in overview |
+**Pause.** Brief response. → Level-set (Matt/Lev, why Mercury).
 
 ---
 
-## The four beats (woven into the story · never numbered out loud)
+## If he says "go deeper" (~20 sec add-on · only if asked)
 
-1. **Model neutral** — not locked to one AI provider
-2. **Large codebase** — full repo context; lighter tools break on open-file-only
-3. **Standardize faster** — AI Enablement sets guardrails once
-4. **Full cycle, not autocomplete** — write, review, iterate in one workspace
+> Teams like Brex and OnePay in fintech use it when the hard part is consistency across squads on a complex codebase — not whether AI works, but whether the whole org can run on one standard.
 
-**Do not lead with:** Semantic Search, Bugbot, MCP, Agents (save for demo or Q&A).
+Stop there. Do not stack four feature bullets unless he asks again.
+
+---
+
+## Do not use
+
+- Numbered lists ("One, model neutral. Two...")
+- Jargon one-liners ("model-neutral IDE, full platform across the dev cycle")
+- Mercury signals in the overview (Central, AI Enablement) — that is level-set
+- Feature soup (Bugbot, Semantic Search, MCP)
+
+---
+
+## Where other resources fit
+
+| Resource | When |
+|----------|------|
+| **This doc · Section 2** | First-time overview |
+| **Level-set · Section 3** | Why Mercury, Matt/Lev themes |
+| **Sales room · About Cursor** | Written version of the four beats (async skim) |
+| **Competitive pivots** | After he names what engineers use today |

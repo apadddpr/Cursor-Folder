@@ -39,23 +39,23 @@ Wait for explicit yes. Do not continue until he confirms.
 ---
 
 ## SECTION 2 · CURSOR OVERVIEW
-**~90 sec · canonical script in `Cursor_Overview_First_Meeting.md`**
-
-**If short on time:** use the 45 sec short script in that doc. Do not use a jargon one-liner.
+**~45 sec · general only · Mercury comes in level-set**
 
 ### YOU SAY:
 
-> Ashwin, quick context so we are starting from the same place.
+> Ashwin, quick context on Cursor so we are on the same page.
 >
-> Cursor is where your engineers write code, but built for AI from the ground up. Not a plugin on top of another editor — one environment for the whole org.
+> Cursor is an AI-native development environment. It is where engineers write and ship code — built for AI from the ground up, not a plugin on top of another editor.
 >
-> We work with fintechs like Brex and OnePay. The pattern we usually see at your stage: AI is already happening, but every squad has their own tools and their own setup. The hard part is not getting engineers to try AI. It is getting the org on one standard — especially when the codebase is getting more complex with Central integration.
+> The way I think about it: most orgs already have engineers using AI somewhere. The question Cursor answers is whether you can standardize that — one workspace, full codebase context, model choice in one place, and the full dev cycle in one environment. Write, review, iterate. Not autocomplete on a single file.
 >
-> That is what Cursor is built for. Your team is not locked to one AI provider. It understands the full repo, not just whatever file someone has open — that is where lighter tools tend to break down. AI Enablement can set guardrails once instead of every engineer building their own stack. And it covers the full cycle — writing, review, iteration — not just autocomplete.
->
-> I reached out because Mercury looked like that profile: Central integrating, the AI Enablement hire, moving from experiments to shared infrastructure.
->
-> Does any of that resonate, or am I off?
+> That is the category. Does that land, or do you want me to go deeper on any piece?
+
+### IF HE ASKS TO GO DEEPER (~20 sec · optional):
+
+> Teams like Brex and OnePay in fintech use it when the hard part is consistency across squads on a complex codebase — not whether AI works, but whether the whole org can run on one standard.
+
+**Canonical script: `Cursor_Overview_First_Meeting.md`**
 
 ### ⏸ PAUSE
 Let him respond briefly. Acknowledge. Do not pitch further.
