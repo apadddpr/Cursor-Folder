@@ -1,12 +1,14 @@
 # Cursor Overview · First Meeting
 
-## Full script (~30 sec)
+## Full script (~45 sec)
 
 > Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >
-> Cursor is an AI code editor. The AI is built into the editor itself, so it understands your entire codebase, not just the file someone has open, and it can take on real work — writing, reviewing, and changing code across files — instead of just autocompleting a line.
+> Cursor is an AI development environment. The shift is that the AI does not just suggest code, it does the work with you.
 >
-> So the way to think about it is simple: AI that actually understands your whole codebase and does the work alongside your engineers.
+> Two things make that possible. It builds a complete understanding of your codebase, at any scale or complexity. And you use the best model for each task, whether that is OpenAI, Anthropic, Gemini, or others.
+>
+> The simplest way to picture it is an autonomy slider. The same tool can autocomplete your next line, make a targeted edit, or take an entire task and run it as an agent — in the editor, the terminal, even on your pull requests. You decide how much to hand off.
 >
 > Hopefully that gives you a solid sense of what Cursor is.
 
@@ -14,24 +16,18 @@
 
 ---
 
-## Why this framing (June 2026 · cursor.com)
+## Why this version
 
-Cursor's own product language today centers on:
-
-- **"Understands your codebase, no matter the size"** (cursor.com/product)
-- **"Equipped to do real engineering"** — edits files, runs commands, builds and fixes (cursor.com/product)
-- **"Turn ideas into code"** — delegate implementation, not just suggestions (cursor.com)
-
-Your two pillars — whole codebase + real work — match how Cursor describes itself now. No borrowed scaffold needed.
-
-**Note:** Cursor's homepage headline is now **"your coding agent"** — more agent-forward than "code editor." For a first VP conversation, "AI code editor" is still clear and accurate. If he asks "agent vs editor," you can say Cursor handles everything from inline edits to autonomous agents that build and test features.
+- Defines Cursor on its own terms — not org standardization, not competitive framing
+- Two pillars match the product: codebase understanding + model choice
+- Autonomy slider explains how to *think* about it without quoting marketing copy
+- Org pitch (standardization, guardrails, Mercury) → level-set and discovery
 
 ---
 
-## Sources (if Joe asks where this comes from)
+## Do not add to overview
 
-1. **cursor.com / cursor.com/product** — current positioning (June 2026)
-2. **Your Challenge prep materials** — four differentiators, enterprise framing
-3. **Customer pages** — Brex, OnePay, etc. (for proof later, not overview)
-
-Do not cite training cutoffs in the interview. Say you reviewed Cursor's site and customer stories as part of prep.
+- "Coding agent" homepage language quoted back at the prospect
+- Copilot / VS Code comparisons
+- Customer logos
+- Mercury signals

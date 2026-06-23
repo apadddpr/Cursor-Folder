@@ -39,15 +39,17 @@ Wait for explicit yes. Do not continue until he confirms.
 ---
 
 ## SECTION 2 · CURSOR OVERVIEW
-**~30 sec**
+**~45 sec**
 
 ### YOU SAY:
 
 > Let me give you a quick picture of what Cursor is and how I want you to think about it.
 >
-> Cursor is an AI code editor. The AI is built into the editor itself, so it understands your entire codebase, not just the file someone has open, and it can take on real work — writing, reviewing, and changing code across files — instead of just autocompleting a line.
+> Cursor is an AI development environment. The shift is that the AI does not just suggest code, it does the work with you.
 >
-> So the way to think about it is simple: AI that actually understands your whole codebase and does the work alongside your engineers.
+> Two things make that possible. It builds a complete understanding of your codebase, at any scale or complexity. And you use the best model for each task, whether that is OpenAI, Anthropic, Gemini, or others.
+>
+> The simplest way to picture it is an autonomy slider. The same tool can autocomplete your next line, make a targeted edit, or take an entire task and run it as an agent — in the editor, the terminal, even on your pull requests. You decide how much to hand off.
 >
 > Hopefully that gives you a solid sense of what Cursor is.
 
