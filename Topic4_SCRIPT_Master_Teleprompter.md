@@ -2,6 +2,8 @@
 ## Joe as Ashwin · Simulated 45-min call · ~18–22 min in take-home
 ## Read left to right, top to bottom. Every quote = say out loud.
 
+**Discovery only:** This script is your live call flow. Do not add question clusters from pivot docs or the run sheet. One optional follow-up after Pain Q2 is the only extra depth layer.
+
 ---
 
 ## BEFORE YOU START (out of character · say to Joe)
@@ -61,7 +63,7 @@ Let him respond briefly. Acknowledge. Do not pitch further.
 
 > Before I ask questions, I want to level-set on what I have already picked up, so I am not working off bad assumptions.
 >
-> I spoke with Matt on DevEx and Lev on Banking. A consistent theme came up: AI usage is active, but getting it consistent across squads is the harder problem, especially with Central adding complexity. Matt framed it from DevEx. Lev from Banking velocity and onboarding.
+> I spoke with Matt on AI Enablement and Lev on Banking. A consistent theme came up: AI usage is active, but getting it consistent across squads is the harder problem, especially with Central adding complexity. Matt framed it from enablement and DevEx. Lev from Banking velocity and onboarding.
 >
 > From your seat, does that match what you are seeing, or is it different?
 
@@ -103,6 +105,20 @@ Listen. Do not jump to solution.
 ### ⏸ PAUSE
 
 **JOT:** Pain B = _______________
+
+---
+
+### OPTIONAL FOLLOW-UP · PAIN (I) · impact widen
+**Only if Q1–2 stayed inside engineering. One question. Then move on.**
+
+### YOU SAY:
+
+> Does that stay inside engineering, or do product, GTM, or customers feel it when integration or standardization slips?
+
+### ⏸ PAUSE
+Let Ashwin name who feels it. Do not suggest sales impact or assume metrics.
+
+**JOT:** Who else feels it = _______________
 
 ---
 
@@ -152,7 +168,7 @@ Do not lead. Do not suggest tools.
 
 ### YOU SAY:
 
-> How do you measure engineering productivity today, and what would success look like in the next 90 days?
+> How do you measure that today, and what would success look like in the next 90 days?
 
 ### ⏸ PAUSE
 
@@ -208,7 +224,7 @@ Do not lead. Do not suggest tools.
 
 ### YOU SAY:
 
-> If you ran a eval or pilot, who would co-own it with you? Matt on DevEx, Lev on Banking, someone else?
+> If you ran a eval or pilot, who would co-own it with you? Matt on AI Enablement, Lev on Banking, someone else?
 
 ### ⏸ PAUSE
 
